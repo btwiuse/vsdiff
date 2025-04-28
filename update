@@ -1,87 +1,70 @@
 #!/usr/bin/env bash
 
-codigo_web(){
-  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
-  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
-  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-web-$TAG.tar.gz"
+update_vsdiff() {
+  product="$1"
+  type="$2"
+  quality="$3"
 
-  echo "codigo-web: $TAG"
+  if [[ "$product" == "codigo" ]]; then
+    TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+    if [[ "$type" == "web" ]]; then
+      DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-web-$TAG.tar.gz"
+      OUTPUT_FILE="codigo-web-$TAG.txt"
+    elif [[ "$type" == "reh" ]]; then
+      DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="codigo-reh-$TAG.txt"
+    elif [[ "$type" == "reh-web" ]]; then
+      DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-web-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="codigo-reh-web-$TAG.txt"
+    else
+      echo "Invalid type for codigo: $type"
+      return 1
+    fi
+  elif [[ "$product" == "vscode" ]]; then
+    if [[ "$type" == "web" ]]; then
+      URL="https://update.code.visualstudio.com/api/update/web-standalone/$quality/latest"
+      JSON="$(curl -sL $URL | jq .)"
+      NAME="$(jq -r .name <<< "$JSON")"
+      DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+      OUTPUT_FILE="vscode-web-$NAME.txt"
+    elif [[ "$type" == "reh" ]]; then
+      URL="https://update.code.visualstudio.com/api/update/server-linux-x64/$quality/latest"
+      JSON="$(curl -sL $URL | jq .)"
+      NAME="$(jq -r .name <<< "$JSON")"
+      DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+      OUTPUT_FILE="vscode-reh-$NAME.txt"
+    elif [[ "$type" == "reh-web" ]]; then
+      URL="https://update.code.visualstudio.com/api/update/server-linux-x64-web/$quality/latest"
+      JSON="$(curl -sL $URL | jq .)"
+      NAME="$(jq -r .name <<< "$JSON")"
+      DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+      OUTPUT_FILE="vscode-reh-web-$NAME.txt"
+    else
+      echo "Invalid type for vscode: $type"
+      return 1
+    fi
+  else
+    echo "Invalid product: $product"
+    return 1
+  fi
+
+  echo "$product-$type: $NAME"
   echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-web-$TAG.txt"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "$OUTPUT_FILE"
 }
 
-codigo_reh(){
-  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
-  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
-  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-linux-x64-$TAG.tar.gz"
+update_vsdiff "codigo" "web"
+update_vsdiff "codigo" "reh"
+update_vsdiff "codigo" "reh-web"
 
-  echo "codigo-reh: $TAG"
-  echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-reh-$TAG.txt"
-}
+update_vsdiff "vscode" "web" "stable"
+update_vsdiff "vscode" "web" "insider"
+update_vsdiff "vscode" "web" "exploration"
 
-codigo_reh_web(){
-  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
-  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
-  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-web-linux-x64-$TAG.tar.gz"
+update_vsdiff "vscode" "reh" "stable"
+update_vsdiff "vscode" "reh" "insider"
+update_vsdiff "vscode" "reh" "exploration"
 
-  echo "codigo-reh-web: $TAG"
-  echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-reh-web-$TAG.txt"
-}
-
-codigo_web
-codigo_reh
-codigo_reh_web
-
-# https://update.code.visualstudio.com/api/update/web-standalone/stable/latest
-# https://update.code.visualstudio.com/api/update/web-standalone/insider/latest
-# https://update.code.visualstudio.com/api/update/web-standalone/exploration/latest
-
-vscode_web(){
-  QUALITY="$1"
-  URL="https://update.code.visualstudio.com/api/update/web-standalone/$QUALITY/latest"
-  JSON="$(curl -sL $URL | jq .)"
-  NAME="$(jq -r .name <<< "$JSON")"
-  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-
-  echo "vscode-web: $NAME"
-  echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-web-$NAME.txt"
-}
-
-vscode_reh(){
-  QUALITY="$1"
-  URL="https://update.code.visualstudio.com/api/update/server-linux-x64/$QUALITY/latest"
-  JSON="$(curl -sL $URL | jq .)"
-  NAME="$(jq -r .name <<< "$JSON")"
-  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-
-  echo "vscode-reh: $NAME"
-  echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-reh-$NAME.txt"
-}
-
-vscode_reh_web(){
-  QUALITY="$1"
-  URL="https://update.code.visualstudio.com/api/update/server-linux-x64-web/$QUALITY/latest"
-  JSON="$(curl -sL $URL | jq .)"
-  NAME="$(jq -r .name <<< "$JSON")"
-  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-
-  echo "vscode-reh-web: $NAME"
-  echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-reh-web-$NAME.txt"
-}
-
-vscode_web stable
-vscode_web insider
-vscode_web exploration
-
-vscode_reh stable
-vscode_reh insider
-vscode_reh exploration
-
-vscode_reh_web stable
-vscode_reh_web insider
-vscode_reh_web exploration
+update_vsdiff "vscode" "reh-web" "stable"
+update_vsdiff "vscode" "reh-web" "insider"
+update_vsdiff "vscode" "reh-web" "exploration"
