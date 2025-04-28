@@ -55,6 +55,7 @@ update_vsdiff() {
     -e 's|^./||g' \
     -e 's|^vscode-web/||g' \
     -e 's|^vscode-server-linux-x64-web/||g' \
+    -e 's|^vscode-server-linux-x64/||g' \
     | env LC_ALL=C sort > "$OUTPUT_FILE"
 }
 
