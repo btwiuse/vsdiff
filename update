@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+codigo_web(){
+  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
+  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-web-$TAG.tar.gz"
+
+  echo "codigo-web: $TAG"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-web-$TAG.txt"
+}
+
+codigo_web
+
+# https://update.code.visualstudio.com/api/update/web-standalone/stable/latest
+# https://update.code.visualstudio.com/api/update/web-standalone/insider/latest
+# https://update.code.visualstudio.com/api/update/web-standalone/exploration/latest
+
+vscode_web(){
+  QUALITY="$1"
+  URL="https://update.code.visualstudio.com/api/update/web-standalone/$QUALITY/latest"
+  JSON="$(curl -sL $URL | jq .)"
+  NAME="$(jq -r .name <<< "$JSON")"
+  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+
+  echo "vscode-web: $NAME"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-web-$NAME.txt"
+}
+
+vscode_web stable
+vscode_web insider
+vscode_web exploration
