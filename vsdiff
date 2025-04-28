@@ -43,6 +43,21 @@ update_vsdiff() {
       echo "Invalid type for vscode: $type"
       return 1
     fi
+  elif [[ "$product" == "vscodium" ]]; then
+    TAG="$(curl -sI https://github.com/VSCodium/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+    if [[ "$type" == "web" ]]; then
+      DOWNLOAD_URL="https://github.com/VSCodium/vscodium/releases/download/$TAG/VSCodium-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="vscodium_web_$TAG.txt"
+    elif [[ "$type" == "reh" ]]; then
+      DOWNLOAD_URL="https://github.com/VSCodium/vscodium/releases/download/$TAG/VSCodium-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="vscodium_reh_$TAG.txt"
+    elif [[ "$type" == "reh-web" ]]; then
+      DOWNLOAD_URL="https://github.com/VSCodium/vscodium/releases/download/$TAG/VSCodium-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="vscodium_reh-web_$TAG.txt"
+    else
+      echo "Invalid type for vscodium: $type"
+      return 1
+    fi
   else
     echo "Invalid product: $product"
     return 1
