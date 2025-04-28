@@ -8,7 +8,6 @@
 
 | File                                                                                   | codigo_web_1.100.0.25118.txt | vscode_web_1.100.0-exploration.txt | vscode_web_1.100.0-insider.txt | vscode_web_1.99.3.txt |
 | -------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ------------------------------ | --------------------- |
-| LICENSE                                                                                |                              | Y                                  | Y                              | Y                     |
 | code-192-dark.png                                                                      | Y                            |                                    |                                |                       |
 | code-192-light.png                                                                     | Y                            |                                    |                                |                       |
 | code-512-dark.png                                                                      | Y                            |                                    |                                |                       |
@@ -37,7 +36,6 @@
 
 | File                                                       | codigo_reh_1.100.0.25118.txt | vscode_reh_1.100.0-exploration.txt | vscode_reh_1.100.0-insider.txt | vscode_reh_1.99.3.txt |
 | ---------------------------------------------------------- | ---------------------------- | ---------------------------------- | ------------------------------ | --------------------- |
-| LICENSE                                                    |                              | Y                                  | Y                              | Y                     |
 | bin/code-server                                            |                              |                                    |                                | Y                     |
 | bin/code-server-exploration                                |                              | Y                                  |                                |                       |
 | bin/code-server-insiders                                   |                              |                                    | Y                              |                       |
@@ -87,7 +85,6 @@
 
 | File                                                                                   | codigo_reh-web_1.100.0.25118.txt | vscode_reh-web_1.100.0-exploration.txt | vscode_reh-web_1.100.0-insider.txt | vscode_reh-web_1.99.3.txt |
 | -------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | ---------------------------------- | ------------------------- |
-| LICENSE                                                                                |                                  | Y                                      | Y                                  | Y                         |
 | bin/code-server                                                                        |                                  |                                        |                                    | Y                         |
 | bin/code-server-exploration                                                            |                                  | Y                                      |                                    |                           |
 | bin/code-server-insiders                                                               |                                  |                                        | Y                                  |                           |

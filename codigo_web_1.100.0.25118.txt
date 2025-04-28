@@ -1,3 +1,4 @@
+LICENSE
 code-192-dark.png
 code-192-light.png
 code-192.png

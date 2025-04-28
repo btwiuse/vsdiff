@@ -1,3 +1,4 @@
+LICENSE
 bin/code-server-oss
 bin/helpers/browser.sh
 bin/helpers/check-requirements.sh
