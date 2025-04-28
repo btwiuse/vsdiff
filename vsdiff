@@ -9,13 +9,13 @@ update_vsdiff() {
     TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
     if [[ "$type" == "web" ]]; then
       DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-web-$TAG.tar.gz"
-      OUTPUT_FILE="codigo-web-$TAG.txt"
+      OUTPUT_FILE="codigo_web_$TAG.txt"
     elif [[ "$type" == "reh" ]]; then
       DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-linux-x64-$TAG.tar.gz"
-      OUTPUT_FILE="codigo-reh-$TAG.txt"
+      OUTPUT_FILE="codigo_reh_$TAG.txt"
     elif [[ "$type" == "reh-web" ]]; then
       DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-web-linux-x64-$TAG.tar.gz"
-      OUTPUT_FILE="codigo-reh-web-$TAG.txt"
+      OUTPUT_FILE="codigo_reh-web_$TAG.txt"
     else
       echo "Invalid type for codigo: $type"
       return 1
@@ -26,19 +26,19 @@ update_vsdiff() {
       JSON="$(curl -sL $URL | jq .)"
       NAME="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode-web-$NAME.txt"
+      OUTPUT_FILE="vscode_web_$NAME.txt"
     elif [[ "$type" == "reh" ]]; then
       URL="https://update.code.visualstudio.com/api/update/server-linux-x64/$quality/latest"
       JSON="$(curl -sL $URL | jq .)"
       NAME="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode-reh-$NAME.txt"
+      OUTPUT_FILE="vscode_reh_$NAME.txt"
     elif [[ "$type" == "reh-web" ]]; then
       URL="https://update.code.visualstudio.com/api/update/server-linux-x64-web/$quality/latest"
       JSON="$(curl -sL $URL | jq .)"
       NAME="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode-reh-web-$NAME.txt"
+      OUTPUT_FILE="vscode_reh-web_$NAME.txt"
     else
       echo "Invalid type for vscode: $type"
       return 1
@@ -58,18 +58,4 @@ update_vsdiff() {
     | env LC_ALL=C sort > "$OUTPUT_FILE"
 }
 
-update_vsdiff "codigo" "web"
-update_vsdiff "codigo" "reh"
-update_vsdiff "codigo" "reh-web"
-
-update_vsdiff "vscode" "web" "stable"
-update_vsdiff "vscode" "web" "insider"
-update_vsdiff "vscode" "web" "exploration"
-
-update_vsdiff "vscode" "reh" "stable"
-update_vsdiff "vscode" "reh" "insider"
-update_vsdiff "vscode" "reh" "exploration"
-
-update_vsdiff "vscode" "reh-web" "stable"
-update_vsdiff "vscode" "reh-web" "insider"
-update_vsdiff "vscode" "reh-web" "exploration"
+update_vsdiff "$@"
