@@ -31,7 +31,7 @@ jobs:
 
     - name: Commit changes
       run: |
-        git commit -am 'Update vsdiff files'
+        git commit -am 'Update vsdiff files' || true
 
     - name: Push changes
       run: |
