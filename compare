@@ -1,0 +1,59 @@
+#!/usr/bin/env bash
+
+# Check if at least one argument is provided
+if [ "$#" -lt 1 ]; then
+  echo "Usage: $0 <file1.txt> <file2.txt> ..."
+  exit 1
+fi
+
+# Create an associative array to store file presence
+declare -A file_presence
+
+# Read each file and update the file presence array
+for file in "$@"; do
+  while IFS= read -r line; do
+    file_presence["$line"]+="${file} "
+  done < "$file"
+done
+
+# Get the list of all unique files
+unique_files=("${!file_presence[@]}")
+
+# Sort the unique files
+IFS=$'\n' sorted_unique_files=($(sort <<<"${unique_files[*]}"))
+unset IFS
+
+# Print the header row
+echo -n "File"
+for file in "$@"; do
+  echo -n ",$file"
+done
+echo
+
+# Print the file presence for each unique file
+for file in "${sorted_unique_files[@]}"; do
+  # Check if the file is present in all compared files
+  present_in_all=true
+  for txt_file in "$@"; do
+    if [[ ! "${file_presence[$file]}" =~ "$txt_file" ]]; then
+      present_in_all=false
+      break
+    fi
+  done
+
+  # Exclude files present in all compared files
+  if [ "$present_in_all" = true ]; then
+    continue
+  fi
+
+  # Print the file and its presence in each compared file
+  echo -n "$file"
+  for txt_file in "$@"; do
+    if [[ "${file_presence[$file]}" =~ "$txt_file" ]]; then
+      echo -n ",Y"
+    else
+      echo -n ","
+    fi
+  done
+  echo
+done
