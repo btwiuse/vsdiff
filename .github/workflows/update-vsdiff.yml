@@ -20,6 +20,7 @@ jobs:
       with:
         fetch-depth: 0
         ref: main
+        persist-credentials: true
 
     - name: Config git user
       run: |
@@ -35,4 +36,4 @@ jobs:
 
     - name: Push changes
       run: |
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
+        git push
