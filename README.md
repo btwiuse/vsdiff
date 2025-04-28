@@ -1,1 +1,149 @@
 # vsdiff
+
+- [web](#web)
+- [reh](#reh)
+- [reh-web](#reh-web)
+
+## web
+
+| File                                                                                   | codigo_web_1.100.0.25118.txt | vscode_web_1.100.0-exploration.txt | vscode_web_1.100.0-insider.txt | vscode_web_1.99.3.txt |
+| -------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ------------------------------ | --------------------- |
+| LICENSE                                                                                |                              | Y                                  | Y                              | Y                     |
+| code-192-dark.png                                                                      | Y                            |                                    |                                |                       |
+| code-192-light.png                                                                     | Y                            |                                    |                                |                       |
+| code-512-dark.png                                                                      | Y                            |                                    |                                |                       |
+| code-512-light.png                                                                     | Y                            |                                    |                                |                       |
+| extensions/prompt-basics/language-configuration.json                                   | Y                            | Y                                  | Y                              |                       |
+| extensions/prompt-basics/package.json                                                  | Y                            | Y                                  | Y                              |                       |
+| extensions/prompt-basics/package.nls.json                                              | Y                            | Y                                  | Y                              |                       |
+| extensions/prompt-basics/snippets/instructions.code-snippets                           | Y                            | Y                                  | Y                              |                       |
+| extensions/prompt-basics/snippets/prompt.code-snippets                                 | Y                            | Y                                  | Y                              |                       |
+| extensions/prompt-basics/syntaxes/prompt.tmLanguage.json                               | Y                            | Y                                  | Y                              |                       |
+| extensions/theme-defaults/themes/dark-colorblind.json                                  | Y                            |                                    |                                |                       |
+| extensions/theme-defaults/themes/light-colorblind.json                                 | Y                            |                                    |                                |                       |
+| node_modules/vscode-regexp-languagedetection/dist/index.js                             |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/package.json                                                |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda.d.ts                                                   |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda.js                                                     |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda_bg.wasm                                                |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                           |                              | Y                                  | Y                              | Y                     |
+| out/vs/platform/accessibilitySignal/browser/media/nextEditSuggestion.mp3               | Y                            | Y                                  | Y                              |                       |
+| out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3         | Y                            | Y                                  | Y                              |                       |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg | Y                            |                                    | Y                              |                       |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png        | Y                            |                                    |                                |                       |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png       | Y                            |                                    |                                |                       |
+| out/vs/workbench/workbench.web.main.internal.css.map                                   | Y                            |                                    |                                |                       |
+## reh
+
+| File                                                       | codigo_reh_1.100.0.25118.txt | vscode_reh_1.100.0-exploration.txt | vscode_reh_1.100.0-insider.txt | vscode_reh_1.99.3.txt |
+| ---------------------------------------------------------- | ---------------------------- | ---------------------------------- | ------------------------------ | --------------------- |
+| LICENSE                                                    |                              | Y                                  | Y                              | Y                     |
+| bin/code-server                                            |                              |                                    |                                | Y                     |
+| bin/code-server-exploration                                |                              | Y                                  |                                |                       |
+| bin/code-server-insiders                                   |                              |                                    | Y                              |                       |
+| bin/code-server-oss                                        | Y                            |                                    |                                |                       |
+| bin/remote-cli/code                                        |                              |                                    |                                | Y                     |
+| bin/remote-cli/code-exploration                            |                              | Y                                  |                                |                       |
+| bin/remote-cli/code-insiders                               |                              |                                    | Y                              |                       |
+| bin/remote-cli/code-oss                                    | Y                            |                                    |                                |                       |
+| extensions/terminal-suggest/cgmanifest.json                |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/LICENSE                |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/dist/index.cjs         |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/dist/index.cjs.map     |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/dist/index.d.cts       |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/dist/index.js          |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/dist/index.umd.js      |                              |                                    |                                | Y                     |
+| node_modules/@c4312/eventsource-umd/package.json           |                              |                                    |                                | Y                     |
+| node_modules/@vscode/vsce-sign/bin/vsce-sign               |                              | Y                                  | Y                              | Y                     |
+| node_modules/@vscode/vsce-sign/package.json                |                              | Y                                  | Y                              | Y                     |
+| node_modules/@vscode/vsce-sign/src/main.d.ts               |                              | Y                                  | Y                              | Y                     |
+| node_modules/@vscode/vsce-sign/src/main.js                 |                              | Y                                  | Y                              | Y                     |
+| node_modules/eventsource-parser/LICENSE                    |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/index.cjs             |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/index.cjs.map         |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/index.d.cts           |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/index.esm.js          |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/index.js              |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stats.html            |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stream.cjs            |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stream.cjs.map        |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stream.d.cts          |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stream.esm.js         |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/dist/stream.js             |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/package.json               |                              |                                    |                                | Y                     |
+| node_modules/eventsource-parser/stream.js                  |                              |                                    |                                | Y                     |
+| node_modules/vscode-regexp-languagedetection/dist/index.js |                              | Y                                  | Y                              | Y                     |
+| node_modules/vscode-regexp-languagedetection/package.json  |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/build/Release/vsda.node                  |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/index.d.ts                               |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/index.js                                 |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/package.json                             |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/package.json                    |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda.d.ts                       |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda.js                         |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda_bg.wasm                    |                              | Y                                  | Y                              | Y                     |
+| node_modules/vsda/rust/web/vsda_bg.wasm.d.ts               |                              | Y                                  | Y                              | Y                     |
+## reh-web
+
+| File                                                                                   | codigo_reh-web_1.100.0.25118.txt | vscode_reh-web_1.100.0-exploration.txt | vscode_reh-web_1.100.0-insider.txt | vscode_reh-web_1.99.3.txt |
+| -------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | ---------------------------------- | ------------------------- |
+| LICENSE                                                                                |                                  | Y                                      | Y                                  | Y                         |
+| bin/code-server                                                                        |                                  |                                        |                                    | Y                         |
+| bin/code-server-exploration                                                            |                                  | Y                                      |                                    |                           |
+| bin/code-server-insiders                                                               |                                  |                                        | Y                                  |                           |
+| bin/code-server-oss                                                                    | Y                                |                                        |                                    |                           |
+| bin/remote-cli/code                                                                    |                                  |                                        |                                    | Y                         |
+| bin/remote-cli/code-exploration                                                        |                                  | Y                                      |                                    |                           |
+| bin/remote-cli/code-insiders                                                           |                                  |                                        | Y                                  |                           |
+| bin/remote-cli/code-oss                                                                | Y                                |                                        |                                    |                           |
+| extensions/prompt-basics/language-configuration.json                                   | Y                                | Y                                      | Y                                  |                           |
+| extensions/prompt-basics/package.json                                                  | Y                                | Y                                      | Y                                  |                           |
+| extensions/prompt-basics/package.nls.json                                              | Y                                | Y                                      | Y                                  |                           |
+| extensions/prompt-basics/snippets/instructions.code-snippets                           | Y                                | Y                                      | Y                                  |                           |
+| extensions/prompt-basics/snippets/prompt.code-snippets                                 | Y                                | Y                                      | Y                                  |                           |
+| extensions/prompt-basics/syntaxes/prompt.tmLanguage.json                               | Y                                | Y                                      | Y                                  |                           |
+| extensions/terminal-suggest/cgmanifest.json                                            |                                  |                                        |                                    | Y                         |
+| extensions/theme-defaults/themes/dark-colorblind.json                                  | Y                                |                                        |                                    |                           |
+| extensions/theme-defaults/themes/light-colorblind.json                                 | Y                                |                                        |                                    |                           |
+| node_modules/@c4312/eventsource-umd/LICENSE                                            |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/dist/index.cjs                                     |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/dist/index.cjs.map                                 |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/dist/index.d.cts                                   |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/dist/index.js                                      |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/dist/index.umd.js                                  |                                  |                                        |                                    | Y                         |
+| node_modules/@c4312/eventsource-umd/package.json                                       |                                  |                                        |                                    | Y                         |
+| node_modules/@vscode/vsce-sign/bin/vsce-sign                                           |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/@vscode/vsce-sign/package.json                                            |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/@vscode/vsce-sign/src/main.d.ts                                           |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/@vscode/vsce-sign/src/main.js                                             |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/eventsource-parser/LICENSE                                                |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/index.cjs                                         |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/index.cjs.map                                     |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/index.d.cts                                       |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/index.esm.js                                      |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/index.js                                          |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stats.html                                        |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stream.cjs                                        |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stream.cjs.map                                    |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stream.d.cts                                      |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stream.esm.js                                     |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/dist/stream.js                                         |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/package.json                                           |                                  |                                        |                                    | Y                         |
+| node_modules/eventsource-parser/stream.js                                              |                                  |                                        |                                    | Y                         |
+| node_modules/vscode-regexp-languagedetection/dist/index.js                             |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vscode-regexp-languagedetection/package.json                              |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/build/Release/vsda.node                                              |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/index.d.ts                                                           |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/index.js                                                             |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/package.json                                                         |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/rust/web/package.json                                                |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/rust/web/vsda.d.ts                                                   |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/rust/web/vsda.js                                                     |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/rust/web/vsda_bg.wasm                                                |                                  | Y                                      | Y                                  | Y                         |
+| node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                           |                                  | Y                                      | Y                                  | Y                         |
+| out/vs/code/browser/workbench/workbench.css.map                                        | Y                                |                                        |                                    |                           |
+| out/vs/platform/accessibilitySignal/browser/media/nextEditSuggestion.mp3               | Y                                | Y                                      | Y                                  |                           |
+| out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3         | Y                                | Y                                      | Y                                  |                           |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg | Y                                |                                        | Y                                  |                           |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png        | Y                                |                                        |                                    |                           |
+| out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png       | Y                                |                                        |                                    |                           |
