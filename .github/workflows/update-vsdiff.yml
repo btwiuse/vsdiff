@@ -15,6 +15,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Install the latest version of uv
+      uses: astral-sh/setup-uv@v6
+      with:
+        version: "latest"
+
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
@@ -27,7 +32,7 @@ jobs:
         git config user.email 'github-actions[bot]@users.noreply.github.com'
 
     - name: Run update script
-      run: make clean && make
+      run: make clean && make && make readme
 
     - name: Commit changes
       run: |

@@ -17,3 +17,23 @@ all:
 
 clean:
 	rm *.txt *.csv || true
+
+readme:
+	echo '# vsdiff' > README.md
+	echo >> README.md
+	echo '- [web](#web)' >> README.md
+	echo '- [reh](#reh)' >> README.md
+	echo '- [reh-web](#reh-web)' >> README.md
+	echo >> README.md
+
+	echo '## web' >> README.md
+	echo >> README.md
+	uvx csv2md web.diff.csv >> README.md
+
+	echo '## reh' >> README.md
+	echo >> README.md
+	uvx csv2md reh.diff.csv >> README.md
+
+	echo '## reh-web' >> README.md
+	echo >> README.md
+	uvx csv2md reh-web.diff.csv >> README.md
