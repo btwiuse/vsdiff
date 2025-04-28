@@ -16,4 +16,4 @@ all:
 	./compare *_reh-web_* > reh-web.diff.csv
 
 clean:
-	rm *.txt *.csv
+	rm *.txt *.csv || true
