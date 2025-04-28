@@ -50,7 +50,7 @@ update_vsdiff() {
 
   echo "$product-$type: $NAME"
   echo "$DOWNLOAD_URL"
-  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort > "$OUTPUT_FILE"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | env LC_ALL=C sort > "$OUTPUT_FILE"
 }
 
 update_vsdiff "codigo" "web"
