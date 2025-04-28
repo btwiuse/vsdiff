@@ -1,0 +1,31 @@
+name: Update vsdiff
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-vsdiff:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Config git user
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Run update script
+      run: ./vsdiff
+
+    - name: Commit changes
+      run: |
+        git commit -am 'Update vsdiff files'
+
+    - name: Push changes
+      run: |
+        git push
