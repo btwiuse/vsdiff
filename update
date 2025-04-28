@@ -10,7 +10,29 @@ codigo_web(){
   curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-web-$TAG.txt"
 }
 
+codigo_reh(){
+  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
+  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-linux-x64-$TAG.tar.gz"
+
+  echo "codigo-reh: $TAG"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-reh-$TAG.txt"
+}
+
+codigo_reh_web(){
+  # VERSION="1.100.0.$(env TZ=Asia/Taipei date +%y%j)"
+  TAG="$(curl -sI https://github.com/btwiuse/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+  DOWNLOAD_URL="https://github.com/btwiuse/vscodium/releases/download/$TAG/vscodium-reh-web-linux-x64-$TAG.tar.gz"
+
+  echo "codigo-reh-web: $TAG"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^./||g' | sort -h > "codigo-reh-web-$TAG.txt"
+}
+
 codigo_web
+codigo_reh
+codigo_reh_web
 
 # https://update.code.visualstudio.com/api/update/web-standalone/stable/latest
 # https://update.code.visualstudio.com/api/update/web-standalone/insider/latest
@@ -28,6 +50,38 @@ vscode_web(){
   curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-web-$NAME.txt"
 }
 
+vscode_reh(){
+  QUALITY="$1"
+  URL="https://update.code.visualstudio.com/api/update/server-linux-x64/$QUALITY/latest"
+  JSON="$(curl -sL $URL | jq .)"
+  NAME="$(jq -r .name <<< "$JSON")"
+  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+
+  echo "vscode-reh: $NAME"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-reh-$NAME.txt"
+}
+
+vscode_reh_web(){
+  QUALITY="$1"
+  URL="https://update.code.visualstudio.com/api/update/server-linux-x64-web/$QUALITY/latest"
+  JSON="$(curl -sL $URL | jq .)"
+  NAME="$(jq -r .name <<< "$JSON")"
+  DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
+
+  echo "vscode-reh-web: $NAME"
+  echo "$DOWNLOAD_URL"
+  curl -#L "$DOWNLOAD_URL" | tar tz | sed -e 's|^vscode-web/||g' | sort -h > "vscode-reh-web-$NAME.txt"
+}
+
 vscode_web stable
 vscode_web insider
 vscode_web exploration
+
+vscode_reh stable
+vscode_reh insider
+vscode_reh exploration
+
+vscode_reh_web stable
+vscode_reh_web insider
+vscode_reh_web exploration
