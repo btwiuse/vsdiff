@@ -11,7 +11,6 @@ all:
 	./vsdiff "vscode" "reh-web" "stable"
 	./vsdiff "vscode" "reh-web" "insider"
 	./vsdiff "vscode" "reh-web" "exploration"
-	./vsdiff "vscodium" "web"
 	./vsdiff "vscodium" "reh"
 	./vsdiff "vscodium" "reh-web"
 	./compare *_reh_* > reh.diff.csv
