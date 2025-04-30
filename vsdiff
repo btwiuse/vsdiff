@@ -24,23 +24,35 @@ update_vsdiff() {
     if [[ "$type" == "web" ]]; then
       URL="https://update.code.visualstudio.com/api/update/web-standalone/$quality/latest"
       JSON="$(curl -sL $URL | jq .)"
-      NAME="$(jq -r .name <<< "$JSON")"
+      TAG="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode_web_$NAME.txt"
+      OUTPUT_FILE="vscode_web_$TAG.txt"
     elif [[ "$type" == "reh" ]]; then
       URL="https://update.code.visualstudio.com/api/update/server-linux-x64/$quality/latest"
       JSON="$(curl -sL $URL | jq .)"
-      NAME="$(jq -r .name <<< "$JSON")"
+      TAG="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode_reh_$NAME.txt"
+      OUTPUT_FILE="vscode_reh_$TAG.txt"
     elif [[ "$type" == "reh-web" ]]; then
       URL="https://update.code.visualstudio.com/api/update/server-linux-x64-web/$quality/latest"
       JSON="$(curl -sL $URL | jq .)"
-      NAME="$(jq -r .name <<< "$JSON")"
+      TAG="$(jq -r .name <<< "$JSON")"
       DOWNLOAD_URL="$(jq -r .url <<< "$JSON")"
-      OUTPUT_FILE="vscode_reh-web_$NAME.txt"
+      OUTPUT_FILE="vscode_reh-web_$TAG.txt"
     else
       echo "Invalid type for vscode: $type"
+      return 1
+    fi
+  elif [[ "$product" == "vscodium" ]]; then
+    TAG="$(curl -sI https://github.com/VSCodium/vscodium/releases/latest | grep location: | rev | cut -d / -f 1 | rev | tr -d '[:space:]')"
+    if [[ "$type" == "reh" ]]; then
+      DOWNLOAD_URL="https://github.com/VSCodium/vscodium/releases/download/$TAG/vscodium-reh-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="vscodium_reh_$TAG.txt"
+    elif [[ "$type" == "reh-web" ]]; then
+      DOWNLOAD_URL="https://github.com/VSCodium/vscodium/releases/download/$TAG/vscodium-reh-web-linux-x64-$TAG.tar.gz"
+      OUTPUT_FILE="vscodium_reh-web_$TAG.txt"
+    else
+      echo "Invalid type for vscodium: $type"
       return 1
     fi
   else
@@ -48,7 +60,7 @@ update_vsdiff() {
     return 1
   fi
 
-  echo "$product-$type: $NAME"
+  echo "$product-$type: $TAG"
   echo "$DOWNLOAD_URL"
   curl -#L "$DOWNLOAD_URL" | tar tz | sed \
     -e '/\/$/d' \
