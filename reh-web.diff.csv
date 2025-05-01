@@ -10,10 +10,10 @@ bin/remote-cli/code-exploration,,Y,,,
 bin/remote-cli/code-insiders,,,Y,,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
-extensions/ms-vscode.js-debug/src/w32appcontainertokens-LVKSWXR7.node,,Y,Y,Y,Y
-extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,,,,
-extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,,,,
-extensions/ms-vscode.js-debug/telemetry.json,Y,,,,
+extensions/ms-vscode.js-debug/src/w32appcontainertokens-LVKSWXR7.node,,Y,,Y,Y
+extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,,Y,,
+extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,,Y,,
+extensions/ms-vscode.js-debug/telemetry.json,Y,,Y,,
 extensions/prompt-basics/language-configuration.json,Y,Y,Y,,
 extensions/prompt-basics/package.json,Y,Y,Y,,
 extensions/prompt-basics/package.nls.json,Y,Y,Y,,
