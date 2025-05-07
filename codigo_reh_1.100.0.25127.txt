@@ -92,8 +92,12 @@ extensions/github-authentication/media/index.html
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/github/README.md
+extensions/github/dist/430.js
+extensions/github/dist/555.js
+extensions/github/dist/698.js
 extensions/github/dist/extension.js
 extensions/github/dist/extension.js.LICENSE.txt
+extensions/github/extension.webpack.config.cjs
 extensions/github/images/icon.png
 extensions/github/markdown.css
 extensions/github/package.json
