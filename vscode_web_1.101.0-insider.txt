@@ -315,6 +315,12 @@ extensions/powershell/language-configuration.json
 extensions/powershell/package.json
 extensions/powershell/package.nls.json
 extensions/powershell/syntaxes/powershell.tmLanguage.json
+extensions/prompt-basics/language-configuration.json
+extensions/prompt-basics/package.json
+extensions/prompt-basics/package.nls.json
+extensions/prompt-basics/snippets/instructions.code-snippets
+extensions/prompt-basics/snippets/prompt.code-snippets
+extensions/prompt-basics/syntaxes/prompt.tmLanguage.json
 extensions/pug/language-configuration.json
 extensions/pug/package.json
 extensions/pug/package.nls.json
@@ -827,6 +833,7 @@ out/vs/platform/accessibilitySignal/browser/media/editsUndone.mp3
 out/vs/platform/accessibilitySignal/browser/media/error.mp3
 out/vs/platform/accessibilitySignal/browser/media/foldedAreas.mp3
 out/vs/platform/accessibilitySignal/browser/media/format.mp3
+out/vs/platform/accessibilitySignal/browser/media/nextEditSuggestion.mp3
 out/vs/platform/accessibilitySignal/browser/media/progress.mp3
 out/vs/platform/accessibilitySignal/browser/media/quickFixes.mp3
 out/vs/platform/accessibilitySignal/browser/media/requestSent.mp3
@@ -839,6 +846,7 @@ out/vs/platform/accessibilitySignal/browser/media/success.mp3
 out/vs/platform/accessibilitySignal/browser/media/taskCompleted.mp3
 out/vs/platform/accessibilitySignal/browser/media/taskFailed.mp3
 out/vs/platform/accessibilitySignal/browser/media/terminalBell.mp3
+out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
@@ -851,7 +859,9 @@ out/vs/workbench/contrib/webview/browser/pre/fake.html
 out/vs/workbench/contrib/webview/browser/pre/index-no-csp.html
 out/vs/workbench/contrib/webview/browser/pre/index.html
 out/vs/workbench/contrib/webview/browser/pre/service-worker.js
+out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/commandPalette.svg
+out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/debug.svg
