@@ -861,6 +861,7 @@ out/vs/workbench/contrib/webview/browser/pre/index.html
 out/vs/workbench/contrib/webview/browser/pre/service-worker.js
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/commandPalette.svg
+out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/debug.svg
