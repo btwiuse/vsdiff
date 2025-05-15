@@ -6,7 +6,7 @@
 
 ## web
 
-| File                                                                             | codigo_web_1.100.0.25135.txt | vscode_web_1.100.1.txt | vscode_web_1.101.0-exploration.txt | vscode_web_1.101.0-insider.txt |
+| File                                                                             | codigo_web_1.100.0.25135.txt | vscode_web_1.100.2.txt | vscode_web_1.101.0-exploration.txt | vscode_web_1.101.0-insider.txt |
 | -------------------------------------------------------------------------------- | ---------------------------- | ---------------------- | ---------------------------------- | ------------------------------ |
 | code-192-dark.png                                                                | Y                            |                        |                                    |                                |
 | code-192-light.png                                                               | Y                            |                        |                                    |                                |
@@ -26,7 +26,7 @@
 | out/vs/workbench/workbench.web.main.internal.css.map                             | Y                            |                        |                                    |                                |
 ## reh
 
-| File                                                       | codigo_reh_1.100.0.25135.txt | vscode_reh_1.100.1.txt | vscode_reh_1.101.0-exploration.txt | vscode_reh_1.101.0-insider.txt | vscodium_reh_1.100.13210.txt |
+| File                                                       | codigo_reh_1.100.0.25135.txt | vscode_reh_1.100.2.txt | vscode_reh_1.101.0-exploration.txt | vscode_reh_1.101.0-insider.txt | vscodium_reh_1.100.13210.txt |
 | ---------------------------------------------------------- | ---------------------------- | ---------------------- | ---------------------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                    | Y                            | Y                      | Y                                  | Y                              |                              |
 | bin/code-server                                            |                              | Y                      |                                    |                                |                              |
@@ -71,7 +71,7 @@
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts               |                              | Y                      | Y                                  | Y                              |                              |
 ## reh-web
 
-| File                                                                             | codigo_reh-web_1.100.0.25135.txt | vscode_reh-web_1.100.1.txt | vscode_reh-web_1.101.0-exploration.txt | vscode_reh-web_1.101.0-insider.txt | vscodium_reh-web_1.100.13210.txt |
+| File                                                                             | codigo_reh-web_1.100.0.25135.txt | vscode_reh-web_1.100.2.txt | vscode_reh-web_1.101.0-exploration.txt | vscode_reh-web_1.101.0-insider.txt | vscodium_reh-web_1.100.13210.txt |
 | -------------------------------------------------------------------------------- | -------------------------------- | -------------------------- | -------------------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                          | Y                                | Y                          | Y                                      | Y                                  |                                  |
 | bin/code-server                                                                  |                                  | Y                          |                                        |                                    |                                  |
