@@ -1861,6 +1861,7 @@ out/vs/editor/common/languages/injections/typescript.scm
 out/vs/editor/common/services/editorWebWorkerMain.js
 out/vs/platform/accessibilitySignal/browser/media/break.mp3
 out/vs/platform/accessibilitySignal/browser/media/chatEditModifiedFile.mp3
+out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3
 out/vs/platform/accessibilitySignal/browser/media/clear.mp3
 out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3
 out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3
