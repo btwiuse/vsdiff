@@ -1906,7 +1906,6 @@ out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-rc.zsh
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.fish
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1
 out/vs/workbench/contrib/webview/browser/pre/fake.html
-out/vs/workbench/contrib/webview/browser/pre/index-no-csp.html
 out/vs/workbench/contrib/webview/browser/pre/index.html
 out/vs/workbench/contrib/webview/browser/pre/service-worker.js
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
