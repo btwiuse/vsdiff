@@ -1875,6 +1875,8 @@ out/vs/platform/accessibilitySignal/browser/media/break.mp3
 out/vs/platform/accessibilitySignal/browser/media/chatEditModifiedFile.mp3
 out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3
 out/vs/platform/accessibilitySignal/browser/media/clear.mp3
+out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3
+out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3
 out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3
 out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3
 out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3
@@ -1918,7 +1920,6 @@ out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-rc.zsh
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.fish
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1
 out/vs/workbench/contrib/webview/browser/pre/fake.html
-out/vs/workbench/contrib/webview/browser/pre/index-no-csp.html
 out/vs/workbench/contrib/webview/browser/pre/index.html
 out/vs/workbench/contrib/webview/browser/pre/service-worker.js
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
