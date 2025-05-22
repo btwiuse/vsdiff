@@ -3,6 +3,7 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
+extensions/prompt-basics/snippets/chatmode.code-snippets,Y,,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
