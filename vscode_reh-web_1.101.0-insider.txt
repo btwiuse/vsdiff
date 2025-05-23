@@ -622,6 +622,7 @@ extensions/powershell/syntaxes/powershell.tmLanguage.json
 extensions/prompt-basics/language-configuration.json
 extensions/prompt-basics/package.json
 extensions/prompt-basics/package.nls.json
+extensions/prompt-basics/snippets/chatmode.code-snippets
 extensions/prompt-basics/snippets/instructions.code-snippets
 extensions/prompt-basics/snippets/prompt.code-snippets
 extensions/prompt-basics/syntaxes/prompt.tmLanguage.json
