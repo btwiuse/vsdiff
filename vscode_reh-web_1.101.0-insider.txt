@@ -1655,8 +1655,8 @@ node_modules/undici/lib/dispatcher/dispatcher-base.js
 node_modules/undici/lib/dispatcher/dispatcher.js
 node_modules/undici/lib/dispatcher/env-http-proxy-agent.js
 node_modules/undici/lib/dispatcher/fixed-queue.js
+node_modules/undici/lib/dispatcher/h2c-client.js
 node_modules/undici/lib/dispatcher/pool-base.js
-node_modules/undici/lib/dispatcher/pool-stats.js
 node_modules/undici/lib/dispatcher/pool.js
 node_modules/undici/lib/dispatcher/proxy-agent.js
 node_modules/undici/lib/dispatcher/retry-agent.js
@@ -1679,6 +1679,7 @@ node_modules/undici/lib/llhttp/llhttp-wasm.js
 node_modules/undici/lib/llhttp/llhttp_simd-wasm.js
 node_modules/undici/lib/llhttp/utils.js
 node_modules/undici/lib/mock/mock-agent.js
+node_modules/undici/lib/mock/mock-call-history.js
 node_modules/undici/lib/mock/mock-client.js
 node_modules/undici/lib/mock/mock-errors.js
 node_modules/undici/lib/mock/mock-interceptor.js
@@ -1688,6 +1689,7 @@ node_modules/undici/lib/mock/mock-utils.js
 node_modules/undici/lib/mock/pending-interceptors-formatter.js
 node_modules/undici/lib/util/cache.js
 node_modules/undici/lib/util/date.js
+node_modules/undici/lib/util/stats.js
 node_modules/undici/lib/util/timers.js
 node_modules/undici/lib/web/cache/cache.js
 node_modules/undici/lib/web/cache/cachestorage.js
