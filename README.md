@@ -28,6 +28,7 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg     | Y                            |                        | Y                                  | Y                              |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png  | Y                            |                        |                                    |                                |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                            |                        |                                    |                                |
+| out/vs/workbench/services/extensionManagement/common/media/defaultIcon.png       |                              | Y                      | Y                                  | Y                              |
 | out/vs/workbench/workbench.web.main.internal.css.map                             | Y                            |                        |                                    |                                |
 ## reh
 
@@ -138,3 +139,4 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg     | Y                                |                            | Y                                      | Y                                  |                                  |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png  | Y                                |                            |                                        |                                    |                                  |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                                |                            |                                        |                                    |                                  |
+| out/vs/workbench/services/extensionManagement/common/media/defaultIcon.png       |                                  | Y                          | Y                                      | Y                                  | Y                                |
