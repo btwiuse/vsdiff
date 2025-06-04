@@ -857,8 +857,6 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
-out/vs/workbench/contrib/chat/browser/media/github.svg
-out/vs/workbench/contrib/chat/browser/media/google.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/notebook/common/services/notebookWebWorkerMain.js

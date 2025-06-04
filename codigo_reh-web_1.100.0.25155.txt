@@ -1899,8 +1899,6 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
-out/vs/workbench/contrib/chat/browser/media/github.svg
-out/vs/workbench/contrib/chat/browser/media/google.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/externalTerminal/node/TerminalHelper.scpt
