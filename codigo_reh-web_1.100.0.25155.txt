@@ -1837,6 +1837,8 @@ node_modules/yazl/package.json
 out/bootstrap-fork.js
 out/media/code-icon.svg
 out/media/codicon.ttf
+out/media/github.svg
+out/media/google.svg
 out/media/letterpress-dark.svg
 out/media/letterpress-hcDark.svg
 out/media/letterpress-hcLight.svg
@@ -1897,6 +1899,8 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
+out/vs/workbench/contrib/chat/browser/media/github.svg
+out/vs/workbench/contrib/chat/browser/media/google.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/externalTerminal/node/TerminalHelper.scpt
