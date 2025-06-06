@@ -31,7 +31,6 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png  | Y                            |                        |                                    |                                |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                            |                        |                                    |                                |
 | out/vs/workbench/services/extensionManagement/common/media/defaultIcon.png       |                              | Y                      | Y                                  |                                |
-| out/vs/workbench/workbench.web.main.internal.css.map                             | Y                            |                        |                                    |                                |
 ## reh
 
 | File                                                       | codigo_reh_1.100.0.25157.txt | vscode_reh_1.100.3.txt | vscode_reh_1.101.0-exploration.txt | vscode_reh_1.101.0-insider.txt | vscodium_reh_1.100.33714.txt |
@@ -135,7 +134,6 @@
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                     |                                  | Y                          | Y                                      | Y                                  |                                  |
 | out/media/github.svg                                                             | Y                                |                            |                                        | Y                                  |                                  |
 | out/media/google.svg                                                             | Y                                |                            |                                        | Y                                  |                                  |
-| out/vs/code/browser/workbench/workbench.css.map                                  | Y                                |                            |                                        |                                    |                                  |
 | out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3     | Y                                |                            |                                        | Y                                  |                                  |
 | out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3          | Y                                |                            |                                        | Y                                  |                                  |
 | out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3        | Y                                |                            |                                        | Y                                  |                                  |

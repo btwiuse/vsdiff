@@ -902,7 +902,6 @@ out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
 out/vs/workbench/workbench.web.main.css
 out/vs/workbench/workbench.web.main.internal.css
-out/vs/workbench/workbench.web.main.internal.css.map
 out/vs/workbench/workbench.web.main.internal.js
 out/vs/workbench/workbench.web.main.js
 package.json

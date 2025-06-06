@@ -1855,7 +1855,6 @@ out/vs/base/node/cpuUsage.sh
 out/vs/base/node/ps.sh
 out/vs/code/browser/workbench/callback.html
 out/vs/code/browser/workbench/workbench.css
-out/vs/code/browser/workbench/workbench.css.map
 out/vs/code/browser/workbench/workbench.html
 out/vs/code/browser/workbench/workbench.js
 out/vs/editor/common/languages/highlights/css.scm
