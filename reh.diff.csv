@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.25164.txt,vscode_reh_1.101.0-exploration.txt,vscode_reh_1.101.0.txt,vscode_reh_1.102.0-insider.txt,vscodium_reh_1.100.33714.txt
+File,codigo_reh_1.100.0.25164.txt,vscode_reh_1.101.0-exploration.txt,vscode_reh_1.101.0.txt,vscode_reh_1.102.0-insider.txt,vscodium_reh_1.101.03933.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -10,10 +10,6 @@ bin/remote-cli/code-exploration,,Y,,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
-extensions/github/dist/430.js,Y,Y,Y,Y,
-extensions/github/dist/555.js,Y,Y,Y,Y,
-extensions/github/dist/698.js,Y,Y,Y,Y,
-extensions/github/extension.webpack.config.cjs,Y,Y,Y,Y,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
@@ -29,10 +25,10 @@ node_modules/tslib/tslib.es6.js,,,,,Y
 node_modules/tslib/tslib.es6.mjs,,,,,Y
 node_modules/tslib/tslib.html,,,,,Y
 node_modules/tslib/tslib.js,,,,,Y
-node_modules/undici/lib/dispatcher/h2c-client.js,Y,,Y,Y,
-node_modules/undici/lib/dispatcher/pool-stats.js,,Y,,,Y
-node_modules/undici/lib/mock/mock-call-history.js,Y,,Y,Y,
-node_modules/undici/lib/util/stats.js,Y,,Y,Y,
+node_modules/undici/lib/dispatcher/h2c-client.js,Y,,Y,Y,Y
+node_modules/undici/lib/dispatcher/pool-stats.js,,Y,,,
+node_modules/undici/lib/mock/mock-call-history.js,Y,,Y,Y,Y
+node_modules/undici/lib/util/stats.js,Y,,Y,Y,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y,
 node_modules/vscode-regexp-languagedetection/package.json,,Y,Y,Y,
 node_modules/vsda/build/Release/vsda.node,,Y,Y,Y,
