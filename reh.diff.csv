@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.25166.txt,vscode_reh_1.101.0-exploration.txt,vscode_reh_1.101.0.txt,vscode_reh_1.102.0-insider.txt,vscodium_reh_1.101.03933.txt
+File,codigo_reh_1.100.0.25167.txt,vscode_reh_1.101.0-exploration.txt,vscode_reh_1.101.0.txt,vscode_reh_1.102.0-insider.txt,vscodium_reh_1.101.03933.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -41,5 +41,5 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1,,Y,Y,Y,Y
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.psm1,Y,,,,
+out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1,,Y,Y,,Y
+out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.psm1,Y,,,Y,
