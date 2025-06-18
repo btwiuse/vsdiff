@@ -49,8 +49,8 @@ out/media/google.svg,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3,Y,,Y,Y,Y
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1,,Y,Y,,Y
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.psm1,Y,,,Y,
+out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1,Y,Y,Y,,Y
+out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.psm1,,,,Y,
 out/vs/workbench/contrib/webview/browser/pre/index-no-csp.html,,Y,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,,
