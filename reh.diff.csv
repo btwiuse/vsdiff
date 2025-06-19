@@ -41,5 +41,3 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.ps1,Y,Y,Y,,Y
-out/vs/workbench/contrib/terminal/common/scripts/shellIntegration.psm1,,,,Y,
