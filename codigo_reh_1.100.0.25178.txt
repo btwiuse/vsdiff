@@ -1529,6 +1529,7 @@ node_modules/yazl/LICENSE
 node_modules/yazl/index.js
 node_modules/yazl/package.json
 out/bootstrap-fork.js
+out/nls.keys.json
 out/nls.messages.json
 out/server-cli.js
 out/server-main.js

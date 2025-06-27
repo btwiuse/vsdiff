@@ -79,6 +79,7 @@
 | node_modules/vsda/rust/web/vsda.js                         |                              | Y                                  | Y                      | Y                              |                              |
 | node_modules/vsda/rust/web/vsda_bg.wasm                    |                              | Y                                  | Y                      | Y                              |                              |
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts               |                              | Y                                  | Y                      | Y                              |                              |
+| out/nls.keys.json                                          | Y                            |                                    |                        |                                |                              |
 ## reh-web
 
 | File                                                                             | codigo_reh-web_1.100.0.25178.txt | vscode_reh-web_1.101.0-exploration.txt | vscode_reh-web_1.101.2.txt | vscode_reh-web_1.102.0-insider.txt | vscodium_reh-web_1.101.24242.txt |
@@ -132,6 +133,7 @@
 | out/media/google-mono-dark.svg                                                   | Y                                |                                        |                            | Y                                  |                                  |
 | out/media/google-mono-light.svg                                                  | Y                                |                                        |                            | Y                                  |                                  |
 | out/media/google.svg                                                             | Y                                |                                        | Y                          | Y                                  | Y                                |
+| out/nls.keys.json                                                                | Y                                |                                        |                            |                                    |                                  |
 | out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3     | Y                                |                                        | Y                          | Y                                  | Y                                |
 | out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3          | Y                                |                                        | Y                          | Y                                  | Y                                |
 | out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3        | Y                                |                                        | Y                          | Y                                  | Y                                |

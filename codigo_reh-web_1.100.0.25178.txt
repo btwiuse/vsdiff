@@ -1850,6 +1850,7 @@ out/media/loading-dark.svg
 out/media/loading-hc.svg
 out/media/loading.svg
 out/media/opacity-background.png
+out/nls.keys.json
 out/nls.messages.js
 out/nls.messages.json
 out/server-cli.js

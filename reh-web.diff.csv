@@ -48,6 +48,7 @@ out/media/github.svg,Y,,Y,Y,Y
 out/media/google-mono-dark.svg,Y,,,Y,
 out/media/google-mono-light.svg,Y,,,Y,
 out/media/google.svg,Y,,Y,Y,Y
+out/nls.keys.json,Y,,,,
 out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3,Y,,Y,Y,Y
