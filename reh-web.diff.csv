@@ -11,9 +11,9 @@ bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/github-authentication/media/code-icon.svg,Y,,,Y,
-extensions/prompt-basics/snippets/chatmode.code-snippets,,,Y,Y,Y
-extensions/prompt-basics/snippets/instructions.code-snippets,,Y,Y,Y,Y
-extensions/prompt-basics/snippets/prompt.code-snippets,,Y,Y,Y,Y
+extensions/prompt-basics/snippets/chatmode.code-snippets,,,Y,,Y
+extensions/prompt-basics/snippets/instructions.code-snippets,,Y,Y,,Y
+extensions/prompt-basics/snippets/prompt.code-snippets,,Y,Y,,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
@@ -50,7 +50,7 @@ out/media/github.svg,Y,,Y,Y,Y
 out/media/google-mono-dark.svg,Y,,,Y,
 out/media/google-mono-light.svg,Y,,,Y,
 out/media/google.svg,Y,,Y,Y,Y
-out/nls.keys.json,Y,,,,
+out/nls.keys.json,Y,,,Y,
 out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3,Y,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3,Y,,Y,Y,Y
