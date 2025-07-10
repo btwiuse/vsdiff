@@ -1,9 +1,5 @@
 LICENSE
-code-192-dark.png
-code-192-light.png
 code-192.png
-code-512-dark.png
-code-512-light.png
 code-512.png
 extensions/bat/language-configuration.json
 extensions/bat/package.json
@@ -417,13 +413,11 @@ extensions/theme-defaults/fileicons/images/root-folder-open-light.svg
 extensions/theme-defaults/fileicons/vs_minimal-icon-theme.json
 extensions/theme-defaults/package.json
 extensions/theme-defaults/package.nls.json
-extensions/theme-defaults/themes/dark-colorblind.json
 extensions/theme-defaults/themes/dark_modern.json
 extensions/theme-defaults/themes/dark_plus.json
 extensions/theme-defaults/themes/dark_vs.json
 extensions/theme-defaults/themes/hc_black.json
 extensions/theme-defaults/themes/hc_light.json
-extensions/theme-defaults/themes/light-colorblind.json
 extensions/theme-defaults/themes/light_modern.json
 extensions/theme-defaults/themes/light_plus.json
 extensions/theme-defaults/themes/light_vs.json
@@ -800,7 +794,13 @@ node_modules/tas-client-umd/lib/tas-client-umd.js
 node_modules/tiny-inflate/index.js
 node_modules/vscode-oniguruma/release/main.js
 node_modules/vscode-oniguruma/release/onig.wasm
+node_modules/vscode-regexp-languagedetection/dist/index.js
 node_modules/vscode-textmate/release/main.js
+node_modules/vsda/rust/web/package.json
+node_modules/vsda/rust/web/vsda.d.ts
+node_modules/vsda/rust/web/vsda.js
+node_modules/vsda/rust/web/vsda_bg.wasm
+node_modules/vsda/rust/web/vsda_bg.wasm.d.ts
 node_modules/yallist/iterator.js
 node_modules/yallist/yallist.js
 out/media/code-icon.svg
@@ -867,7 +867,6 @@ out/vs/workbench/contrib/webview/browser/pre/service-worker.js
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/commandPalette.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg
-out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/debug.svg
@@ -876,7 +875,6 @@ out/vs/workbench/contrib/welcomeGettingStarted/common/media/extensions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/git.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/languages.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/learn.svg
-out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/menuBar.svg

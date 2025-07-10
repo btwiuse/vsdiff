@@ -86,6 +86,7 @@ extensions/github-authentication/dist/extension.js
 extensions/github-authentication/dist/extension.js.LICENSE.txt
 extensions/github-authentication/images/icon.png
 extensions/github-authentication/media/auth.css
+extensions/github-authentication/media/code-icon.svg
 extensions/github-authentication/media/favicon.ico
 extensions/github-authentication/media/icon.png
 extensions/github-authentication/media/index.html
@@ -1543,6 +1544,7 @@ node_modules/yazl/LICENSE
 node_modules/yazl/index.js
 node_modules/yazl/package.json
 out/bootstrap-fork.js
+out/nls.keys.json
 out/nls.messages.json
 out/server-cli.js
 out/server-main.js
