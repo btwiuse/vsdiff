@@ -1846,11 +1846,11 @@ node_modules/yazl/LICENSE
 node_modules/yazl/index.js
 node_modules/yazl/package.json
 out/bootstrap-fork.js
+out/media/apple-dark.svg
+out/media/apple-light.svg
 out/media/code-icon.svg
 out/media/codicon.ttf
 out/media/github.svg
-out/media/google-mono-dark.svg
-out/media/google-mono-light.svg
 out/media/google.svg
 out/media/letterpress-dark.svg
 out/media/letterpress-hcDark.svg
