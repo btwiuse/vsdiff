@@ -564,11 +564,13 @@ extensions/typescript-language-features/dist/browser/typescript/lib.esnext.colle
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.decorators.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.disposable.d.ts
+extensions/typescript-language-features/dist/browser/typescript/lib.esnext.error.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.float16.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.full.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.intl.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.iterator.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.promise.d.ts
+extensions/typescript-language-features/dist/browser/typescript/lib.esnext.sharedmemory.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.scripthost.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.webworker.asynciterable.d.ts
 extensions/typescript-language-features/dist/browser/typescript/lib.webworker.d.ts

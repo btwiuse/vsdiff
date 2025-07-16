@@ -5,6 +5,8 @@ code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
+extensions/typescript-language-features/dist/browser/typescript/lib.esnext.error.d.ts,Y,,,
+extensions/typescript-language-features/dist/browser/typescript/lib.esnext.sharedmemory.d.ts,Y,,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/package.json,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y

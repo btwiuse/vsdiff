@@ -10,6 +10,8 @@ bin/remote-cli/code-exploration,,Y,,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
+extensions/node_modules/typescript/lib/lib.esnext.error.d.ts,Y,,,,
+extensions/node_modules/typescript/lib/lib.esnext.sharedmemory.d.ts,Y,,,,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
