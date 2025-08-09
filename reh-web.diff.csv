@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.25221.txt,vscode_reh-web_1.102.0-exploration.txt,vscode_reh-web_1.103.0.txt,vscode_reh-web_1.104.0-insider.txt,vscodium_reh-web_1.102.35058.txt
+File,codigo_reh-web_1.100.0.25221.txt,vscode_reh-web_1.102.0-exploration.txt,vscode_reh-web_1.103.0.txt,vscode_reh-web_1.104.0-insider.txt,vscodium_reh-web_1.103.05312.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -1245,8 +1245,8 @@ extensions/github/node_modules/universal-user-agent/package.json,Y,,,Y,
 extensions/github/node_modules/universal-user-agent/test.js,Y,,,Y,
 extensions/markdown-language-features/esbuild-notebook.mjs,Y,,,Y,
 extensions/markdown-language-features/esbuild-preview.mjs,Y,,,Y,
-extensions/node_modules/typescript/lib/lib.esnext.error.d.ts,Y,,Y,Y,
-extensions/node_modules/typescript/lib/lib.esnext.sharedmemory.d.ts,Y,,Y,Y,
+extensions/node_modules/typescript/lib/lib.esnext.error.d.ts,Y,,Y,Y,Y
+extensions/node_modules/typescript/lib/lib.esnext.sharedmemory.d.ts,Y,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
@@ -1275,9 +1275,9 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
-out/media/apple-dark.svg,Y,,Y,Y,
-out/media/apple-light.svg,Y,,Y,Y,
-out/media/google-mono-dark.svg,,Y,,,Y
-out/media/google-mono-light.svg,,Y,,,Y
+out/media/apple-dark.svg,Y,,Y,Y,Y
+out/media/apple-light.svg,Y,,Y,Y,Y
+out/media/google-mono-dark.svg,,Y,,,
+out/media/google-mono-light.svg,,Y,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,,
