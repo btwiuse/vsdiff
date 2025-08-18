@@ -443,8 +443,6 @@ extensions/ms-vscode.js-debug/src/ui/basic-wat.tmLanguage.json
 extensions/ms-vscode.js-debug/src/vendor/acorn-loose.js
 extensions/ms-vscode.js-debug/src/vendor/acorn.js
 extensions/ms-vscode.js-debug/src/watchdog.js
-extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node
-extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node
 extensions/ms-vscode.js-debug/telemetry.json
 extensions/ms-vscode.vscode-js-profile-table/README.md
 extensions/ms-vscode.vscode-js-profile-table/ThirdPartyNotices.txt
