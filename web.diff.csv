@@ -1,10 +1,8 @@
 File,codigo_web_1.100.0.25240.txt,vscode_web_1.102.0-exploration.txt,vscode_web_1.103.2.txt,vscode_web_1.104.0-insider.txt
-LICENSE,Y,,Y,Y
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
-code-512.png,Y,,Y,Y
 extensions/less/build/update-grammar.js,,Y,Y,
 extensions/razor/build/update-grammar.mjs,,Y,Y,
 extensions/rust/build/update-grammar.mjs,,Y,Y,
@@ -13,7 +11,6 @@ extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.error.d.ts,Y,,Y,Y
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.sharedmemory.d.ts,Y,,Y,Y
 extensions/yaml/build/update-grammar.js,,Y,Y,
-favicon.ico,Y,,Y,Y
 node_modules/@xterm/addon-clipboard/lib/addon-clipboard.mjs.map,,Y,Y,
 node_modules/@xterm/addon-image/lib/addon-image.mjs.map,,Y,Y,
 node_modules/@xterm/addon-ligatures/lib/addon-ligatures.mjs.map,,Y,Y,
@@ -261,12 +258,5 @@ out/media/apple-dark.svg,Y,,Y,Y
 out/media/apple-light.svg,Y,,Y,Y
 out/media/google-mono-dark.svg,,Y,,
 out/media/google-mono-light.svg,,Y,,
-out/vs/loader.js,Y,,Y,Y
-out/vs/workbench/contrib/webview/browser/pre/fake.html,Y,,Y,Y
-out/vs/workbench/contrib/webview/browser/pre/index.html,Y,,Y,Y
-out/vs/workbench/contrib/webview/browser/pre/service-worker.js,Y,,Y,Y
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,
-out/vs/workbench/workbench.web.main.css,Y,,Y,Y
-out/vs/workbench/workbench.web.main.internal.css,Y,,Y,Y
-out/vs/workbench/workbench.web.main.internal.js,Y,,Y,Y
