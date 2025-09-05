@@ -660,10 +660,6 @@ node_modules/@parcel/watcher/LICENSE
 node_modules/@parcel/watcher/build/Release/watcher.node
 node_modules/@parcel/watcher/index.js
 node_modules/@parcel/watcher/index.js.flow
-node_modules/@parcel/watcher/node_modules/detect-libc/LICENSE
-node_modules/@parcel/watcher/node_modules/detect-libc/bin/detect-libc.js
-node_modules/@parcel/watcher/node_modules/detect-libc/lib/detect-libc.js
-node_modules/@parcel/watcher/node_modules/detect-libc/package.json
 node_modules/@parcel/watcher/package.json
 node_modules/@parcel/watcher/scripts/build-from-source.js
 node_modules/@parcel/watcher/wrapper.js
@@ -855,6 +851,7 @@ node_modules/deep-extend/lib/deep-extend.js
 node_modules/deep-extend/package.json
 node_modules/detect-libc/LICENSE
 node_modules/detect-libc/lib/detect-libc.js
+node_modules/detect-libc/lib/filesystem.js
 node_modules/detect-libc/lib/process.js
 node_modules/detect-libc/package.json
 node_modules/end-of-stream/LICENSE
