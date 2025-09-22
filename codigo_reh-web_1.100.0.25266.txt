@@ -351,6 +351,15 @@ extensions/merge-conflict/dist/mergeConflictMain.js.LICENSE.txt
 extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
+extensions/mermaid-chat-features/README.md
+extensions/mermaid-chat-features/chat-webview-out/index.js
+extensions/mermaid-chat-features/chat-webview-src/index.ts
+extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
+extensions/mermaid-chat-features/dist/extension.js
+extensions/mermaid-chat-features/esbuild-chat-webview.mjs
+extensions/mermaid-chat-features/extension-browser.webpack.config.js
+extensions/mermaid-chat-features/package.json
+extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
 extensions/microsoft-authentication/dist/extension.js
 extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
