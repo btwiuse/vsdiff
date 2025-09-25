@@ -280,7 +280,7 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png             | Y                            |                                    |                        |                                |
 ## reh
 
-| File                                                                                        | codigo_reh_1.100.0.25269.txt | vscode_reh_1.102.0-exploration.txt | vscode_reh_1.104.2.txt | vscode_reh_1.105.0-insider.txt | vscodium_reh_1.104.16282.txt |
+| File                                                                                        | codigo_reh_1.100.0.25269.txt | vscode_reh_1.102.0-exploration.txt | vscode_reh_1.104.2.txt | vscode_reh_1.105.0-insider.txt | vscodium_reh_1.104.26450.txt |
 | ------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                                                     | Y                            | Y                                  | Y                      | Y                              |                              |
 | bin/code-server                                                                             |                              |                                    | Y                      |                                |                              |
@@ -562,7 +562,7 @@
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                                |                              | Y                                  | Y                      | Y                              |                              |
 ## reh-web
 
-| File                                                                                        | codigo_reh-web_1.100.0.25269.txt | vscode_reh-web_1.102.0-exploration.txt | vscode_reh-web_1.104.2.txt | vscode_reh-web_1.105.0-insider.txt | vscodium_reh-web_1.104.16282.txt |
+| File                                                                                        | codigo_reh-web_1.100.0.25269.txt | vscode_reh-web_1.102.0-exploration.txt | vscode_reh-web_1.104.2.txt | vscode_reh-web_1.105.0-insider.txt | vscodium_reh-web_1.104.26450.txt |
 | ------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | -------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                                     | Y                                | Y                                      | Y                          | Y                                  |                                  |
 | bin/code-server                                                                             |                                  |                                        | Y                          |                                    |                                  |
