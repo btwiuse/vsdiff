@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.25280.txt,vscode_reh_1.102.0-exploration.txt,vscode_reh_1.105.0.txt,vscode_reh_1.106.0-insider.txt,vscodium_reh_1.105.06922.txt
+File,codigo_reh_1.100.0.25289.txt,vscode_reh_1.102.0-exploration.txt,vscode_reh_1.105.0.txt,vscode_reh_1.106.0-insider.txt,vscodium_reh_1.105.06922.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -42,6 +42,7 @@ node_modules/@parcel/watcher/node_modules/detect-libc/LICENSE,,Y,,,
 node_modules/@parcel/watcher/node_modules/detect-libc/bin/detect-libc.js,,Y,,,
 node_modules/@parcel/watcher/node_modules/detect-libc/lib/detect-libc.js,,Y,,,
 node_modules/@parcel/watcher/node_modules/detect-libc/package.json,,Y,,,
+node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt,Y,,,,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
