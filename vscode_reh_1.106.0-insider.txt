@@ -689,6 +689,7 @@ node_modules/@vscode/deviceid/owners.txt
 node_modules/@vscode/deviceid/package.json
 node_modules/@vscode/iconv-lite-umd/LICENSE
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
+node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt
 node_modules/@vscode/iconv-lite-umd/package.json
 node_modules/@vscode/proxy-agent/LICENSE.md
 node_modules/@vscode/proxy-agent/SECURITY.md
