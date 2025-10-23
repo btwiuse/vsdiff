@@ -1018,8 +1018,10 @@ node_modules/@vscode/tree-sitter-wasm/LICENSE
 node_modules/@vscode/tree-sitter-wasm/SECURITY.md
 node_modules/@vscode/tree-sitter-wasm/cgmanifest.json
 node_modules/@vscode/tree-sitter-wasm/package.json
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-css.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ini.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-regex.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-typescript.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter.js
