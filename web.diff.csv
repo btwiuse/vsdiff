@@ -20,6 +20,9 @@ extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.error.d.ts,Y,,Y,Y
 extensions/typescript-language-features/dist/browser/typescript/lib.esnext.sharedmemory.d.ts,Y,,Y,Y
 extensions/yaml/build/update-grammar.js,,Y,,
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm,,,,Y
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-php.wasm,,,,Y
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm,,,,Y
 node_modules/@xterm/addon-clipboard/lib/addon-clipboard.mjs.map,,Y,,
 node_modules/@xterm/addon-image/lib/addon-image.mjs.map,,Y,,
 node_modules/@xterm/addon-ligatures/lib/addon-ligatures.mjs.map,,Y,,

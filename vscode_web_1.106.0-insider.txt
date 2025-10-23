@@ -642,6 +642,7 @@ node_modules/@microsoft/dynamicproto-js/lib/dist/umd/dynamicproto-js.min.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/esm/removedynamic.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/node/removedynamic.js
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-c-sharp.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-cpp.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-css.wasm
@@ -649,6 +650,8 @@ node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-go.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ini.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-java.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-javascript.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-php.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-python.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-regex.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ruby.wasm
