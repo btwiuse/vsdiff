@@ -73,6 +73,10 @@ extensions/docker/language-configuration.json
 extensions/docker/package.json
 extensions/docker/package.nls.json
 extensions/docker/syntaxes/docker.tmLanguage.json
+extensions/dotenv/language-configuration.json
+extensions/dotenv/package.json
+extensions/dotenv/package.nls.json
+extensions/dotenv/syntaxes/dotenv.tmLanguage.json
 extensions/emmet/README.md
 extensions/emmet/dist/node/emmetNodeMain.js
 extensions/emmet/images/icon.png
