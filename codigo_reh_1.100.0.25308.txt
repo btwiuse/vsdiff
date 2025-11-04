@@ -146,7 +146,7 @@ extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
 extensions/json-language-features/server/dist/node/774.jsonServerMain.js
-extensions/json-language-features/server/dist/node/875.jsonServerMain.js
+extensions/json-language-features/server/dist/node/962.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
