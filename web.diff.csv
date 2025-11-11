@@ -7,6 +7,15 @@ extensions/dotenv/language-configuration.json,Y,,Y,Y
 extensions/dotenv/package.json,Y,,Y,Y
 extensions/dotenv/package.nls.json,Y,,Y,Y
 extensions/dotenv/syntaxes/dotenv.tmLanguage.json,Y,,Y,Y
+extensions/microsoft-authentication/README.md,,Y,Y,Y
+extensions/microsoft-authentication/dist/browser/extension.js,,Y,Y,Y
+extensions/microsoft-authentication/dist/browser/extension.js.LICENSE.txt,,Y,Y,Y
+extensions/microsoft-authentication/media/auth.css,,Y,Y,Y
+extensions/microsoft-authentication/media/favicon.ico,,Y,Y,Y
+extensions/microsoft-authentication/media/icon.png,,Y,Y,Y
+extensions/microsoft-authentication/media/index.html,,Y,Y,Y
+extensions/microsoft-authentication/package.json,,Y,Y,Y
+extensions/microsoft-authentication/package.nls.json,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm,Y,,Y,Y

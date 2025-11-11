@@ -291,15 +291,6 @@ extensions/mermaid-chat-features/esbuild-chat-webview.mjs
 extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
-extensions/microsoft-authentication/README.md
-extensions/microsoft-authentication/dist/browser/extension.js
-extensions/microsoft-authentication/dist/browser/extension.js.LICENSE.txt
-extensions/microsoft-authentication/media/auth.css
-extensions/microsoft-authentication/media/favicon.ico
-extensions/microsoft-authentication/media/icon.png
-extensions/microsoft-authentication/media/index.html
-extensions/microsoft-authentication/package.json
-extensions/microsoft-authentication/package.nls.json
 extensions/notebook-renderers/README.md
 extensions/notebook-renderers/media/icon.png
 extensions/notebook-renderers/package.json
