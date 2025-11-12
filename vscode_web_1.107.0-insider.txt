@@ -60,6 +60,10 @@ extensions/docker/language-configuration.json
 extensions/docker/package.json
 extensions/docker/package.nls.json
 extensions/docker/syntaxes/docker.tmLanguage.json
+extensions/dotenv/language-configuration.json
+extensions/dotenv/package.json
+extensions/dotenv/package.nls.json
+extensions/dotenv/syntaxes/dotenv.tmLanguage.json
 extensions/emmet/README.md
 extensions/emmet/dist/browser/emmetBrowserMain.js
 extensions/emmet/images/icon.png
@@ -283,15 +287,6 @@ extensions/mermaid-chat-features/esbuild-chat-webview.mjs
 extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
-extensions/microsoft-authentication/README.md
-extensions/microsoft-authentication/dist/browser/extension.js
-extensions/microsoft-authentication/dist/browser/extension.js.LICENSE.txt
-extensions/microsoft-authentication/media/auth.css
-extensions/microsoft-authentication/media/favicon.ico
-extensions/microsoft-authentication/media/icon.png
-extensions/microsoft-authentication/media/index.html
-extensions/microsoft-authentication/package.json
-extensions/microsoft-authentication/package.nls.json
 extensions/notebook-renderers/README.md
 extensions/notebook-renderers/media/icon.png
 extensions/notebook-renderers/package.json
@@ -642,6 +637,7 @@ node_modules/@microsoft/dynamicproto-js/lib/dist/umd/dynamicproto-js.min.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/esm/removedynamic.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/node/removedynamic.js
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-c-sharp.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-cpp.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-css.wasm
@@ -649,6 +645,8 @@ node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-go.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ini.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-java.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-javascript.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-php.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-python.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-regex.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ruby.wasm
