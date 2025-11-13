@@ -1512,9 +1512,9 @@ node_modules/tar-stream/index.js
 node_modules/tar-stream/pack.js
 node_modules/tar-stream/package.json
 node_modules/tar-stream/sandbox.js
-node_modules/tas-client-umd/LICENSE
-node_modules/tas-client-umd/lib/tas-client-umd.js
-node_modules/tas-client-umd/package.json
+node_modules/tas-client/LICENSE.txt
+node_modules/tas-client/dist/tas-client.min.js
+node_modules/tas-client/package.json
 node_modules/tiny-inflate/LICENSE
 node_modules/tiny-inflate/index.js
 node_modules/tiny-inflate/package.json

@@ -21,6 +21,12 @@ node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.js,,Y,Y,Y,
+node_modules/tas-client-umd/LICENSE,Y,Y,,,Y
+node_modules/tas-client-umd/lib/tas-client-umd.js,Y,Y,,,Y
+node_modules/tas-client-umd/package.json,Y,Y,,,Y
+node_modules/tas-client/LICENSE.txt,,,Y,Y,
+node_modules/tas-client/dist/tas-client.min.js,,,Y,Y,
+node_modules/tas-client/package.json,,,Y,Y,
 node_modules/tslib/CopyrightNotice.txt,,,,,Y
 node_modules/tslib/LICENSE.txt,,,,,Y
 node_modules/tslib/SECURITY.md,,,,,Y

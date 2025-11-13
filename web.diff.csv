@@ -14,6 +14,8 @@ extensions/microsoft-authentication/package.json,,Y,,
 extensions/microsoft-authentication/package.nls.json,,Y,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
+node_modules/tas-client-umd/lib/tas-client-umd.js,Y,Y,,
+node_modules/tas-client/dist/tas-client.min.js,,,Y,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/package.json,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y

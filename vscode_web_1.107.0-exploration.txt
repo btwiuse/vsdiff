@@ -962,7 +962,7 @@ node_modules/opentype.js/src/tables/sfnt.js
 node_modules/opentype.js/src/types.js
 node_modules/opentype.js/src/util.js
 node_modules/promise-stream-reader/dist/index.js
-node_modules/tas-client-umd/lib/tas-client-umd.js
+node_modules/tas-client/dist/tas-client.min.js
 node_modules/tiny-inflate/index.js
 node_modules/vscode-oniguruma/release/main.js
 node_modules/vscode-oniguruma/release/onig.wasm
