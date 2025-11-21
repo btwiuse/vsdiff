@@ -16,6 +16,8 @@ extensions/dotenv/package.nls.json,Y,Y,Y,Y,
 extensions/dotenv/syntaxes/dotenv.tmLanguage.json,Y,Y,Y,Y,
 extensions/json-language-features/server/dist/node/875.jsonServerMain.js,,,,,Y
 extensions/json-language-features/server/dist/node/962.jsonServerMain.js,Y,Y,Y,Y,
+extensions/microsoft-authentication/dist/libmsalruntime.so,,,,Y,
+extensions/microsoft-authentication/dist/msal-node-runtime.node,,,,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
