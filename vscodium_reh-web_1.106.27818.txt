@@ -72,6 +72,10 @@ extensions/docker/language-configuration.json
 extensions/docker/package.json
 extensions/docker/package.nls.json
 extensions/docker/syntaxes/docker.tmLanguage.json
+extensions/dotenv/language-configuration.json
+extensions/dotenv/package.json
+extensions/dotenv/package.nls.json
+extensions/dotenv/syntaxes/dotenv.tmLanguage.json
 extensions/emmet/README.md
 extensions/emmet/dist/node/emmetNodeMain.js
 extensions/emmet/images/icon.png
@@ -236,7 +240,7 @@ extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
 extensions/json-language-features/server/dist/node/774.jsonServerMain.js
-extensions/json-language-features/server/dist/node/875.jsonServerMain.js
+extensions/json-language-features/server/dist/node/962.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/json/language-configuration.json
@@ -984,6 +988,7 @@ node_modules/@vscode/deviceid/owners.txt
 node_modules/@vscode/deviceid/package.json
 node_modules/@vscode/iconv-lite-umd/LICENSE
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
+node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt
 node_modules/@vscode/iconv-lite-umd/package.json
 node_modules/@vscode/proxy-agent/LICENSE.md
 node_modules/@vscode/proxy-agent/SECURITY.md
@@ -1014,8 +1019,10 @@ node_modules/@vscode/tree-sitter-wasm/LICENSE
 node_modules/@vscode/tree-sitter-wasm/SECURITY.md
 node_modules/@vscode/tree-sitter-wasm/cgmanifest.json
 node_modules/@vscode/tree-sitter-wasm/package.json
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-css.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-ini.wasm
+node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-regex.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-typescript.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter.js

@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.25321.txt,vscode_reh_1.106.2.txt,vscode_reh_1.107.0-exploration.txt,vscode_reh_1.107.0-insider.txt,vscodium_reh_1.105.17075.txt
+File,codigo_reh_1.100.0.25321.txt,vscode_reh_1.106.2.txt,vscode_reh_1.107.0-exploration.txt,vscode_reh_1.107.0-insider.txt,vscodium_reh_1.106.27818.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -10,15 +10,10 @@ bin/remote-cli/code-exploration,,,Y,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
-extensions/json-language-features/server/dist/node/875.jsonServerMain.js,,,,,Y
-extensions/json-language-features/server/dist/node/962.jsonServerMain.js,Y,Y,Y,Y,
 extensions/microsoft-authentication/dist/libmsalruntime.so,,,,Y,
 extensions/microsoft-authentication/dist/msal-node-runtime.node,,,,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt,Y,Y,Y,Y,
-node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm,Y,Y,Y,Y,
-node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-powershell.wasm,Y,Y,Y,Y,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
