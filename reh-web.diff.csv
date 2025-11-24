@@ -10,6 +10,12 @@ bin/remote-cli/code-exploration,,,Y,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
+extensions/css-language-features/server/dist/node/533.cssServerMain.js,,,,Y,
+extensions/css-language-features/server/dist/node/85.cssServerMain.js,Y,Y,Y,,Y
+extensions/html-language-features/server/dist/node/421.htmlServerMain.js,Y,Y,Y,,Y
+extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,,,Y,
+extensions/json-language-features/server/dist/node/774.jsonServerMain.js,Y,Y,Y,,Y
+extensions/json-language-features/server/dist/node/990.jsonServerMain.js,,,,Y,
 extensions/microsoft-authentication/dist/libmsalruntime.so,,,,Y,
 extensions/microsoft-authentication/dist/msal-node-runtime.node,,,,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,

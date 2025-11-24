@@ -44,7 +44,7 @@ extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
-extensions/css-language-features/server/dist/node/85.cssServerMain.js
+extensions/css-language-features/server/dist/node/533.cssServerMain.js
 extensions/css-language-features/server/dist/node/920.cssServerMain.js
 extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
@@ -191,8 +191,8 @@ extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
-extensions/html-language-features/server/dist/node/421.htmlServerMain.js
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js
+extensions/html-language-features/server/dist/node/573.htmlServerMain.js
 extensions/html-language-features/server/dist/node/769.htmlServerMain.js
 extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
@@ -240,8 +240,8 @@ extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
-extensions/json-language-features/server/dist/node/774.jsonServerMain.js
 extensions/json-language-features/server/dist/node/962.jsonServerMain.js
+extensions/json-language-features/server/dist/node/990.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/json/language-configuration.json
