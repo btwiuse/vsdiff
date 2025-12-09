@@ -56,4 +56,3 @@ node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,,
-product.json,,Y,Y,Y,Y
