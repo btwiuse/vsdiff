@@ -2158,7 +2158,6 @@ out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMa
 out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
 package.json
-product.json
 resources/server/code-192.png
 resources/server/code-512.png
 resources/server/favicon.ico
