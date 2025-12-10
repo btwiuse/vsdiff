@@ -287,15 +287,6 @@ extensions/mermaid-chat-features/esbuild-chat-webview.mjs
 extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
-extensions/microsoft-authentication/README.md
-extensions/microsoft-authentication/dist/browser/extension.js
-extensions/microsoft-authentication/dist/browser/extension.js.LICENSE.txt
-extensions/microsoft-authentication/media/auth.css
-extensions/microsoft-authentication/media/favicon.ico
-extensions/microsoft-authentication/media/icon.png
-extensions/microsoft-authentication/media/index.html
-extensions/microsoft-authentication/package.json
-extensions/microsoft-authentication/package.nls.json
 extensions/notebook-renderers/README.md
 extensions/notebook-renderers/media/icon.png
 extensions/notebook-renderers/package.json
@@ -971,7 +962,7 @@ node_modules/opentype.js/src/tables/sfnt.js
 node_modules/opentype.js/src/types.js
 node_modules/opentype.js/src/util.js
 node_modules/promise-stream-reader/dist/index.js
-node_modules/tas-client-umd/lib/tas-client-umd.js
+node_modules/tas-client/dist/tas-client.min.js
 node_modules/tiny-inflate/index.js
 node_modules/vscode-oniguruma/release/main.js
 node_modules/vscode-oniguruma/release/onig.wasm
