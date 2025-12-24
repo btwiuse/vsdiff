@@ -14,7 +14,7 @@ extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
-extensions/css-language-features/server/dist/node/85.cssServerMain.js
+extensions/css-language-features/server/dist/node/533.cssServerMain.js
 extensions/css-language-features/server/dist/node/920.cssServerMain.js
 extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
@@ -119,8 +119,8 @@ extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
-extensions/html-language-features/server/dist/node/421.htmlServerMain.js
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js
+extensions/html-language-features/server/dist/node/573.htmlServerMain.js
 extensions/html-language-features/server/dist/node/769.htmlServerMain.js
 extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
@@ -144,8 +144,8 @@ extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
-extensions/json-language-features/server/dist/node/774.jsonServerMain.js
 extensions/json-language-features/server/dist/node/962.jsonServerMain.js
+extensions/json-language-features/server/dist/node/990.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
@@ -228,6 +228,8 @@ extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
 extensions/microsoft-authentication/dist/extension.js
 extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
+extensions/microsoft-authentication/dist/libmsalruntime.so
+extensions/microsoft-authentication/dist/msal-node-runtime.node
 extensions/microsoft-authentication/media/auth.css
 extensions/microsoft-authentication/media/favicon.ico
 extensions/microsoft-authentication/media/icon.png
@@ -1505,9 +1507,9 @@ node_modules/tar-stream/index.js
 node_modules/tar-stream/pack.js
 node_modules/tar-stream/package.json
 node_modules/tar-stream/sandbox.js
-node_modules/tas-client-umd/LICENSE
-node_modules/tas-client-umd/lib/tas-client-umd.js
-node_modules/tas-client-umd/package.json
+node_modules/tas-client/LICENSE.txt
+node_modules/tas-client/dist/tas-client.min.js
+node_modules/tas-client/package.json
 node_modules/tiny-inflate/LICENSE
 node_modules/tiny-inflate/index.js
 node_modules/tiny-inflate/package.json
