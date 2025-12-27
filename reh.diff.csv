@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.25350.txt,vscode_reh_1.107.0-exploration.txt,vscode_reh_1.107.1.txt,vscode_reh_1.108.0-insider.txt,vscodium_reh_1.107.18627.txt
+File,codigo_reh_1.100.0.25362.txt,vscode_reh_1.107.0-exploration.txt,vscode_reh_1.107.1.txt,vscode_reh_1.108.0-insider.txt,vscodium_reh_1.107.18627.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -24,6 +24,18 @@ node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.js,,Y,Y,Y,
+node_modules/@xterm/addon-image/lib/addon-image.js.LICENSE.txt,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/IIPHandler.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/IIPHeaderParser.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/IIPHeaderParser.test.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/IIPMetrics.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/IIPMetrics.test.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/ImageAddon.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/ImageRenderer.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/ImageStorage.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/SixelHandler.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-image/out/Types.js,,Y,Y,Y,Y
+node_modules/@xterm/addon-ligatures/lib/addon-ligatures.js,,Y,Y,Y,Y
 node_modules/tslib/CopyrightNotice.txt,,,,,Y
 node_modules/tslib/LICENSE.txt,,,,,Y
 node_modules/tslib/SECURITY.md,,,,,Y
