@@ -49,11 +49,11 @@
 | node_modules/vsda/rust/web/vsda.js                                               |                              | Y                                  | Y                      | Y                              |
 | node_modules/vsda/rust/web/vsda_bg.wasm                                          |                              | Y                                  | Y                      | Y                              |
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                     |                              | Y                                  | Y                      | Y                              |
-| out/vs/loader.js                                                                 |                              | Y                                  | Y                      |                                |
+| out/vs/loader.js                                                                 |                              | Y                                  | Y                      | Y                              |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png  | Y                            |                                    |                        |                                |
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                            |                                    |                        |                                |
-| out/vs/workbench/workbench.web.main.css                                          |                              | Y                                  | Y                      |                                |
-| out/vs/workbench/workbench.web.main.js                                           |                              | Y                                  | Y                      |                                |
+| out/vs/workbench/workbench.web.main.css                                          |                              | Y                                  | Y                      | Y                              |
+| out/vs/workbench/workbench.web.main.js                                           |                              | Y                                  | Y                      | Y                              |
 ## reh
 
 | File                                                                                        | codigo_reh_1.100.0.26008.txt | vscode_reh_1.107.0-exploration.txt | vscode_reh_1.107.1.txt | vscode_reh_1.108.0-insider.txt | vscodium_reh_1.107.18627.txt |

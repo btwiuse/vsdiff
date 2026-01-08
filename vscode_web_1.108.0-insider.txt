@@ -967,6 +967,7 @@ out/vs/editor/common/languages/highlights/regex.scm
 out/vs/editor/common/languages/highlights/typescript.scm
 out/vs/editor/common/languages/injections/typescript.scm
 out/vs/editor/common/services/editorWebWorkerMain.js
+out/vs/loader.js
 out/vs/platform/accessibilitySignal/browser/media/break.mp3
 out/vs/platform/accessibilitySignal/browser/media/chatEditModifiedFile.mp3
 out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3
@@ -1040,6 +1041,8 @@ out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution
 out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMain.js
 out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
+out/vs/workbench/workbench.web.main.css
 out/vs/workbench/workbench.web.main.internal.css
 out/vs/workbench/workbench.web.main.internal.js
+out/vs/workbench/workbench.web.main.js
 package.json
