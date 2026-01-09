@@ -1107,15 +1107,6 @@ node_modules/bl/BufferList.js
 node_modules/bl/LICENSE.md
 node_modules/bl/bl.js
 node_modules/bl/package.json
-node_modules/braces/LICENSE
-node_modules/braces/index.js
-node_modules/braces/lib/compile.js
-node_modules/braces/lib/constants.js
-node_modules/braces/lib/expand.js
-node_modules/braces/lib/parse.js
-node_modules/braces/lib/stringify.js
-node_modules/braces/lib/utils.js
-node_modules/braces/package.json
 node_modules/buffer-crc32/LICENSE
 node_modules/buffer-crc32/index.js
 node_modules/buffer-crc32/package.json
@@ -1173,9 +1164,6 @@ node_modules/fd-slicer/package.json
 node_modules/file-uri-to-path/LICENSE
 node_modules/file-uri-to-path/index.js
 node_modules/file-uri-to-path/package.json
-node_modules/fill-range/LICENSE
-node_modules/fill-range/index.js
-node_modules/fill-range/package.json
 node_modules/fs-constants/LICENSE
 node_modules/fs-constants/browser.js
 node_modules/fs-constants/index.js
@@ -1264,9 +1252,6 @@ node_modules/is-extglob/package.json
 node_modules/is-glob/LICENSE
 node_modules/is-glob/index.js
 node_modules/is-glob/package.json
-node_modules/is-number/LICENSE
-node_modules/is-number/index.js
-node_modules/is-number/package.json
 node_modules/js-base64/LICENSE.md
 node_modules/js-base64/base64.d.mts
 node_modules/js-base64/base64.js
@@ -1495,9 +1480,6 @@ node_modules/kerberos/package.json
 node_modules/lru-cache/LICENSE
 node_modules/lru-cache/index.js
 node_modules/lru-cache/package.json
-node_modules/micromatch/LICENSE
-node_modules/micromatch/index.js
-node_modules/micromatch/package.json
 node_modules/mimic-response/index.js
 node_modules/mimic-response/license
 node_modules/mimic-response/package.json
@@ -1620,6 +1602,7 @@ node_modules/picomatch/lib/picomatch.js
 node_modules/picomatch/lib/scan.js
 node_modules/picomatch/lib/utils.js
 node_modules/picomatch/package.json
+node_modules/picomatch/posix.js
 node_modules/proxy-from-env/LICENSE
 node_modules/proxy-from-env/index.js
 node_modules/proxy-from-env/package.json
@@ -1764,9 +1747,6 @@ node_modules/tas-client/package.json
 node_modules/tiny-inflate/LICENSE
 node_modules/tiny-inflate/index.js
 node_modules/tiny-inflate/package.json
-node_modules/to-regex-range/LICENSE
-node_modules/to-regex-range/index.js
-node_modules/to-regex-range/package.json
 node_modules/tunnel-agent/LICENSE
 node_modules/tunnel-agent/index.js
 node_modules/tunnel-agent/package.json
