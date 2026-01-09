@@ -971,6 +971,13 @@ node_modules/@microsoft/dynamicproto-js/lib/dist/umd/dynamicproto-js.min.js
 node_modules/@microsoft/dynamicproto-js/package.json
 node_modules/@microsoft/dynamicproto-js/tools/rollup/esm/removedynamic.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/node/removedynamic.js
+node_modules/@parcel/watcher/LICENSE
+node_modules/@parcel/watcher/build/Release/watcher.node
+node_modules/@parcel/watcher/index.js
+node_modules/@parcel/watcher/index.js.flow
+node_modules/@parcel/watcher/package.json
+node_modules/@parcel/watcher/scripts/build-from-source.js
+node_modules/@parcel/watcher/wrapper.js
 node_modules/@tootallnate/once/LICENSE
 node_modules/@tootallnate/once/dist/index.js
 node_modules/@tootallnate/once/dist/overloaded-parameters.js
@@ -1035,13 +1042,6 @@ node_modules/@vscode/vscode-languagedetection/dist/lib/index.js.LICENSE.txt
 node_modules/@vscode/vscode-languagedetection/model/group1-shard1of1.bin
 node_modules/@vscode/vscode-languagedetection/model/model.json
 node_modules/@vscode/vscode-languagedetection/package.json
-node_modules/@vscode/watcher/LICENSE
-node_modules/@vscode/watcher/build/Release/watcher.node
-node_modules/@vscode/watcher/index.js
-node_modules/@vscode/watcher/index.js.flow
-node_modules/@vscode/watcher/package.json
-node_modules/@vscode/watcher/scripts/build-from-source.js
-node_modules/@vscode/watcher/wrapper.js
 node_modules/@xterm/addon-clipboard/LICENSE
 node_modules/@xterm/addon-clipboard/lib/addon-clipboard.js
 node_modules/@xterm/addon-clipboard/lib/addon-clipboard.mjs
