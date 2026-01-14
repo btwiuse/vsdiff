@@ -982,8 +982,10 @@ node_modules/@tootallnate/once/dist/overloaded-parameters.js
 node_modules/@tootallnate/once/dist/types.js
 node_modules/@tootallnate/once/package.json
 node_modules/@vscode/deviceid/LICENSE.txt
+node_modules/@vscode/deviceid/NOTICE.txt
 node_modules/@vscode/deviceid/SECURITY.md
 node_modules/@vscode/deviceid/azure-pipelines/azure-pipeline.yml
+node_modules/@vscode/deviceid/azure-pipelines/release.yml
 node_modules/@vscode/deviceid/build/Release/windows.node
 node_modules/@vscode/deviceid/dist/devdeviceid.js
 node_modules/@vscode/deviceid/dist/index.js
@@ -1956,7 +1958,8 @@ node_modules/vsda/build/Release/vsda.node
 node_modules/vsda/index.d.ts
 node_modules/vsda/index.js
 node_modules/vsda/package.json
-node_modules/vsda/rust/web/package.json
+node_modules/vsda/rust/bundler/vsda.d.ts
+node_modules/vsda/rust/bundler/vsda.js
 node_modules/vsda/rust/web/vsda.d.ts
 node_modules/vsda/rust/web/vsda.js
 node_modules/vsda/rust/web/vsda_bg.wasm
