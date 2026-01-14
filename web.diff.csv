@@ -35,7 +35,7 @@ node_modules/get-system-fonts/dist/index.js,,Y,,
 node_modules/get-system-fonts/dist/recursiveWalk.js,,Y,,
 node_modules/promise-stream-reader/dist/index.js,,Y,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
-node_modules/vsda/rust/web/package.json,,Y,Y,
+node_modules/vsda/rust/web/package.json,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y
