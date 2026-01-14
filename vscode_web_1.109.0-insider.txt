@@ -939,7 +939,6 @@ node_modules/vscode-oniguruma/release/main.js
 node_modules/vscode-oniguruma/release/onig.wasm
 node_modules/vscode-regexp-languagedetection/dist/index.js
 node_modules/vscode-textmate/release/main.js
-node_modules/vsda/rust/web/package.json
 node_modules/vsda/rust/web/vsda.d.ts
 node_modules/vsda/rust/web/vsda.js
 node_modules/vsda/rust/web/vsda_bg.wasm
