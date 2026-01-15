@@ -695,6 +695,11 @@ node_modules/@vscode/iconv-lite-umd/LICENSE
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt
 node_modules/@vscode/iconv-lite-umd/package.json
+node_modules/@vscode/native-watchdog/LICENSE
+node_modules/@vscode/native-watchdog/SECURITY.md
+node_modules/@vscode/native-watchdog/build/Release/watchdog.node
+node_modules/@vscode/native-watchdog/index.js
+node_modules/@vscode/native-watchdog/package.json
 node_modules/@vscode/proxy-agent/LICENSE.md
 node_modules/@vscode/proxy-agent/SECURITY.md
 node_modules/@vscode/proxy-agent/out/agent.js
@@ -1208,11 +1213,6 @@ node_modules/napi-build-utils/LICENSE
 node_modules/napi-build-utils/index.js
 node_modules/napi-build-utils/index.md
 node_modules/napi-build-utils/package.json
-node_modules/native-watchdog/LICENSE
-node_modules/native-watchdog/SECURITY.md
-node_modules/native-watchdog/build/Release/watchdog.node
-node_modules/native-watchdog/index.js
-node_modules/native-watchdog/package.json
 node_modules/node-abi/LICENSE
 node_modules/node-abi/abi_registry.json
 node_modules/node-abi/index.js
