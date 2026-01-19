@@ -398,6 +398,12 @@ extensions/swift/package.json
 extensions/swift/package.nls.json
 extensions/swift/snippets/swift.code-snippets
 extensions/swift/syntaxes/swift.tmLanguage.json
+extensions/theme-2026/cgmanifest.json
+extensions/theme-2026/package.json
+extensions/theme-2026/package.nls.json
+extensions/theme-2026/themes/2026-dark.json
+extensions/theme-2026/themes/2026-light.json
+extensions/theme-2026/themes/styles.css
 extensions/theme-abyss/package.json
 extensions/theme-abyss/package.nls.json
 extensions/theme-abyss/themes/abyss-color-theme.json
