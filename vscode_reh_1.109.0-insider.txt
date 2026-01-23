@@ -725,7 +725,6 @@ node_modules/@vscode/spdlog/azure-pipelines/publish.yml
 node_modules/@vscode/spdlog/build/Release/spdlog.node
 node_modules/@vscode/spdlog/index.js
 node_modules/@vscode/spdlog/package.json
-node_modules/@vscode/spdlog/tsconfig.json
 node_modules/@vscode/tree-sitter-wasm/LICENSE
 node_modules/@vscode/tree-sitter-wasm/SECURITY.md
 node_modules/@vscode/tree-sitter-wasm/cgmanifest.json
