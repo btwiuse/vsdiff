@@ -398,7 +398,6 @@ extensions/swift/package.json
 extensions/swift/package.nls.json
 extensions/swift/snippets/swift.code-snippets
 extensions/swift/syntaxes/swift.tmLanguage.json
-extensions/theme-2026/cgmanifest.json
 extensions/theme-2026/package.json
 extensions/theme-2026/package.nls.json
 extensions/theme-2026/themes/2026-dark.json

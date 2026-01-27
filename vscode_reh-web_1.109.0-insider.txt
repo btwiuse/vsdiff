@@ -708,7 +708,6 @@ extensions/terminal-suggest/dist/media/icon.png
 extensions/terminal-suggest/dist/terminalSuggestMain.js
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
-extensions/theme-2026/cgmanifest.json
 extensions/theme-2026/package.json
 extensions/theme-2026/package.nls.json
 extensions/theme-2026/themes/2026-dark.json

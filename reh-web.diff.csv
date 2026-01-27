@@ -20,7 +20,7 @@ extensions/microsoft-authentication/dist/libmsalruntime.so,Y,,Y,Y,Y
 extensions/microsoft-authentication/dist/msal-node-runtime.node,Y,,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-extensions/theme-2026/cgmanifest.json,Y,,,Y,
+extensions/theme-2026/cgmanifest.json,Y,,,,
 extensions/theme-2026/package.json,Y,,,Y,
 extensions/theme-2026/package.nls.json,Y,,,Y,
 extensions/theme-2026/themes/2026-dark.json,Y,,,Y,
