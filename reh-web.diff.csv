@@ -16,6 +16,10 @@ extensions/html-language-features/server/dist/node/421.htmlServerMain.js,,Y,,,
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,Y,,Y,Y,Y
 extensions/json-language-features/server/dist/node/774.jsonServerMain.js,,Y,,,
 extensions/json-language-features/server/dist/node/990.jsonServerMain.js,Y,,Y,Y,Y
+extensions/mermaid-chat-features/chat-webview-out/index-editor.js,,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/index-editor.ts,,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts,,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts,,,,Y,
 extensions/microsoft-authentication/dist/libmsalruntime.so,Y,,Y,Y,Y
 extensions/microsoft-authentication/dist/msal-node-runtime.node,Y,,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
