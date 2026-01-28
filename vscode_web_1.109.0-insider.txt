@@ -279,6 +279,7 @@ extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
 extensions/mermaid-chat-features/README.md
+extensions/mermaid-chat-features/chat-webview-out/codicon.css
 extensions/mermaid-chat-features/chat-webview-out/index-editor.js
 extensions/mermaid-chat-features/chat-webview-out/index.js
 extensions/mermaid-chat-features/chat-webview-src/index-editor.ts

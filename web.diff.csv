@@ -3,6 +3,7 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
+extensions/mermaid-chat-features/chat-webview-out/codicon.css,,,,Y
 extensions/mermaid-chat-features/chat-webview-out/index-editor.js,,,,Y
 extensions/mermaid-chat-features/chat-webview-src/index-editor.ts,,,,Y
 extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts,,,,Y

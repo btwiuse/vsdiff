@@ -16,6 +16,7 @@ extensions/html-language-features/server/dist/node/421.htmlServerMain.js,,Y,,,
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,Y,,Y,Y,Y
 extensions/json-language-features/server/dist/node/774.jsonServerMain.js,,Y,,,
 extensions/json-language-features/server/dist/node/990.jsonServerMain.js,Y,,Y,Y,Y
+extensions/mermaid-chat-features/chat-webview-out/codicon.css,,,,Y,
 extensions/mermaid-chat-features/chat-webview-out/index-editor.js,,,,Y,
 extensions/mermaid-chat-features/chat-webview-src/index-editor.ts,,,,Y,
 extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts,,,,Y,
