@@ -383,6 +383,7 @@
 | node_modules/@vscode/codicons/src/icons/octoface.svg                                |                              |                                    |                        | Y                              |
 | node_modules/@vscode/codicons/src/icons/open-in-product.svg                         |                              |                                    |                        | Y                              |
 | node_modules/@vscode/codicons/src/icons/open-preview.svg                            |                              |                                    |                        | Y                              |
+| node_modules/@vscode/codicons/src/icons/openai.svg                                  |                              |                                    |                        | Y                              |
 | node_modules/@vscode/codicons/src/icons/organization.svg                            |                              |                                    |                        | Y                              |
 | node_modules/@vscode/codicons/src/icons/output.svg                                  |                              |                                    |                        | Y                              |
 | node_modules/@vscode/codicons/src/icons/package.svg                                 |                              |                                    |                        | Y                              |

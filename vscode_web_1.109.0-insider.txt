@@ -1004,6 +1004,7 @@ node_modules/@vscode/codicons/src/icons/notebook.svg
 node_modules/@vscode/codicons/src/icons/octoface.svg
 node_modules/@vscode/codicons/src/icons/open-in-product.svg
 node_modules/@vscode/codicons/src/icons/open-preview.svg
+node_modules/@vscode/codicons/src/icons/openai.svg
 node_modules/@vscode/codicons/src/icons/organization.svg
 node_modules/@vscode/codicons/src/icons/output.svg
 node_modules/@vscode/codicons/src/icons/package.svg
