@@ -734,6 +734,7 @@ node_modules/@vscode/codicons/src/icons/circle-small-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-small.svg
 node_modules/@vscode/codicons/src/icons/circle.svg
 node_modules/@vscode/codicons/src/icons/circuit-board.svg
+node_modules/@vscode/codicons/src/icons/claude.svg
 node_modules/@vscode/codicons/src/icons/clear-all.svg
 node_modules/@vscode/codicons/src/icons/clippy.svg
 node_modules/@vscode/codicons/src/icons/clockface.svg
