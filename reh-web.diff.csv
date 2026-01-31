@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26026.txt,vscode_reh-web_1.107.0-exploration.txt,vscode_reh-web_1.108.2.txt,vscode_reh-web_1.109.0-insider.txt,vscodium_reh-web_1.108.10359.txt
+File,codigo_reh-web_1.100.0.26032.txt,vscode_reh-web_1.107.0-exploration.txt,vscode_reh-web_1.108.2.txt,vscode_reh-web_1.109.0-insider.txt,vscodium_reh-web_1.108.10359.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -16,16 +16,15 @@ extensions/html-language-features/server/dist/node/421.htmlServerMain.js,,Y,,,
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,Y,,Y,Y,Y
 extensions/json-language-features/server/dist/node/774.jsonServerMain.js,,Y,,,
 extensions/json-language-features/server/dist/node/990.jsonServerMain.js,Y,,Y,Y,Y
-extensions/mermaid-chat-features/chat-webview-out/codicon.css,,,,Y,
-extensions/mermaid-chat-features/chat-webview-out/index-editor.js,,,,Y,
-extensions/mermaid-chat-features/chat-webview-src/index-editor.ts,,,,Y,
-extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts,,,,Y,
-extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts,,,,Y,
+extensions/mermaid-chat-features/chat-webview-out/codicon.css,Y,,,Y,
+extensions/mermaid-chat-features/chat-webview-out/index-editor.js,Y,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/index-editor.ts,Y,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts,Y,,,Y,
+extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts,Y,,,Y,
 extensions/microsoft-authentication/dist/libmsalruntime.so,Y,,Y,Y,Y
 extensions/microsoft-authentication/dist/msal-node-runtime.node,Y,,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-extensions/theme-2026/cgmanifest.json,Y,,,,
 extensions/theme-2026/package.json,Y,,,Y,
 extensions/theme-2026/package.nls.json,Y,,,Y,
 extensions/theme-2026/themes/2026-dark.json,Y,,,Y,
