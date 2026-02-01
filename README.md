@@ -1660,7 +1660,7 @@
 | package.json                                                                                                      |                              | Y                                  | Y                      | Y                              |
 ## reh
 
-| File                                                                                        | codigo_reh_1.100.0.26033.txt | vscode_reh_1.107.0-exploration.txt | vscode_reh_1.108.2.txt | vscode_reh_1.109.0-insider.txt | vscodium_reh_1.108.10359.txt |
+| File                                                                                        | codigo_reh_1.100.0.26033.txt | vscode_reh_1.107.0-exploration.txt | vscode_reh_1.108.2.txt | vscode_reh_1.109.0-insider.txt | vscodium_reh_1.108.20787.txt |
 | ------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                                                     | Y                            | Y                                  | Y                      | Y                              |                              |
 | bin/code-server                                                                             |                              |                                    | Y                      |                                |                              |
@@ -1840,7 +1840,7 @@
 | node_modules/vsda/rust/web/vsda_bg.wasm.d.ts                                                |                              | Y                                  | Y                      | Y                              |                              |
 ## reh-web
 
-| File                                                                                        | codigo_reh-web_1.100.0.26033.txt | vscode_reh-web_1.107.0-exploration.txt | vscode_reh-web_1.108.2.txt | vscode_reh-web_1.109.0-insider.txt | vscodium_reh-web_1.108.10359.txt |
+| File                                                                                        | codigo_reh-web_1.100.0.26033.txt | vscode_reh-web_1.107.0-exploration.txt | vscode_reh-web_1.108.2.txt | vscode_reh-web_1.109.0-insider.txt | vscodium_reh-web_1.108.20787.txt |
 | ------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | -------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                                     | Y                                | Y                                      | Y                          | Y                                  |                                  |
 | bin/code-server                                                                             |                                  |                                        | Y                          |                                    |                                  |
