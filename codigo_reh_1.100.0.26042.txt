@@ -151,9 +151,8 @@ extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/extension.js
-extensions/markdown-language-features/dist/extension.js.LICENSE.txt
 extensions/markdown-language-features/dist/serverWorkerMain.js
-extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt
+extensions/markdown-language-features/esbuild.ts
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js

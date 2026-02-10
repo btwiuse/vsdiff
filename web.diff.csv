@@ -3,6 +3,9 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
+extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,Y,Y
+extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,Y,Y
+extensions/markdown-language-features/esbuild.ts,Y,,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
