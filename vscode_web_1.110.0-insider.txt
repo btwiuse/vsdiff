@@ -1517,6 +1517,7 @@ node_modules/vsda/rust/web/vsda_bg.wasm
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts
 node_modules/yallist/iterator.js
 node_modules/yallist/yallist.js
+out/date
 out/media/apple-dark.svg
 out/media/apple-light.svg
 out/media/code-icon.svg
@@ -1531,7 +1532,12 @@ out/media/loading-dark.svg
 out/media/loading-hc.svg
 out/media/loading.svg
 out/media/opacity-background.png
+out/nls.keys.json
 out/nls.messages.js
+out/nls.messages.json
+out/nls.metadata.json
+out/vs/code/browser/workbench/callback.html
+out/vs/code/browser/workbench/workbench.html
 out/vs/editor/common/languages/highlights/css.scm
 out/vs/editor/common/languages/highlights/ini.scm
 out/vs/editor/common/languages/highlights/regex.scm
@@ -1571,6 +1577,9 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
+out/vs/workbench/contrib/extensions/browser/media/loading.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/notebook/common/services/notebookWebWorkerMain.js
 out/vs/workbench/contrib/output/common/outputLinkComputerMain.js

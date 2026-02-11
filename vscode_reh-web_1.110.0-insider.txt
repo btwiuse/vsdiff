@@ -2985,6 +2985,7 @@ node_modules/zod/v4/mini/schemas.cjs
 node_modules/zod/v4/mini/schemas.d.cts
 node_modules/zod/v4/mini/schemas.js
 out/bootstrap-fork.js
+out/date
 out/media/apple-dark.svg
 out/media/apple-light.svg
 out/media/code-icon.svg
@@ -3002,6 +3003,7 @@ out/media/opacity-background.png
 out/nls.keys.json
 out/nls.messages.js
 out/nls.messages.json
+out/nls.metadata.json
 out/server-cli.js
 out/server-main.js
 out/vs/base/node/cpuUsage.sh
@@ -3052,6 +3054,9 @@ out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
+out/vs/workbench/contrib/extensions/browser/media/loading.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/externalTerminal/node/TerminalHelper.scpt
 out/vs/workbench/contrib/externalTerminal/node/iTermHelper.scpt
@@ -3101,6 +3106,8 @@ out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution
 out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMain.js
 out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
+out/vs/workbench/workbench.web.main.internal.css
+out/vs/workbench/workbench.web.main.internal.js
 package.json
 product.json
 resources/server/code-192.png

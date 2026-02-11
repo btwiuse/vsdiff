@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26043.txt,vscode_reh-web_1.109.2.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.01000.txt
+File,codigo_reh-web_1.100.0.26043.txt,vscode_reh-web_1.109.2.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.21026.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -44,5 +44,12 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
+out/date,,,,Y,
+out/nls.metadata.json,,,,Y,
+out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,,,,Y,
+out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,,,,Y,
+out/vs/workbench/contrib/extensions/browser/media/loading.svg,,,,Y,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,,
+out/vs/workbench/workbench.web.main.internal.css,,,,Y,
+out/vs/workbench/workbench.web.main.internal.js,,,,Y,

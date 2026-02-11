@@ -2678,8 +2678,11 @@ node_modules/zod/v4/mini/schemas.cjs
 node_modules/zod/v4/mini/schemas.d.cts
 node_modules/zod/v4/mini/schemas.js
 out/bootstrap-fork.js
+out/date
 out/nls.keys.json
+out/nls.messages.js
 out/nls.messages.json
+out/nls.metadata.json
 out/server-cli.js
 out/server-main.js
 out/vs/base/node/cpuUsage.sh
