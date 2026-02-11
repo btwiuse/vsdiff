@@ -10,9 +10,9 @@ bin/remote-cli/code-exploration,,,Y,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
-extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,Y,Y,Y
-extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,Y,Y,Y
-extensions/markdown-language-features/esbuild.ts,Y,,,,
+extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,Y,,Y
+extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,Y,,Y
+extensions/markdown-language-features/esbuild.ts,Y,,,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
