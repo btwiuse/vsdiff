@@ -13,6 +13,11 @@ bin/remote-cli/codium,,,,,Y
 extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,,,Y
 extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,,,Y
 extensions/markdown-language-features/esbuild.ts,Y,,Y,Y,
+extensions/markdown-math/esbuild-browser.ts,Y,,,,
+extensions/media-preview/esbuild-browser.ts,Y,,,,
+extensions/media-preview/esbuild.ts,Y,,,,
+extensions/mermaid-chat-features/esbuild-browser.ts,Y,,,,
+extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
