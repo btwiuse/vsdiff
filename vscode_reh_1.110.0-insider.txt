@@ -152,7 +152,6 @@ extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/extension.js
 extensions/markdown-language-features/dist/serverWorkerMain.js
-extensions/markdown-language-features/esbuild.ts
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -226,8 +225,6 @@ extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts
 extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
 extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts
 extensions/mermaid-chat-features/dist/extension.js
-extensions/mermaid-chat-features/esbuild-chat-webview.mjs
-extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
@@ -477,6 +474,7 @@ extensions/search-result/package.nls.json
 extensions/search-result/syntaxes/searchResult.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/extension.js
+extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
