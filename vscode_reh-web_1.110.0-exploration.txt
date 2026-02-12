@@ -290,7 +290,6 @@ extensions/markdown-basics/syntaxes/markdown.tmLanguage.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/extension.js
 extensions/markdown-language-features/dist/serverWorkerMain.js
-extensions/markdown-language-features/esbuild.ts
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -364,8 +363,6 @@ extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts
 extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
 extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts
 extensions/mermaid-chat-features/dist/extension.js
-extensions/mermaid-chat-features/esbuild-chat-webview.mjs
-extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
@@ -687,6 +684,7 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/extension.js
+extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
@@ -2985,6 +2983,7 @@ node_modules/zod/v4/mini/schemas.cjs
 node_modules/zod/v4/mini/schemas.d.cts
 node_modules/zod/v4/mini/schemas.js
 out/bootstrap-fork.js
+out/date
 out/media/apple-dark.svg
 out/media/apple-light.svg
 out/media/code-icon.svg
@@ -3002,6 +3001,7 @@ out/media/opacity-background.png
 out/nls.keys.json
 out/nls.messages.js
 out/nls.messages.json
+out/nls.metadata.json
 out/server-cli.js
 out/server-main.js
 out/vs/base/node/cpuUsage.sh
@@ -3052,6 +3052,9 @@ out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
+out/vs/workbench/contrib/extensions/browser/media/loading.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/externalTerminal/node/TerminalHelper.scpt
 out/vs/workbench/contrib/externalTerminal/node/iTermHelper.scpt
@@ -3101,6 +3104,8 @@ out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution
 out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMain.js
 out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
+out/vs/workbench/workbench.web.main.internal.css
+out/vs/workbench/workbench.web.main.internal.js
 package.json
 product.json
 resources/server/code-192.png

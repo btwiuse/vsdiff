@@ -12,12 +12,11 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,,,Y
 extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,,,Y
-extensions/markdown-language-features/esbuild.ts,,,Y,,
-extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,Y,,Y
-extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,Y,,Y
+extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,,,Y
+extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,,,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-extensions/simple-browser/esbuild.webview.mts,Y,,,Y,
+extensions/simple-browser/esbuild.webview.mts,Y,,Y,Y,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/package.json,,Y,Y,Y,
 node_modules/@vscode/vsce-sign/src/main.d.ts,,Y,Y,Y,
@@ -45,6 +44,6 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
-out/date,,,,Y,
-out/nls.messages.js,,,,Y,
-out/nls.metadata.json,,,,Y,
+out/date,,,Y,Y,
+out/nls.messages.js,,,Y,Y,
+out/nls.metadata.json,,,Y,Y,
