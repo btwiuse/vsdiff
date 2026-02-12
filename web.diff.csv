@@ -5,12 +5,10 @@ code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
 extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,,
-extensions/markdown-language-features/esbuild.ts,Y,,Y,Y
-extensions/markdown-math/esbuild-browser.ts,Y,,,
-extensions/media-preview/esbuild-browser.ts,Y,,,
-extensions/media-preview/esbuild.ts,Y,,,
-extensions/mermaid-chat-features/esbuild-browser.ts,Y,,,
+extensions/markdown-language-features/esbuild.ts,,,Y,Y
+extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,Y,Y
 extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,Y,Y
+extensions/simple-browser/esbuild.webview.mts,Y,,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y

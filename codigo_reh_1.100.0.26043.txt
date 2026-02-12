@@ -152,7 +152,6 @@ extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/extension.js
 extensions/markdown-language-features/dist/serverWorkerMain.js
-extensions/markdown-language-features/esbuild.ts
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -166,7 +165,6 @@ extensions/markdown-language-features/package.nls.json
 extensions/markdown-language-features/schemas/package.schema.json
 extensions/markdown-math/README.md
 extensions/markdown-math/dist/extension.js
-extensions/markdown-math/esbuild-browser.ts
 extensions/markdown-math/icon.png
 extensions/markdown-math/notebook-out/fonts/KaTeX_AMS-Regular.woff2
 extensions/markdown-math/notebook-out/fonts/KaTeX_Caligraphic-Bold.woff2
@@ -199,8 +197,6 @@ extensions/markdown-math/syntaxes/md-math-inline.tmLanguage.json
 extensions/markdown-math/syntaxes/md-math.tmLanguage.json
 extensions/media-preview/README.md
 extensions/media-preview/dist/extension.js
-extensions/media-preview/esbuild-browser.ts
-extensions/media-preview/esbuild.ts
 extensions/media-preview/icon.png
 extensions/media-preview/media/audioPreview.css
 extensions/media-preview/media/audioPreview.js
@@ -229,8 +225,6 @@ extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts
 extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
 extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts
 extensions/mermaid-chat-features/dist/extension.js
-extensions/mermaid-chat-features/esbuild-browser.ts
-extensions/mermaid-chat-features/esbuild-chat-webview.mjs
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
@@ -480,6 +474,7 @@ extensions/search-result/package.nls.json
 extensions/search-result/syntaxes/searchResult.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/extension.js
+extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
