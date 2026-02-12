@@ -213,7 +213,6 @@ extensions/markdown-basics/syntaxes/markdown.tmLanguage.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/browser/extension.js
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js
-extensions/markdown-language-features/esbuild.ts
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -287,8 +286,6 @@ extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts
 extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
 extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts
 extensions/mermaid-chat-features/dist/browser/extension.js
-extensions/mermaid-chat-features/esbuild-chat-webview.mjs
-extensions/mermaid-chat-features/extension-browser.webpack.config.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/notebook-renderers/README.md
@@ -385,6 +382,7 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/browser/extension.js
+extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
@@ -1517,6 +1515,7 @@ node_modules/vsda/rust/web/vsda_bg.wasm
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts
 node_modules/yallist/iterator.js
 node_modules/yallist/yallist.js
+out/date
 out/media/apple-dark.svg
 out/media/apple-light.svg
 out/media/code-icon.svg
@@ -1531,7 +1530,12 @@ out/media/loading-dark.svg
 out/media/loading-hc.svg
 out/media/loading.svg
 out/media/opacity-background.png
+out/nls.keys.json
 out/nls.messages.js
+out/nls.messages.json
+out/nls.metadata.json
+out/vs/code/browser/workbench/callback.html
+out/vs/code/browser/workbench/workbench.html
 out/vs/editor/common/languages/highlights/css.scm
 out/vs/editor/common/languages/highlights/ini.scm
 out/vs/editor/common/languages/highlights/regex.scm
@@ -1571,6 +1575,9 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
+out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
+out/vs/workbench/contrib/extensions/browser/media/loading.svg
 out/vs/workbench/contrib/extensions/browser/media/theme-icon.png
 out/vs/workbench/contrib/notebook/common/services/notebookWebWorkerMain.js
 out/vs/workbench/contrib/output/common/outputLinkComputerMain.js
