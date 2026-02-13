@@ -10,7 +10,7 @@ extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,,
 extensions/simple-browser/esbuild.webview.mts,Y,,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
-node_modules/@vscode/codicons/src/icons/open-in-window.svg,Y,,,
+node_modules/@vscode/codicons/src/icons/open-in-window.svg,Y,,Y,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
@@ -22,11 +22,11 @@ out/nls.messages.json,Y,,Y,Y
 out/nls.metadata.json,Y,,Y,Y
 out/vs/code/browser/workbench/callback.html,Y,,Y,Y
 out/vs/code/browser/workbench/workbench.html,Y,,Y,Y
-out/vs/workbench/browser/media/code-icon.svg,Y,,Y,
-out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,Y,
-out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,Y,
-out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,Y,,Y,
-out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,Y,,Y,
+out/vs/workbench/browser/media/code-icon.svg,Y,,Y,Y
+out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,Y,Y
+out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,Y,Y
+out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,Y,,Y,Y
+out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading.svg,Y,,Y,Y

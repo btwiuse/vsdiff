@@ -1001,6 +1001,7 @@ node_modules/@vscode/codicons/src/icons/notebook-template.svg
 node_modules/@vscode/codicons/src/icons/notebook.svg
 node_modules/@vscode/codicons/src/icons/octoface.svg
 node_modules/@vscode/codicons/src/icons/open-in-product.svg
+node_modules/@vscode/codicons/src/icons/open-in-window.svg
 node_modules/@vscode/codicons/src/icons/open-preview.svg
 node_modules/@vscode/codicons/src/icons/openai.svg
 node_modules/@vscode/codicons/src/icons/organization.svg
@@ -1574,6 +1575,11 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
+out/vs/workbench/browser/media/code-icon.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-light.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
