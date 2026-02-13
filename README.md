@@ -19,6 +19,7 @@
 | extensions/simple-browser/esbuild.webview.mts                                      | Y                            |                        | Y                                  | Y                              |
 | extensions/theme-defaults/themes/dark-colorblind.json                              | Y                            |                        |                                    |                                |
 | extensions/theme-defaults/themes/light-colorblind.json                             | Y                            |                        |                                    |                                |
+| node_modules/@vscode/codicons/src/icons/open-in-window.svg                         | Y                            |                        |                                    |                                |
 | node_modules/vscode-regexp-languagedetection/dist/index.js                         |                              | Y                      | Y                                  | Y                              |
 | node_modules/vsda/rust/web/vsda.d.ts                                               |                              | Y                      | Y                                  | Y                              |
 | node_modules/vsda/rust/web/vsda.js                                                 |                              | Y                      | Y                                  | Y                              |
