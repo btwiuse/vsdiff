@@ -21,6 +21,11 @@ out/nls.messages.json,Y,,Y,Y
 out/nls.metadata.json,Y,,Y,Y
 out/vs/code/browser/workbench/callback.html,Y,,Y,Y
 out/vs/code/browser/workbench/workbench.html,Y,,Y,Y
+out/vs/workbench/browser/media/code-icon.svg,Y,,,
+out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,,
+out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,,
+out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,Y,,,
+out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,Y,,,
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading.svg,Y,,Y,Y
