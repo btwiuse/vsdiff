@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26044.txt,vscode_reh-web_1.109.3.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.21026.txt
+File,codigo_reh-web_1.100.0.26045.txt,vscode_reh-web_1.109.3.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.21026.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -16,7 +16,7 @@ extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,,,Y
 extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,,,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-extensions/npm/dist/npmMain.js.LICENSE.txt,,Y,Y,,Y
+extensions/npm/dist/npmMain.js.LICENSE.txt,,Y,,,Y
 extensions/simple-browser/esbuild.webview.mts,Y,,Y,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
@@ -49,6 +49,11 @@ node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
 out/date,,,Y,Y,
 out/nls.metadata.json,,,Y,Y,
+out/vs/workbench/browser/media/code-icon.svg,,,Y,,
+out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,,,Y,,
+out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,,,Y,,
+out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,,,Y,,
+out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,,,Y,,
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,,,Y,Y,
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,,,Y,Y,
 out/vs/workbench/contrib/extensions/browser/media/loading.svg,,,Y,Y,

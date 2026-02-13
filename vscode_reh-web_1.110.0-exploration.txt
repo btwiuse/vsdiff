@@ -591,7 +591,6 @@ extensions/notebook-renderers/package.nls.json
 extensions/notebook-renderers/renderer-out/index.js
 extensions/npm/README.md
 extensions/npm/dist/npmMain.js
-extensions/npm/dist/npmMain.js.LICENSE.txt
 extensions/npm/images/code.svg
 extensions/npm/images/npm_icon.png
 extensions/npm/package.json
@@ -3051,6 +3050,11 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
+out/vs/workbench/browser/media/code-icon.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg
+out/vs/workbench/browser/parts/editor/media/letterpress-light.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
