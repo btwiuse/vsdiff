@@ -591,7 +591,6 @@ extensions/notebook-renderers/package.nls.json
 extensions/notebook-renderers/renderer-out/index.js
 extensions/npm/README.md
 extensions/npm/dist/npmMain.js
-extensions/npm/dist/npmMain.js.LICENSE.txt
 extensions/npm/images/code.svg
 extensions/npm/images/npm_icon.png
 extensions/npm/package.json
