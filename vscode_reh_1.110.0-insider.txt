@@ -448,7 +448,6 @@ extensions/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
 extensions/node_modules/typescript/package.json
 extensions/npm/README.md
 extensions/npm/dist/npmMain.js
-extensions/npm/dist/npmMain.js.LICENSE.txt
 extensions/npm/images/code.svg
 extensions/npm/images/npm_icon.png
 extensions/npm/package.json

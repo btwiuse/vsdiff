@@ -16,7 +16,7 @@ extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,,,Y
 extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,,,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
-extensions/npm/dist/npmMain.js.LICENSE.txt,,Y,Y,Y,Y
+extensions/npm/dist/npmMain.js.LICENSE.txt,,Y,Y,,Y
 extensions/simple-browser/esbuild.webview.mts,Y,,Y,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
