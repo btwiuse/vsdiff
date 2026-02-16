@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26047.txt,vscode_reh-web_1.109.3.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.31074.txt
+File,codigo_reh-web_1.100.0.26047.txt,vscode_reh-web_1.109.4.txt,vscode_reh-web_1.110.0-exploration.txt,vscode_reh-web_1.110.0-insider.txt,vscodium_reh-web_1.109.31074.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -54,6 +54,10 @@ out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,,,Y,Y,
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,,,Y,Y,
 out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,,,Y,Y,
 out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-exploration.svg,,,Y,,
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-insider.svg,,,Y,,
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-stable.svg,,,Y,,
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions.svg,,,Y,,
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,,,Y,Y,
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,,,Y,Y,
 out/vs/workbench/contrib/extensions/browser/media/loading.svg,,,Y,Y,

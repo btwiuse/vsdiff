@@ -1580,6 +1580,10 @@ out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-light.svg
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-exploration.svg
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-insider.svg
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-stable.svg
+out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions.svg
 out/vs/workbench/contrib/extensions/browser/media/language-icon.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg
