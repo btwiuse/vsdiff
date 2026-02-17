@@ -22,6 +22,10 @@ out/nls.messages.json,Y,,Y,Y
 out/nls.metadata.json,Y,,Y,Y
 out/vs/code/browser/workbench/callback.html,Y,,Y,Y
 out/vs/code/browser/workbench/workbench.html,Y,,Y,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg,,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg,,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg,,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg,,,,Y
 out/vs/workbench/browser/media/code-icon.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,Y,Y

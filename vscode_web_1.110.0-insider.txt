@@ -1574,6 +1574,10 @@ out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg
