@@ -27,10 +27,6 @@ out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-light.svg,Y,,Y,Y
-out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-exploration.svg,,,Y,
-out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-insider.svg,,,Y,
-out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions-stable.svg,,,Y,
-out/vs/workbench/contrib/chat/browser/viewsWelcome/media/code-icon-agent-sessions.svg,,,Y,
 out/vs/workbench/contrib/extensions/browser/media/loading-dark.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading-hc.svg,Y,,Y,Y
 out/vs/workbench/contrib/extensions/browser/media/loading.svg,Y,,Y,Y
