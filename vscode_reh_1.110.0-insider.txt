@@ -15,8 +15,6 @@ extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
-extensions/css-language-features/server/dist/node/533.cssServerMain.js
-extensions/css-language-features/server/dist/node/920.cssServerMain.js
 extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
 extensions/debug-auto-launch/.vscode/launch.json

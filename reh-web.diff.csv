@@ -10,6 +10,8 @@ bin/remote-cli/code-exploration,,,Y,,
 bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
+extensions/css-language-features/server/dist/node/533.cssServerMain.js,Y,Y,Y,,Y
+extensions/css-language-features/server/dist/node/920.cssServerMain.js,Y,Y,Y,,Y
 extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,,,Y
 extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,,,Y
 extensions/merge-conflict/dist/mergeConflictMain.js.LICENSE.txt,Y,Y,Y,,Y
