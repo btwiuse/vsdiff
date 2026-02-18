@@ -349,7 +349,6 @@ extensions/media-preview/package.json
 extensions/media-preview/package.nls.json
 extensions/merge-conflict/README.md
 extensions/merge-conflict/dist/mergeConflictMain.js
-extensions/merge-conflict/dist/mergeConflictMain.js.LICENSE.txt
 extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
@@ -667,8 +666,6 @@ extensions/scss/syntaxes/sassdoc.tmLanguage.json
 extensions/scss/syntaxes/scss.tmLanguage.json
 extensions/search-result/README.md
 extensions/search-result/dist/extension.js
-extensions/search-result/dist/media/refresh-dark.svg
-extensions/search-result/dist/media/refresh-light.svg
 extensions/search-result/images/icon.png
 extensions/search-result/package.json
 extensions/search-result/package.nls.json
@@ -683,7 +680,6 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/extension.js
-extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js

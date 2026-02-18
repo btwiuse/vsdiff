@@ -5,9 +5,16 @@ code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
 extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,,
+extensions/merge-conflict/dist/browser/mergeConflictMain.js.LICENSE.txt,Y,Y,Y,
 extensions/mermaid-chat-features/esbuild-chat-webview.mjs,,Y,,
 extensions/mermaid-chat-features/extension-browser.webpack.config.js,,Y,,
-extensions/simple-browser/esbuild.webview.mts,Y,,Y,Y
+extensions/references-view/dist/browser/extension.js,,,,Y
+extensions/references-view/dist/extension.js,Y,Y,Y,
+extensions/search-result/dist/browser/extension.js,,,,Y
+extensions/search-result/dist/extension.js,Y,Y,Y,
+extensions/search-result/dist/media/refresh-dark.svg,Y,Y,Y,
+extensions/search-result/dist/media/refresh-light.svg,Y,Y,Y,
+extensions/simple-browser/esbuild.webview.mts,Y,,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 node_modules/@vscode/codicons/src/icons/open-in-window.svg,Y,,Y,Y
