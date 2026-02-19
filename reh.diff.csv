@@ -12,6 +12,13 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/css-language-features/server/dist/node/533.cssServerMain.js,,Y,Y,,Y
 extensions/css-language-features/server/dist/node/920.cssServerMain.js,,Y,Y,,Y
+extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,Y,Y,Y
+extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,Y,Y,Y
+extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,Y,Y,Y,Y
+extensions/html-language-features/server/dist/node/769.htmlServerMain.js,,Y,Y,Y,Y
+extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt,,Y,Y,Y,Y
+extensions/json-language-features/server/dist/node/962.jsonServerMain.js,,Y,Y,Y,Y
+extensions/json-language-features/server/dist/node/990.jsonServerMain.js,,Y,Y,Y,Y
 extensions/markdown-language-features/dist/extension.js.LICENSE.txt,,Y,,,Y
 extensions/markdown-language-features/dist/serverWorkerMain.js.LICENSE.txt,,Y,,,Y
 extensions/merge-conflict/dist/mergeConflictMain.js.LICENSE.txt,,Y,Y,,Y

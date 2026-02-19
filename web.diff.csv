@@ -3,6 +3,7 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
+extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt,,Y,Y,Y
 extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,,
 extensions/merge-conflict/dist/browser/mergeConflictMain.js.LICENSE.txt,,Y,Y,

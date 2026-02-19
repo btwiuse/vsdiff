@@ -129,7 +129,6 @@ extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
 extensions/html-language-features/server/dist/browser/htmlServerMain.js
-extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
 extensions/html/language-configuration.json
