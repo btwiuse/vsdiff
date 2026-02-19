@@ -479,8 +479,6 @@ extensions/simple-browser/package.nls.json
 extensions/terminal-suggest/.gitignore
 extensions/terminal-suggest/README.md
 extensions/terminal-suggest/ThirdPartyNotices.txt
-extensions/terminal-suggest/dist/fig/README.md
-extensions/terminal-suggest/dist/media/icon.png
 extensions/terminal-suggest/dist/terminalSuggestMain.js
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
