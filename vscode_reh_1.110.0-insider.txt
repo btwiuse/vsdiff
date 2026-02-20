@@ -112,15 +112,11 @@ extensions/gulp/package.json
 extensions/gulp/package.nls.json
 extensions/html-language-features/README.md
 extensions/html-language-features/client/dist/node/htmlClientMain.js
-extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt
 extensions/html-language-features/icons/html.png
 extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
-extensions/html-language-features/server/dist/node/490.htmlServerMain.js
-extensions/html-language-features/server/dist/node/573.htmlServerMain.js
-extensions/html-language-features/server/dist/node/769.htmlServerMain.js
 extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
@@ -138,13 +134,10 @@ extensions/jake/package.json
 extensions/jake/package.nls.json
 extensions/json-language-features/README.md
 extensions/json-language-features/client/dist/node/jsonClientMain.js
-extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt
 extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
-extensions/json-language-features/server/dist/node/962.jsonServerMain.js
-extensions/json-language-features/server/dist/node/990.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/markdown-language-features/README.md
@@ -489,7 +482,6 @@ extensions/tunnel-forwarding/package.json
 extensions/tunnel-forwarding/package.nls.json
 extensions/typescript-language-features/README.md
 extensions/typescript-language-features/dist/extension.js
-extensions/typescript-language-features/dist/extension.js.LICENSE.txt
 extensions/typescript-language-features/media/icon.png
 extensions/typescript-language-features/package.json
 extensions/typescript-language-features/package.nls.json
@@ -804,6 +796,8 @@ node_modules/@vscode/vsce-sign/src/main.js
 node_modules/@vscode/vscode-languagedetection/LICENSE
 node_modules/@vscode/vscode-languagedetection/SECURITY.md
 node_modules/@vscode/vscode-languagedetection/cli/index.js
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js.LICENSE.txt
 node_modules/@vscode/vscode-languagedetection/dist/lib/index.js
 node_modules/@vscode/vscode-languagedetection/dist/lib/index.js.LICENSE.txt
 node_modules/@vscode/vscode-languagedetection/model/group1-shard1of1.bin

@@ -3,7 +3,7 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
-extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt,,Y,Y,Y
+extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt,,Y,Y,
 extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,,
 extensions/merge-conflict/dist/browser/mergeConflictMain.js.LICENSE.txt,,Y,Y,
@@ -18,10 +18,10 @@ extensions/search-result/dist/media/refresh-light.svg,,Y,Y,
 extensions/simple-browser/esbuild.webview.mts,,,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
-extensions/typescript-language-features/dist/browser/extension.js.LICENSE.txt,,Y,Y,Y
-extensions/typescript-language-features/dist/browser/typescript/tsserver.web.js.LICENSE.txt,,Y,Y,Y
+extensions/typescript-language-features/dist/browser/extension.js.LICENSE.txt,,Y,Y,
+extensions/typescript-language-features/dist/browser/typescript/tsserver.web.js.LICENSE.txt,,Y,Y,
 node_modules/@vscode/codicons/src/icons/open-in-window.svg,Y,,Y,Y
-node_modules/@vscode/vscode-languagedetection/dist/lib/979.js,Y,,,
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js,Y,,,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y

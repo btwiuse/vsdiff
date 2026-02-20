@@ -125,7 +125,6 @@ extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
 extensions/html-language-features/server/dist/browser/htmlServerMain.js
-extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
 extensions/html/language-configuration.json
@@ -466,7 +465,6 @@ extensions/typescript-basics/syntaxes/jsdoc.js.injection.tmLanguage.json
 extensions/typescript-basics/syntaxes/jsdoc.ts.injection.tmLanguage.json
 extensions/typescript-language-features/README.md
 extensions/typescript-language-features/dist/browser/extension.js
-extensions/typescript-language-features/dist/browser/extension.js.LICENSE.txt
 extensions/typescript-language-features/dist/browser/typescript/cs/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/de/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/es/diagnosticMessages.generated.json
@@ -579,7 +577,6 @@ extensions/typescript-language-features/dist/browser/typescript/pt-br/diagnostic
 extensions/typescript-language-features/dist/browser/typescript/ru/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/tr/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/tsserver.web.js
-extensions/typescript-language-features/dist/browser/typescript/tsserver.web.js.LICENSE.txt
 extensions/typescript-language-features/dist/browser/typescript/typesMap.json
 extensions/typescript-language-features/dist/browser/typescript/typescript.d.ts
 extensions/typescript-language-features/dist/browser/typescript/zh-cn/diagnosticMessages.generated.json
@@ -1224,6 +1221,7 @@ node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter.js
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter.wasm
 node_modules/@vscode/tree-sitter-wasm/wasm/web-tree-sitter.d.ts
 node_modules/@vscode/vscode-languagedetection/cli/index.js
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js
 node_modules/@vscode/vscode-languagedetection/dist/lib/index.js
 node_modules/@vscode/vscode-languagedetection/model/group1-shard1of1.bin
 node_modules/@vscode/vscode-languagedetection/model/model.json
