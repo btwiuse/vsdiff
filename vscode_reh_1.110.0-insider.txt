@@ -219,7 +219,6 @@ extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
 extensions/microsoft-authentication/dist/extension.js
-extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
 extensions/microsoft-authentication/dist/libmsalruntime.so
 extensions/microsoft-authentication/dist/msal-node-runtime.node
 extensions/microsoft-authentication/media/auth.css
