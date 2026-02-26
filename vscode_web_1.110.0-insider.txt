@@ -987,6 +987,7 @@ node_modules/@vscode/codicons/src/icons/mute.svg
 node_modules/@vscode/codicons/src/icons/new-collection.svg
 node_modules/@vscode/codicons/src/icons/new-file.svg
 node_modules/@vscode/codicons/src/icons/new-folder.svg
+node_modules/@vscode/codicons/src/icons/new-session.svg
 node_modules/@vscode/codicons/src/icons/newline.svg
 node_modules/@vscode/codicons/src/icons/no-newline.svg
 node_modules/@vscode/codicons/src/icons/note.svg

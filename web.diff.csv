@@ -20,6 +20,7 @@ extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/browser/extension.js.LICENSE.txt,,Y,Y,
 extensions/typescript-language-features/dist/browser/typescript/tsserver.web.js.LICENSE.txt,,Y,Y,
+node_modules/@vscode/codicons/src/icons/new-session.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/open-in-window.svg,Y,,Y,Y
 node_modules/@vscode/vscode-languagedetection/dist/lib/979.js,Y,,,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
