@@ -3,6 +3,7 @@ code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
 code-512-light.png,Y,,,
+extensions/github-authentication/media/sessions-icon.svg,,,Y,
 extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/extension.js.LICENSE.txt,,Y,,
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js.LICENSE.txt,,Y,,
@@ -33,10 +34,12 @@ out/nls.messages.json,Y,,Y,Y
 out/nls.metadata.json,Y,,Y,Y
 out/vs/code/browser/workbench/callback.html,Y,,Y,Y
 out/vs/code/browser/workbench/workbench.html,Y,,Y,Y
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg,Y,,Y,Y
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg,Y,,Y,Y
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg,Y,,Y,Y
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg,Y,,Y,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg,Y,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg,Y,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg,Y,,,Y
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg,Y,,,Y
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg,,,Y,
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg,,,Y,
 out/vs/workbench/browser/media/code-icon.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,Y,,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,Y,,Y,Y
