@@ -44,8 +44,6 @@ extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
-extensions/css-language-features/server/dist/node/533.cssServerMain.js
-extensions/css-language-features/server/dist/node/920.cssServerMain.js
 extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
 extensions/css/language-configuration.json
@@ -185,15 +183,11 @@ extensions/hlsl/package.nls.json
 extensions/hlsl/syntaxes/hlsl.tmLanguage.json
 extensions/html-language-features/README.md
 extensions/html-language-features/client/dist/node/htmlClientMain.js
-extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt
 extensions/html-language-features/icons/html.png
 extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
-extensions/html-language-features/server/dist/node/490.htmlServerMain.js
-extensions/html-language-features/server/dist/node/573.htmlServerMain.js
-extensions/html-language-features/server/dist/node/769.htmlServerMain.js
 extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
@@ -235,13 +229,10 @@ extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
 extensions/javascript/tags-language-configuration.json
 extensions/json-language-features/README.md
 extensions/json-language-features/client/dist/node/jsonClientMain.js
-extensions/json-language-features/client/dist/node/jsonClientMain.js.LICENSE.txt
 extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
-extensions/json-language-features/server/dist/node/962.jsonServerMain.js
-extensions/json-language-features/server/dist/node/990.jsonServerMain.js
 extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/json/language-configuration.json
@@ -349,7 +340,6 @@ extensions/media-preview/package.json
 extensions/media-preview/package.nls.json
 extensions/merge-conflict/README.md
 extensions/merge-conflict/dist/mergeConflictMain.js
-extensions/merge-conflict/dist/mergeConflictMain.js.LICENSE.txt
 extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
@@ -367,7 +357,6 @@ extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/microsoft-authentication/README.md
 extensions/microsoft-authentication/dist/extension.js
-extensions/microsoft-authentication/dist/extension.js.LICENSE.txt
 extensions/microsoft-authentication/dist/libmsalruntime.so
 extensions/microsoft-authentication/dist/msal-node-runtime.node
 extensions/microsoft-authentication/media/auth.css
@@ -667,8 +656,6 @@ extensions/scss/syntaxes/sassdoc.tmLanguage.json
 extensions/scss/syntaxes/scss.tmLanguage.json
 extensions/search-result/README.md
 extensions/search-result/dist/extension.js
-extensions/search-result/dist/media/refresh-dark.svg
-extensions/search-result/dist/media/refresh-light.svg
 extensions/search-result/images/icon.png
 extensions/search-result/package.json
 extensions/search-result/package.nls.json
@@ -683,7 +670,6 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/extension.js
-extensions/simple-browser/esbuild.webview.mts
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
@@ -704,8 +690,6 @@ extensions/swift/syntaxes/swift.tmLanguage.json
 extensions/terminal-suggest/.gitignore
 extensions/terminal-suggest/README.md
 extensions/terminal-suggest/ThirdPartyNotices.txt
-extensions/terminal-suggest/dist/fig/README.md
-extensions/terminal-suggest/dist/media/icon.png
 extensions/terminal-suggest/dist/terminalSuggestMain.js
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
@@ -784,7 +768,6 @@ extensions/typescript-basics/syntaxes/jsdoc.js.injection.tmLanguage.json
 extensions/typescript-basics/syntaxes/jsdoc.ts.injection.tmLanguage.json
 extensions/typescript-language-features/README.md
 extensions/typescript-language-features/dist/extension.js
-extensions/typescript-language-features/dist/extension.js.LICENSE.txt
 extensions/typescript-language-features/media/icon.png
 extensions/typescript-language-features/package.json
 extensions/typescript-language-features/package.nls.json
@@ -1119,6 +1102,8 @@ node_modules/@vscode/vsce-sign/src/main.js
 node_modules/@vscode/vscode-languagedetection/LICENSE
 node_modules/@vscode/vscode-languagedetection/SECURITY.md
 node_modules/@vscode/vscode-languagedetection/cli/index.js
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js
+node_modules/@vscode/vscode-languagedetection/dist/lib/979.js.LICENSE.txt
 node_modules/@vscode/vscode-languagedetection/dist/lib/index.js
 node_modules/@vscode/vscode-languagedetection/dist/lib/index.js.LICENSE.txt
 node_modules/@vscode/vscode-languagedetection/model/group1-shard1of1.bin
@@ -3048,6 +3033,10 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg
