@@ -12,6 +12,7 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/css-language-features/server/dist/node/533.cssServerMain.js,,Y,,,Y
 extensions/css-language-features/server/dist/node/920.cssServerMain.js,,Y,,,Y
+extensions/github-authentication/media/sessions-icon.svg,,,Y,,
 extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,,,Y
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,,,Y
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,Y,,,Y

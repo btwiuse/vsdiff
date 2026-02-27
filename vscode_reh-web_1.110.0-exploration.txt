@@ -142,6 +142,7 @@ extensions/github-authentication/media/code-icon.svg
 extensions/github-authentication/media/favicon.ico
 extensions/github-authentication/media/icon.png
 extensions/github-authentication/media/index.html
+extensions/github-authentication/media/sessions-icon.svg
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/github/README.md
@@ -3033,10 +3034,8 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg

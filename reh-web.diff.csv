@@ -12,6 +12,7 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/css-language-features/server/dist/node/533.cssServerMain.js,,Y,,,Y
 extensions/css-language-features/server/dist/node/920.cssServerMain.js,,Y,,,Y
+extensions/github-authentication/media/sessions-icon.svg,,,Y,,
 extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,,,Y
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,,,Y
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,Y,,,Y
@@ -66,10 +67,12 @@ node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
 out/date,,,Y,Y,
 out/nls.metadata.json,,,Y,Y,
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg,,,Y,Y,
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg,,,Y,Y,
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg,,,Y,Y,
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg,,,Y,Y,
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg,,,,Y,
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg,,,,Y,
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg,,,,Y,
+out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg,,,,Y,
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg,,,Y,,
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg,,,Y,,
 out/vs/workbench/browser/media/code-icon.svg,,,Y,Y,
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,,,Y,Y,
 out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg,,,Y,Y,
