@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26055.txt,vscode_reh_1.109.5.txt,vscode_reh_1.110.0-exploration.txt,vscode_reh_1.110.0-insider.txt,vscodium_reh_1.109.51242.txt
+File,codigo_reh_1.100.0.26061.txt,vscode_reh_1.109.5.txt,vscode_reh_1.110.0-exploration.txt,vscode_reh_1.110.0-insider.txt,vscodium_reh_1.109.51242.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -12,7 +12,7 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/css-language-features/server/dist/node/533.cssServerMain.js,,Y,,,Y
 extensions/css-language-features/server/dist/node/920.cssServerMain.js,,Y,,,Y
-extensions/github-authentication/media/sessions-icon.svg,,,Y,,
+extensions/github-authentication/media/sessions-icon.svg,Y,,Y,,
 extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,,,Y
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,,,Y
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,Y,,,Y
