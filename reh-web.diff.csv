@@ -12,6 +12,13 @@ bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/css-language-features/server/dist/node/533.cssServerMain.js,,Y,,,Y
 extensions/css-language-features/server/dist/node/920.cssServerMain.js,,Y,,,Y
+extensions/git/dist/askpass-empty.sh,,Y,Y,Y,Y
+extensions/git/dist/askpass.sh,,Y,Y,Y,Y
+extensions/git/dist/git-editor-empty.sh,,Y,Y,Y,Y
+extensions/git/dist/git-editor.sh,,Y,Y,Y,Y
+extensions/git/dist/main.js.LICENSE.txt,,Y,Y,Y,Y
+extensions/git/dist/ssh-askpass-empty.sh,,Y,Y,Y,Y
+extensions/git/dist/ssh-askpass.sh,,Y,Y,Y,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,,Y,,
 extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,,,Y
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,,,Y
