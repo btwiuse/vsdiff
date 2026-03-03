@@ -97,7 +97,7 @@ extensions/git-base/syntaxes/git-rebase.tmLanguage.json
 extensions/git-base/syntaxes/ignore.tmLanguage.json
 extensions/github-authentication/README.md
 extensions/github-authentication/dist/browser/extension.js
-extensions/github-authentication/dist/browser/extension.js.LICENSE.txt
+extensions/github-authentication/dist/extension.js
 extensions/github-authentication/images/icon.png
 extensions/github-authentication/media/auth.css
 extensions/github-authentication/media/code-icon.svg
