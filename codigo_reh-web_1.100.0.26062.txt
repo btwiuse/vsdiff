@@ -128,7 +128,6 @@ extensions/git/resources/icons/light/status-type-changed.svg
 extensions/git/resources/icons/light/status-untracked.svg
 extensions/github-authentication/README.md
 extensions/github-authentication/dist/extension.js
-extensions/github-authentication/dist/extension.js.LICENSE.txt
 extensions/github-authentication/images/icon.png
 extensions/github-authentication/media/auth.css
 extensions/github-authentication/media/code-icon.svg
@@ -139,11 +138,7 @@ extensions/github-authentication/media/sessions-icon.svg
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/github/README.md
-extensions/github/dist/430.js
-extensions/github/dist/555.js
-extensions/github/dist/698.js
 extensions/github/dist/extension.js
-extensions/github/dist/extension.js.LICENSE.txt
 extensions/github/images/icon.png
 extensions/github/markdown.css
 extensions/github/package.json

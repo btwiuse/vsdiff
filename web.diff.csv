@@ -9,6 +9,7 @@ extensions/css-language-features/server/dist/node/cssServerMain.js,,,Y,
 extensions/emmet/dist/node/emmetNodeMain.js,,,Y,
 extensions/extension-editing/dist/extensionEditingMain.js,,,Y,
 extensions/git-base/dist/extension.js,,,Y,
+extensions/github-authentication/dist/browser/extension.js.LICENSE.txt,,Y,Y,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,,Y,
 extensions/html-language-features/client/dist/node/htmlClientMain.js,,,Y,
 extensions/html-language-features/server/dist/browser/htmlServerMain.js.LICENSE.txt,,Y,,

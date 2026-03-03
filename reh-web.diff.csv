@@ -19,7 +19,12 @@ extensions/git/dist/git-editor.sh,,Y,Y,Y,Y
 extensions/git/dist/main.js.LICENSE.txt,,Y,Y,Y,Y
 extensions/git/dist/ssh-askpass-empty.sh,,Y,Y,Y,Y
 extensions/git/dist/ssh-askpass.sh,,Y,Y,Y,Y
+extensions/github-authentication/dist/extension.js.LICENSE.txt,,Y,Y,Y,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,,Y,,
+extensions/github/dist/430.js,,Y,Y,Y,Y
+extensions/github/dist/555.js,,Y,Y,Y,Y
+extensions/github/dist/698.js,,Y,Y,Y,Y
+extensions/github/dist/extension.js.LICENSE.txt,,Y,Y,Y,Y
 extensions/html-language-features/client/dist/node/htmlClientMain.js.LICENSE.txt,,Y,,,Y
 extensions/html-language-features/server/dist/node/490.htmlServerMain.js,,Y,,,Y
 extensions/html-language-features/server/dist/node/573.htmlServerMain.js,,Y,,,Y
