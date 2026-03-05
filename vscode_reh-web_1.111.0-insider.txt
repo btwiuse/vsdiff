@@ -101,9 +101,15 @@ extensions/git-base/syntaxes/git-commit.tmLanguage.json
 extensions/git-base/syntaxes/git-rebase.tmLanguage.json
 extensions/git-base/syntaxes/ignore.tmLanguage.json
 extensions/git/README.md
+extensions/git/dist/askpass-empty.sh
 extensions/git/dist/askpass-main.js
+extensions/git/dist/askpass.sh
+extensions/git/dist/git-editor-empty.sh
 extensions/git/dist/git-editor-main.js
+extensions/git/dist/git-editor.sh
 extensions/git/dist/main.js
+extensions/git/dist/ssh-askpass-empty.sh
+extensions/git/dist/ssh-askpass.sh
 extensions/git/package.json
 extensions/git/package.nls.json
 extensions/git/resources/emojis.json
