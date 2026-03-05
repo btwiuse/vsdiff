@@ -1273,7 +1273,7 @@ extensions/search-result/dist/media/refresh-dark.svg,,,,,Y
 extensions/search-result/dist/media/refresh-light.svg,,,,,Y
 extensions/terminal-suggest/dist/fig/README.md,,,,,Y
 extensions/terminal-suggest/dist/media/icon.png,,,,,Y
-extensions/theme-2026/themes/styles.css,,Y,Y,Y,Y
+extensions/theme-2026/themes/styles.css,,Y,Y,,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
 extensions/typescript-language-features/dist/extension.js.LICENSE.txt,,,,,Y

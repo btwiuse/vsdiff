@@ -28,7 +28,7 @@ extensions/npm/dist/npmMain.js,,,Y,Y
 extensions/references-view/dist/extension.js,,,Y,Y
 extensions/search-result/dist/extension.js,,,Y,Y
 extensions/simple-browser/dist/extension.js,,,Y,Y
-extensions/theme-2026/themes/styles.css,,Y,Y,Y
+extensions/theme-2026/themes/styles.css,,Y,Y,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,,Y,Y
