@@ -690,6 +690,7 @@ extensions/terminal-suggest/.gitignore
 extensions/terminal-suggest/README.md
 extensions/terminal-suggest/ThirdPartyNotices.txt
 extensions/terminal-suggest/dist/terminalSuggestMain.js
+extensions/terminal-suggest/media/icon.png
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
 extensions/theme-2026/package.json

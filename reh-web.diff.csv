@@ -15,6 +15,7 @@ extensions/github-authentication/dist/extension.js.LICENSE.txt,,Y,,,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
+extensions/terminal-suggest/media/icon.png,Y,,,,
 extensions/theme-2026/themes/styles.css,,Y,,,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
