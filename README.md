@@ -6,7 +6,7 @@
 
 ## web
 
-| File                                                                                | codigo_web_1.100.0.26066.txt | vscode_web_1.110.0.txt | vscode_web_1.111.0-insider.txt | vscode_web_1.112.0-exploration.txt |
+| File                                                                                | codigo_web_1.100.0.26066.txt | vscode_web_1.110.1.txt | vscode_web_1.111.0-insider.txt | vscode_web_1.112.0-exploration.txt |
 | ----------------------------------------------------------------------------------- | ---------------------------- | ---------------------- | ------------------------------ | ---------------------------------- |
 | code-192-dark.png                                                                   | Y                            |                        |                                |                                    |
 | code-192-light.png                                                                  | Y                            |                        |                                |                                    |
@@ -56,7 +56,7 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png    | Y                            |                        |                                |                                    |
 ## reh
 
-| File                                                                                        | codigo_reh_1.100.0.26066.txt | vscode_reh_1.110.0.txt | vscode_reh_1.111.0-insider.txt | vscode_reh_1.112.0-exploration.txt | vscodium_reh_1.110.01571.txt |
+| File                                                                                        | codigo_reh_1.100.0.26066.txt | vscode_reh_1.110.1.txt | vscode_reh_1.111.0-insider.txt | vscode_reh_1.112.0-exploration.txt | vscodium_reh_1.110.01571.txt |
 | ------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------- | ------------------------------ | ---------------------------------- | ---------------------------- |
 | LICENSE                                                                                     | Y                            | Y                      | Y                              | Y                                  |                              |
 | bin/code-server                                                                             |                              | Y                      |                                |                                    |                              |
@@ -107,7 +107,7 @@
 | out/nls.metadata.json                                                                       |                              | Y                      | Y                              | Y                                  |                              |
 ## reh-web
 
-| File                                                                                        | codigo_reh-web_1.100.0.26066.txt | vscode_reh-web_1.110.0.txt | vscode_reh-web_1.111.0-insider.txt | vscode_reh-web_1.112.0-exploration.txt | vscodium_reh-web_1.110.01571.txt |
+| File                                                                                        | codigo_reh-web_1.100.0.26066.txt | vscode_reh-web_1.110.1.txt | vscode_reh-web_1.111.0-insider.txt | vscode_reh-web_1.112.0-exploration.txt | vscodium_reh-web_1.110.01571.txt |
 | ------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- | ---------------------------------- | -------------------------------------- | -------------------------------- |
 | LICENSE                                                                                     | Y                                | Y                          | Y                                  | Y                                      |                                  |
 | bin/code-server                                                                             |                                  | Y                          |                                    |                                        |                                  |
