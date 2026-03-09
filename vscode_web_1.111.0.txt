@@ -16,6 +16,7 @@ extensions/coffeescript/package.nls.json
 extensions/coffeescript/snippets/coffeescript.code-snippets
 extensions/coffeescript/syntaxes/coffeescript.tmLanguage.json
 extensions/configuration-editing/dist/browser/configurationEditingMain.js
+extensions/configuration-editing/dist/configurationEditingMain.js
 extensions/configuration-editing/images/icon.png
 extensions/configuration-editing/package.json
 extensions/configuration-editing/package.nls.json
@@ -37,12 +38,14 @@ extensions/csharp/snippets/csharp.code-snippets
 extensions/csharp/syntaxes/csharp.tmLanguage.json
 extensions/css-language-features/README.md
 extensions/css-language-features/client/dist/browser/cssClientMain.js
+extensions/css-language-features/client/dist/node/cssClientMain.js
 extensions/css-language-features/icons/css.png
 extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
 extensions/css-language-features/server/dist/browser/cssServerMain.js
+extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
 extensions/css/language-configuration.json
 extensions/css/package.json
@@ -66,10 +69,12 @@ extensions/dotenv/package.nls.json
 extensions/dotenv/syntaxes/dotenv.tmLanguage.json
 extensions/emmet/README.md
 extensions/emmet/dist/browser/emmetBrowserMain.js
+extensions/emmet/dist/node/emmetNodeMain.js
 extensions/emmet/images/icon.png
 extensions/emmet/package.json
 extensions/emmet/package.nls.json
 extensions/extension-editing/dist/browser/extensionEditingBrowserMain.js
+extensions/extension-editing/dist/extensionEditingMain.js
 extensions/extension-editing/images/icon.png
 extensions/extension-editing/package.json
 extensions/extension-editing/package.nls.json
@@ -80,6 +85,7 @@ extensions/fsharp/snippets/fsharp.code-snippets
 extensions/fsharp/syntaxes/fsharp.tmLanguage.json
 extensions/git-base/README.md
 extensions/git-base/dist/browser/extension.js
+extensions/git-base/dist/extension.js
 extensions/git-base/languages/git-commit.language-configuration.json
 extensions/git-base/languages/git-rebase.language-configuration.json
 extensions/git-base/languages/ignore.language-configuration.json
@@ -91,13 +97,14 @@ extensions/git-base/syntaxes/git-rebase.tmLanguage.json
 extensions/git-base/syntaxes/ignore.tmLanguage.json
 extensions/github-authentication/README.md
 extensions/github-authentication/dist/browser/extension.js
-extensions/github-authentication/dist/browser/extension.js.LICENSE.txt
+extensions/github-authentication/dist/extension.js
 extensions/github-authentication/images/icon.png
 extensions/github-authentication/media/auth.css
 extensions/github-authentication/media/code-icon.svg
 extensions/github-authentication/media/favicon.ico
 extensions/github-authentication/media/icon.png
 extensions/github-authentication/media/index.html
+extensions/github-authentication/media/sessions-icon.svg
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/go/language-configuration.json
@@ -119,12 +126,14 @@ extensions/hlsl/package.nls.json
 extensions/hlsl/syntaxes/hlsl.tmLanguage.json
 extensions/html-language-features/README.md
 extensions/html-language-features/client/dist/browser/htmlClientMain.js
+extensions/html-language-features/client/dist/node/htmlClientMain.js
 extensions/html-language-features/icons/html.png
 extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
 extensions/html-language-features/server/dist/browser/htmlServerMain.js
+extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
 extensions/html/language-configuration.json
@@ -141,6 +150,8 @@ extensions/ini/syntaxes/ini.tmLanguage.json
 extensions/ipynb/README.md
 extensions/ipynb/dist/browser/ipynbMain.browser.js
 extensions/ipynb/dist/browser/notebookSerializerWorker.js
+extensions/ipynb/dist/ipynbMain.node.js
+extensions/ipynb/dist/notebookSerializerWorker.js
 extensions/ipynb/media/icon.png
 extensions/ipynb/notebook-out/cellAttachmentRenderer.js
 extensions/ipynb/package.json
@@ -160,11 +171,13 @@ extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
 extensions/javascript/tags-language-configuration.json
 extensions/json-language-features/README.md
 extensions/json-language-features/client/dist/browser/jsonClientMain.js
+extensions/json-language-features/client/dist/node/jsonClientMain.js
 extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
 extensions/json-language-features/server/dist/browser/jsonServerMain.js
+extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/json/language-configuration.json
 extensions/json/package.json
@@ -212,6 +225,8 @@ extensions/markdown-basics/syntaxes/markdown.tmLanguage.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/browser/extension.js
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js
+extensions/markdown-language-features/dist/extension.js
+extensions/markdown-language-features/dist/serverWorkerMain.js
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -225,6 +240,7 @@ extensions/markdown-language-features/package.nls.json
 extensions/markdown-language-features/schemas/package.schema.json
 extensions/markdown-math/README.md
 extensions/markdown-math/dist/browser/extension.js
+extensions/markdown-math/dist/extension.js
 extensions/markdown-math/icon.png
 extensions/markdown-math/notebook-out/fonts/KaTeX_AMS-Regular.woff2
 extensions/markdown-math/notebook-out/fonts/KaTeX_Caligraphic-Bold.woff2
@@ -257,6 +273,7 @@ extensions/markdown-math/syntaxes/md-math-inline.tmLanguage.json
 extensions/markdown-math/syntaxes/md-math.tmLanguage.json
 extensions/media-preview/README.md
 extensions/media-preview/dist/browser/extension.js
+extensions/media-preview/dist/extension.js
 extensions/media-preview/icon.png
 extensions/media-preview/media/audioPreview.css
 extensions/media-preview/media/audioPreview.js
@@ -271,6 +288,7 @@ extensions/media-preview/package.json
 extensions/media-preview/package.nls.json
 extensions/merge-conflict/README.md
 extensions/merge-conflict/dist/browser/mergeConflictMain.js
+extensions/merge-conflict/dist/mergeConflictMain.js
 extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
@@ -284,6 +302,7 @@ extensions/mermaid-chat-features/chat-webview-src/mermaidWebview.ts
 extensions/mermaid-chat-features/chat-webview-src/tsconfig.json
 extensions/mermaid-chat-features/chat-webview-src/vscodeApi.ts
 extensions/mermaid-chat-features/dist/browser/extension.js
+extensions/mermaid-chat-features/dist/extension.js
 extensions/mermaid-chat-features/package.json
 extensions/mermaid-chat-features/package.nls.json
 extensions/notebook-renderers/README.md
@@ -293,6 +312,7 @@ extensions/notebook-renderers/package.nls.json
 extensions/notebook-renderers/renderer-out/index.js
 extensions/npm/README.md
 extensions/npm/dist/browser/npmBrowserMain.js
+extensions/npm/dist/npmMain.js
 extensions/npm/images/code.svg
 extensions/npm/images/npm_icon.png
 extensions/npm/package.json
@@ -341,6 +361,7 @@ extensions/razor/package.nls.json
 extensions/razor/syntaxes/cshtml.tmLanguage.json
 extensions/references-view/README.md
 extensions/references-view/dist/browser/extension.js
+extensions/references-view/dist/extension.js
 extensions/references-view/media/demo.png
 extensions/references-view/media/icon.png
 extensions/references-view/package.json
@@ -364,6 +385,7 @@ extensions/scss/syntaxes/sassdoc.tmLanguage.json
 extensions/scss/syntaxes/scss.tmLanguage.json
 extensions/search-result/README.md
 extensions/search-result/dist/browser/extension.js
+extensions/search-result/dist/extension.js
 extensions/search-result/images/icon.png
 extensions/search-result/package.json
 extensions/search-result/package.nls.json
@@ -378,6 +400,7 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/browser/extension.js
+extensions/simple-browser/dist/extension.js
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
@@ -399,7 +422,6 @@ extensions/theme-2026/package.json
 extensions/theme-2026/package.nls.json
 extensions/theme-2026/themes/2026-dark.json
 extensions/theme-2026/themes/2026-light.json
-extensions/theme-2026/themes/styles.css
 extensions/theme-abyss/package.json
 extensions/theme-abyss/package.nls.json
 extensions/theme-abyss/themes/abyss-color-theme.json
@@ -581,6 +603,7 @@ extensions/typescript-language-features/dist/browser/typescript/typesMap.json
 extensions/typescript-language-features/dist/browser/typescript/typescript.d.ts
 extensions/typescript-language-features/dist/browser/typescript/zh-cn/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/zh-tw/diagnosticMessages.generated.json
+extensions/typescript-language-features/dist/extension.js
 extensions/typescript-language-features/media/icon.png
 extensions/typescript-language-features/package.json
 extensions/typescript-language-features/package.nls.json
@@ -1569,10 +1592,8 @@ out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-exploration.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-insider.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions-stable.svg
-out/vs/sessions/contrib/chat/browser/media/code-icon-agent-sessions.svg
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
+out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg
