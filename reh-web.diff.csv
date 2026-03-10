@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26066.txt,vscode_reh-web_1.111.0-insider.txt,vscode_reh-web_1.111.0.txt,vscode_reh-web_1.112.0-exploration.txt,vscodium_reh-web_1.110.11631.txt
+File,codigo_reh-web_1.100.0.26069.txt,vscode_reh-web_1.111.0-insider.txt,vscode_reh-web_1.111.0.txt,vscode_reh-web_1.112.0-exploration.txt,vscodium_reh-web_1.110.11631.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,,,Y,
@@ -13,6 +13,10 @@ bin/remote-cli/codium,,,,,Y
 extensions/git/dist/main.js.LICENSE.txt,,,,,Y
 extensions/github-authentication/dist/extension.js.LICENSE.txt,,,,,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,Y,Y,Y,
+extensions/github/dist/430.js,,Y,Y,Y,Y
+extensions/github/dist/555.js,,Y,Y,Y,Y
+extensions/github/dist/698.js,,Y,Y,Y,Y
+extensions/github/dist/extension.js.LICENSE.txt,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
 extensions/terminal-suggest/media/icon.png,Y,,,Y,
