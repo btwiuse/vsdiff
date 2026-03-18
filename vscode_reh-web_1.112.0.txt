@@ -144,11 +144,7 @@ extensions/github-authentication/media/sessions-icon.svg
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/github/README.md
-extensions/github/dist/430.js
-extensions/github/dist/555.js
-extensions/github/dist/698.js
 extensions/github/dist/extension.js
-extensions/github/dist/extension.js.LICENSE.txt
 extensions/github/images/icon.png
 extensions/github/markdown.css
 extensions/github/package.json
@@ -690,6 +686,7 @@ extensions/terminal-suggest/.gitignore
 extensions/terminal-suggest/README.md
 extensions/terminal-suggest/ThirdPartyNotices.txt
 extensions/terminal-suggest/dist/terminalSuggestMain.js
+extensions/terminal-suggest/media/icon.png
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
 extensions/theme-2026/package.json
@@ -3049,6 +3046,13 @@ out/vs/workbench/contrib/externalTerminal/node/TerminalHelper.scpt
 out/vs/workbench/contrib/externalTerminal/node/iTermHelper.scpt
 out/vs/workbench/contrib/notebook/common/services/notebookWebWorkerMain.js
 out/vs/workbench/contrib/output/common/outputLinkComputerMain.js
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.PSReadLine.dll
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.Pager.dll
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/PSReadLine.format.ps1xml
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/PSReadLine.psd1
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/PSReadLine.psm1
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/net6plus/Microsoft.PowerShell.PSReadLine.Polyfiller.dll
+out/vs/workbench/contrib/terminal/common/scripts/psreadline/netstd/Microsoft.PowerShell.PSReadLine.Polyfiller.dll
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-env.zsh
 out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-login.zsh
