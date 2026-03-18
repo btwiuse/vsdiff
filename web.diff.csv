@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26077.txt,vscode_web_1.111.0.txt,vscode_web_1.112.0-exploration.txt,vscode_web_1.112.0-insider.txt
+File,codigo_web_1.100.0.26077.txt,vscode_web_1.111.0.txt,vscode_web_1.112.0-exploration.txt,vscode_web_1.113.0-insider.txt
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
@@ -419,10 +419,10 @@ extensions/swift/package.json,,Y,Y,Y
 extensions/swift/package.nls.json,,Y,Y,Y
 extensions/swift/snippets/swift.code-snippets,,Y,Y,Y
 extensions/swift/syntaxes/swift.tmLanguage.json,,Y,Y,Y
-extensions/theme-2026/package.json,,Y,Y,Y
-extensions/theme-2026/package.nls.json,,Y,Y,Y
-extensions/theme-2026/themes/2026-dark.json,,Y,Y,Y
-extensions/theme-2026/themes/2026-light.json,,Y,Y,Y
+extensions/theme-2026/package.json,,Y,Y,
+extensions/theme-2026/package.nls.json,,Y,Y,
+extensions/theme-2026/themes/2026-dark.json,,Y,Y,
+extensions/theme-2026/themes/2026-light.json,,Y,Y,
 extensions/theme-abyss/package.json,,Y,Y,Y
 extensions/theme-abyss/package.nls.json,,Y,Y,Y
 extensions/theme-abyss/themes/abyss-color-theme.json,,Y,Y,Y
@@ -439,6 +439,8 @@ extensions/theme-defaults/fileicons/images/root-folder-open-light.svg,,Y,Y,Y
 extensions/theme-defaults/fileicons/vs_minimal-icon-theme.json,,Y,Y,Y
 extensions/theme-defaults/package.json,,Y,Y,Y
 extensions/theme-defaults/package.nls.json,,Y,Y,Y
+extensions/theme-defaults/themes/2026-dark.json,,,,Y
+extensions/theme-defaults/themes/2026-light.json,,,,Y
 extensions/theme-defaults/themes/dark_modern.json,,Y,Y,Y
 extensions/theme-defaults/themes/dark_plus.json,,Y,Y,Y
 extensions/theme-defaults/themes/dark_vs.json,,Y,Y,Y
