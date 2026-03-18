@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26075.txt,vscode_reh-web_1.111.0.txt,vscode_reh-web_1.112.0-exploration.txt,vscode_reh-web_1.112.0-insider.txt,vscodium_reh-web_1.110.11631.txt
+File,codigo_reh-web_1.100.0.26077.txt,vscode_reh-web_1.111.0.txt,vscode_reh-web_1.112.0-exploration.txt,vscode_reh-web_1.112.0-insider.txt,vscodium_reh-web_1.110.11631.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -11,6 +11,18 @@ bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/git/dist/main.js.LICENSE.txt,,,,,Y
+extensions/git/node_modules/@vscode/fs-copyfile/.gitattributes,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/README.md,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/SECURITY.md,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/binding.gyp,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/package.json,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/src/copyfile.cc,Y,,,,
 extensions/github-authentication/dist/extension.js.LICENSE.txt,,,,,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,Y,Y,Y,
 extensions/github/dist/430.js,,Y,Y,,Y
@@ -20,7 +32,13 @@ extensions/github/dist/extension.js.LICENSE.txt,,Y,Y,,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,Y,Y,Y,Y,
 extensions/terminal-suggest/media/icon.png,Y,,Y,Y,
+extensions/theme-2026/package.json,,Y,Y,Y,Y
+extensions/theme-2026/package.nls.json,,Y,Y,Y,Y
+extensions/theme-2026/themes/2026-dark.json,,Y,Y,Y,Y
+extensions/theme-2026/themes/2026-light.json,,Y,Y,Y,Y
 extensions/theme-2026/themes/styles.css,,,,,Y
+extensions/theme-defaults/themes/2026-dark.json,Y,,,,
+extensions/theme-defaults/themes/2026-light.json,Y,,,,
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,,
 node_modules/@vscode/vsce-sign/bin/vsce-sign,,Y,Y,Y,
@@ -52,6 +70,7 @@ node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y,
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
 out/date,,Y,Y,Y,
 out/nls.metadata.json,,Y,Y,Y,
+out/vs/platform/agentHost/node/agentHostMain.js,Y,,,,
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg,,Y,Y,Y,
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg,,Y,Y,Y,
 out/vs/workbench/browser/media/code-icon.svg,,Y,Y,Y,

@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26075.txt,vscode_reh_1.111.0.txt,vscode_reh_1.112.0-exploration.txt,vscode_reh_1.112.0-insider.txt,vscodium_reh_1.110.11631.txt
+File,codigo_reh_1.100.0.26077.txt,vscode_reh_1.111.0.txt,vscode_reh_1.112.0-exploration.txt,vscode_reh_1.112.0-insider.txt,vscodium_reh_1.110.11631.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -11,6 +11,18 @@ bin/remote-cli/code-insiders,,,,Y,
 bin/remote-cli/code-oss,Y,,,,
 bin/remote-cli/codium,,,,,Y
 extensions/git/dist/main.js.LICENSE.txt,,,,,Y
+extensions/git/node_modules/@vscode/fs-copyfile/.gitattributes,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/README.md,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/SECURITY.md,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/binding.gyp,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.d.ts,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.js,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/package.json,Y,,,,
+extensions/git/node_modules/@vscode/fs-copyfile/src/copyfile.cc,Y,,,,
 extensions/github-authentication/dist/extension.js.LICENSE.txt,,,,,Y
 extensions/github-authentication/media/sessions-icon.svg,Y,Y,Y,Y,
 extensions/github/dist/430.js,,Y,Y,,Y
@@ -50,6 +62,7 @@ node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y,
 out/date,,Y,Y,Y,
 out/nls.messages.js,,Y,Y,Y,
 out/nls.metadata.json,,Y,Y,Y,
+out/vs/platform/agentHost/node/agentHostMain.js,Y,,,,
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.PSReadLine.dll,Y,,,Y,
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.Pager.dll,Y,,,Y,
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/PSReadLine.format.ps1xml,Y,,,Y,

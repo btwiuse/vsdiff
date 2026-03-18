@@ -56,6 +56,18 @@ extensions/git/dist/git-editor.sh
 extensions/git/dist/main.js
 extensions/git/dist/ssh-askpass-empty.sh
 extensions/git/dist/ssh-askpass.sh
+extensions/git/node_modules/@vscode/fs-copyfile/.gitattributes
+extensions/git/node_modules/@vscode/fs-copyfile/README.md
+extensions/git/node_modules/@vscode/fs-copyfile/SECURITY.md
+extensions/git/node_modules/@vscode/fs-copyfile/binding.gyp
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.js
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.js
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.js
+extensions/git/node_modules/@vscode/fs-copyfile/package.json
+extensions/git/node_modules/@vscode/fs-copyfile/src/copyfile.cc
 extensions/git/package.json
 extensions/git/package.nls.json
 extensions/git/resources/emojis.json
@@ -2646,6 +2658,7 @@ out/server-cli.js
 out/server-main.js
 out/vs/base/node/cpuUsage.sh
 out/vs/base/node/ps.sh
+out/vs/platform/agentHost/node/agentHostMain.js
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js

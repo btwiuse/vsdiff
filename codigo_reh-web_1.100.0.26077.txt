@@ -110,6 +110,18 @@ extensions/git/dist/git-editor.sh
 extensions/git/dist/main.js
 extensions/git/dist/ssh-askpass-empty.sh
 extensions/git/dist/ssh-askpass.sh
+extensions/git/node_modules/@vscode/fs-copyfile/.gitattributes
+extensions/git/node_modules/@vscode/fs-copyfile/README.md
+extensions/git/node_modules/@vscode/fs-copyfile/SECURITY.md
+extensions/git/node_modules/@vscode/fs-copyfile/binding.gyp
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/cp.js
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/index.js
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.d.ts
+extensions/git/node_modules/@vscode/fs-copyfile/lib/native.js
+extensions/git/node_modules/@vscode/fs-copyfile/package.json
+extensions/git/node_modules/@vscode/fs-copyfile/src/copyfile.cc
 extensions/git/package.json
 extensions/git/package.nls.json
 extensions/git/resources/emojis.json
@@ -689,10 +701,6 @@ extensions/terminal-suggest/dist/terminalSuggestMain.js
 extensions/terminal-suggest/media/icon.png
 extensions/terminal-suggest/package.json
 extensions/terminal-suggest/package.nls.json
-extensions/theme-2026/package.json
-extensions/theme-2026/package.nls.json
-extensions/theme-2026/themes/2026-dark.json
-extensions/theme-2026/themes/2026-light.json
 extensions/theme-abyss/package.json
 extensions/theme-abyss/package.nls.json
 extensions/theme-abyss/themes/abyss-color-theme.json
@@ -709,6 +717,8 @@ extensions/theme-defaults/fileicons/images/root-folder-open-light.svg
 extensions/theme-defaults/fileicons/vs_minimal-icon-theme.json
 extensions/theme-defaults/package.json
 extensions/theme-defaults/package.nls.json
+extensions/theme-defaults/themes/2026-dark.json
+extensions/theme-defaults/themes/2026-light.json
 extensions/theme-defaults/themes/dark-colorblind.json
 extensions/theme-defaults/themes/dark_modern.json
 extensions/theme-defaults/themes/dark_plus.json
@@ -3010,6 +3020,7 @@ out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
+out/vs/platform/agentHost/node/agentHostMain.js
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
