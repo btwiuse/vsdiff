@@ -831,12 +831,16 @@ node_modules/@anthropic-ai/sandbox-runtime/dist/sandbox/sandbox-violation-store.
 node_modules/@anthropic-ai/sandbox-runtime/dist/sandbox/sandbox-violation-store.js
 node_modules/@anthropic-ai/sandbox-runtime/dist/sandbox/socks-proxy.d.ts.map
 node_modules/@anthropic-ai/sandbox-runtime/dist/sandbox/socks-proxy.js
+node_modules/@anthropic-ai/sandbox-runtime/dist/utils/config-loader.d.ts.map
+node_modules/@anthropic-ai/sandbox-runtime/dist/utils/config-loader.js
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/debug.d.ts.map
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/debug.js
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/platform.d.ts.map
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/platform.js
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/ripgrep.d.ts.map
 node_modules/@anthropic-ai/sandbox-runtime/dist/utils/ripgrep.js
+node_modules/@anthropic-ai/sandbox-runtime/dist/utils/which.d.ts.map
+node_modules/@anthropic-ai/sandbox-runtime/dist/utils/which.js
 node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp-src/apply-seccomp.c
 node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp-src/seccomp-unix-block.c
 node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp/arm64/apply-seccomp
