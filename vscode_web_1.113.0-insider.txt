@@ -674,6 +674,7 @@ node_modules/@vscode/codicons/scripts/embed-metadata.js
 node_modules/@vscode/codicons/scripts/embed-svg-data.js
 node_modules/@vscode/codicons/scripts/export-to-csv.js
 node_modules/@vscode/codicons/scripts/export-to-ts.js
+node_modules/@vscode/codicons/scripts/patch-fantasticon.js
 node_modules/@vscode/codicons/scripts/reset.js
 node_modules/@vscode/codicons/scripts/svg-sprite.js
 node_modules/@vscode/codicons/scripts/version-bump.js
@@ -1164,6 +1165,7 @@ node_modules/@vscode/codicons/src/icons/terminal-debian.svg
 node_modules/@vscode/codicons/src/icons/terminal-git-bash.svg
 node_modules/@vscode/codicons/src/icons/terminal-linux.svg
 node_modules/@vscode/codicons/src/icons/terminal-powershell.svg
+node_modules/@vscode/codicons/src/icons/terminal-secure.svg
 node_modules/@vscode/codicons/src/icons/terminal-tmux.svg
 node_modules/@vscode/codicons/src/icons/terminal-ubuntu.svg
 node_modules/@vscode/codicons/src/icons/terminal.svg
