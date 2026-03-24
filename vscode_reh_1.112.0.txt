@@ -1,0 +1,7 @@
+LICENSE
+bin/code-server
+bin/helpers/browser.sh
+bin/helpers/check-requirements.sh
+bin/remote-cli/code
+extensions/microsoft-authentication/dist/extension.js
+extensions/microsoft-authentication/dist/libmsalruntime.so

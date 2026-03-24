@@ -1,0 +1,13 @@
+out/nls.keys.json
+out/nls.messages.js
+out/nls.messages.json
+out/nls.metadata.json
+out/vs/base/node/cpuUsage.sh
+out/vs/base/node/ps.sh
+out/vs/code/browser/workbench/workbench.js
+out/vs/editor/common/languages/highlights/css.scm
+out/vs/editor/common/languages/highlights/ini.scm
+out/vs/editor/common/languages/highlights/regex.scm
+out/vs/editor/common/languages/highlights/typescript.scm
+out/vs/editor/common/languages/injections/typescript.scm
+out/vs/editor/common/services/editorWebWorkerMain.js
