@@ -418,10 +418,6 @@ extensions/swift/package.json
 extensions/swift/package.nls.json
 extensions/swift/snippets/swift.code-snippets
 extensions/swift/syntaxes/swift.tmLanguage.json
-extensions/theme-2026/package.json
-extensions/theme-2026/package.nls.json
-extensions/theme-2026/themes/2026-dark.json
-extensions/theme-2026/themes/2026-light.json
 extensions/theme-abyss/package.json
 extensions/theme-abyss/package.nls.json
 extensions/theme-abyss/themes/abyss-color-theme.json
@@ -438,6 +434,8 @@ extensions/theme-defaults/fileicons/images/root-folder-open-light.svg
 extensions/theme-defaults/fileicons/vs_minimal-icon-theme.json
 extensions/theme-defaults/package.json
 extensions/theme-defaults/package.nls.json
+extensions/theme-defaults/themes/2026-dark.json
+extensions/theme-defaults/themes/2026-light.json
 extensions/theme-defaults/themes/dark_modern.json
 extensions/theme-defaults/themes/dark_plus.json
 extensions/theme-defaults/themes/dark_vs.json
@@ -676,6 +674,7 @@ node_modules/@vscode/codicons/scripts/embed-metadata.js
 node_modules/@vscode/codicons/scripts/embed-svg-data.js
 node_modules/@vscode/codicons/scripts/export-to-csv.js
 node_modules/@vscode/codicons/scripts/export-to-ts.js
+node_modules/@vscode/codicons/scripts/patch-fantasticon.js
 node_modules/@vscode/codicons/scripts/reset.js
 node_modules/@vscode/codicons/scripts/svg-sprite.js
 node_modules/@vscode/codicons/scripts/version-bump.js
@@ -1166,6 +1165,7 @@ node_modules/@vscode/codicons/src/icons/terminal-debian.svg
 node_modules/@vscode/codicons/src/icons/terminal-git-bash.svg
 node_modules/@vscode/codicons/src/icons/terminal-linux.svg
 node_modules/@vscode/codicons/src/icons/terminal-powershell.svg
+node_modules/@vscode/codicons/src/icons/terminal-secure.svg
 node_modules/@vscode/codicons/src/icons/terminal-tmux.svg
 node_modules/@vscode/codicons/src/icons/terminal-ubuntu.svg
 node_modules/@vscode/codicons/src/icons/terminal.svg
