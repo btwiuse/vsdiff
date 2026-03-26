@@ -723,6 +723,8 @@ node_modules/@vscode/codicons/src/icons/calendar.svg
 node_modules/@vscode/codicons/src/icons/call-incoming.svg
 node_modules/@vscode/codicons/src/icons/call-outgoing.svg
 node_modules/@vscode/codicons/src/icons/case-sensitive.svg
+node_modules/@vscode/codicons/src/icons/chat-export.svg
+node_modules/@vscode/codicons/src/icons/chat-import.svg
 node_modules/@vscode/codicons/src/icons/chat-sparkle-error.svg
 node_modules/@vscode/codicons/src/icons/chat-sparkle-warning.svg
 node_modules/@vscode/codicons/src/icons/chat-sparkle.svg
