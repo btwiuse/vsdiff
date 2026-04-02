@@ -2922,8 +2922,6 @@ node_modules/sprintf-js/package.json
 node_modules/sprintf-js/src/angular-sprintf.js
 node_modules/sprintf-js/src/sprintf.js
 node_modules/ssh2/LICENSE
-node_modules/ssh2/SFTP.md
-node_modules/ssh2/install.js
 node_modules/ssh2/lib/Channel.js
 node_modules/ssh2/lib/agent.js
 node_modules/ssh2/lib/client.js
@@ -2945,9 +2943,6 @@ node_modules/ssh2/lib/protocol/zlib.js
 node_modules/ssh2/lib/server.js
 node_modules/ssh2/lib/utils.js
 node_modules/ssh2/package.json
-node_modules/ssh2/util/build_pagent.bat
-node_modules/ssh2/util/pagent.c
-node_modules/ssh2/util/pagent.exe
 node_modules/string_decoder/LICENSE
 node_modules/string_decoder/lib/string_decoder.js
 node_modules/string_decoder/package.json
