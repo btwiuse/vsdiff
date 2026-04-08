@@ -3353,6 +3353,7 @@ out/server-main.js
 out/vs/base/node/cpuUsage.sh
 out/vs/base/node/ps.sh
 out/vs/platform/agentHost/node/agentHostMain.js
+out/vs/platform/agentHost/node/diffWorkerMain.js
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/workbench/api/node/extensionHostProcess.js
