@@ -78,7 +78,6 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/code-review.agen
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilot.agent.yaml,,,,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml,,,,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml,,,,Y,
-extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml,,,,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml,,,,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/index.js,,,,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/pty.node,,,,Y,
@@ -878,7 +877,7 @@ out/date,,Y,Y,Y,
 out/nls.messages.js,,Y,Y,Y,
 out/nls.metadata.json,,Y,Y,Y,
 out/vs/platform/agentHost/node/agentHostMain.js,Y,,Y,Y,
-out/vs/platform/agentHost/node/diffWorkerMain.js,Y,,,Y,
+out/vs/platform/agentHost/node/diffWorkerMain.js,Y,,,,
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.PSReadLine.dll,Y,,Y,Y,Y
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/Microsoft.PowerShell.Pager.dll,Y,,Y,Y,Y
 out/vs/workbench/contrib/terminal/common/scripts/psreadline/PSReadLine.format.ps1xml,Y,,Y,Y,Y
