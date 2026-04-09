@@ -90,6 +90,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/code-review.agen
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilot.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/pty.node
@@ -3849,6 +3850,7 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/platform/agentHost/node/agentHostMain.js
+out/vs/platform/agentHost/node/diffWorkerMain.js
 out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
