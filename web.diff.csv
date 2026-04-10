@@ -2,6 +2,11 @@ File,codigo_web_1.100.0.26100.txt,vscode_web_1.112.0-exploration.txt,vscode_web_
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
+extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/logo.png,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/package.json,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/readme.md,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-setup/SKILL.md,,,,Y
 extensions/bat/language-configuration.json,,Y,Y,Y
 extensions/bat/package.json,,Y,Y,Y
 extensions/bat/package.nls.json,,Y,Y,Y

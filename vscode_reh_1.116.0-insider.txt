@@ -3,6 +3,11 @@ bin/code-server-insiders
 bin/helpers/browser.sh
 bin/helpers/check-requirements.sh
 bin/remote-cli/code-insiders
+extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt
+extensions/TypeScriptTeam.jsts-chat-features/logo.png
+extensions/TypeScriptTeam.jsts-chat-features/package.json
+extensions/TypeScriptTeam.jsts-chat-features/readme.md
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-setup/SKILL.md
 extensions/configuration-editing/dist/configurationEditingMain.js
 extensions/configuration-editing/images/icon.png
 extensions/configuration-editing/package.json
