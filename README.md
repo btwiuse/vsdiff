@@ -6,7 +6,7 @@
 
 ## web
 
-| File                                                                                                              | codigo_web_1.100.0.26100.txt | vscode_web_1.112.0-exploration.txt | vscode_web_1.115.0.txt | vscode_web_1.116.0-insider.txt |
+| File                                                                                                              | codigo_web_1.100.0.26100.txt | vscode_web_1.112.0-exploration.txt | vscode_web_1.115.0.txt | vscode_web_1.117.0-insider.txt |
 | ----------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ |
 | LICENSE                                                                                                           |                              | Y                                  | Y                      | Y                              |
 | code-192.png                                                                                                      |                              | Y                                  | Y                      | Y                              |
@@ -1681,7 +1681,7 @@
 | package.json                                                                                                      |                              | Y                                  | Y                      | Y                              |
 ## reh
 
-| File                                                                                                                | codigo_reh_1.100.0.26100.txt | vscode_reh_1.112.0-exploration.txt | vscode_reh_1.115.0.txt | vscode_reh_1.116.0-insider.txt | vscodium_reh_1.112.01907.txt |
+| File                                                                                                                | codigo_reh_1.100.0.26100.txt | vscode_reh_1.112.0-exploration.txt | vscode_reh_1.115.0.txt | vscode_reh_1.117.0-insider.txt | vscodium_reh_1.112.01907.txt |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                                                                             | Y                            | Y                                  | Y                      | Y                              |                              |
 | bin/code-server                                                                                                     |                              |                                    | Y                      |                                |                              |
@@ -2566,7 +2566,7 @@
 | out/vs/workbench/contrib/terminal/common/scripts/psreadline/netstd/Microsoft.PowerShell.PSReadLine.Polyfiller.dll   | Y                            |                                    | Y                      | Y                              | Y                            |
 ## reh-web
 
-| File                                                                                                                | codigo_reh-web_1.100.0.26100.txt | vscode_reh-web_1.112.0-exploration.txt | vscode_reh-web_1.115.0.txt | vscode_reh-web_1.116.0-insider.txt | vscodium_reh-web_1.112.01907.txt |
+| File                                                                                                                | codigo_reh-web_1.100.0.26100.txt | vscode_reh-web_1.112.0-exploration.txt | vscode_reh-web_1.115.0.txt | vscode_reh-web_1.117.0-insider.txt | vscodium_reh-web_1.112.01907.txt |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | -------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                                                             | Y                                | Y                                      | Y                          | Y                                  |                                  |
 | bin/code-server                                                                                                     |                                  |                                        | Y                          |                                    |                                  |
