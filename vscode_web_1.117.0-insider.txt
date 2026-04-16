@@ -1652,6 +1652,12 @@ out/vs/workbench/contrib/welcomeGettingStarted/common/media/settingsSync.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/shortcuts.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/terminal.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/workspaceTrust.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-dark-2026.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-hc-dark.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-hc-light.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-light-2026.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-solarized-dark.svg
+out/vs/workbench/contrib/welcomeOnboarding/browser/media/theme-preview-solarized-light.svg
 out/vs/workbench/services/extensions/worker/webWorkerExtensionHostIframe.html
 out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution.darwin.js
 out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution.linux.js
