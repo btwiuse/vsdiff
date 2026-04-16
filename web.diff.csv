@@ -1562,6 +1562,7 @@ out/media/apple-dark.svg,,Y,Y,Y
 out/media/apple-light.svg,,Y,Y,Y
 out/media/code-icon.svg,,Y,Y,Y
 out/media/codicon.ttf,,Y,Y,Y
+out/media/github-mark.svg,,,,Y
 out/media/github.svg,,Y,Y,Y
 out/media/google.svg,,Y,Y,Y
 out/media/letterpress-dark.svg,,Y,Y,Y
@@ -1572,6 +1573,9 @@ out/media/loading-dark.svg,,Y,Y,Y
 out/media/loading-hc.svg,,Y,Y,Y
 out/media/loading.svg,,Y,Y,Y
 out/media/opacity-background.png,,Y,Y,Y
+out/media/sessions-icon.svg,,,,Y
+out/media/sessions-logo-dark.svg,,,,Y
+out/media/sessions-logo-light.svg,,,,Y
 out/nls.keys.json,,Y,Y,Y
 out/nls.messages.js,,Y,Y,Y
 out/nls.messages.json,,Y,Y,Y
@@ -1617,6 +1621,8 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3,,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3,,Y,Y,Y
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg,,Y,Y,Y
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg,,Y,Y,Y
+out/vs/sessions/sessions.web.main.internal.css,,,,Y
+out/vs/sessions/sessions.web.main.internal.js,,,,Y
 out/vs/workbench/api/worker/extensionHostWorkerMain.js,,Y,Y,Y
 out/vs/workbench/browser/media/code-icon.svg,,Y,Y,Y
 out/vs/workbench/browser/parts/editor/media/letterpress-dark.svg,,Y,Y,Y
