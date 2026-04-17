@@ -41,6 +41,7 @@ extensions/copilot/changelog.md
 extensions/copilot/dist/cl100k_base.tiktoken
 extensions/copilot/dist/cli.js
 extensions/copilot/dist/copilotCLIShim.js
+extensions/copilot/dist/copilotCLITodoWorker.js
 extensions/copilot/dist/copilotDebugCommand.js
 extensions/copilot/dist/diffWorker.js
 extensions/copilot/dist/extension.js
