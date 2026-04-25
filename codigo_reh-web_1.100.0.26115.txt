@@ -2625,6 +2625,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/queries/rust-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/scala-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/typescript-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
+extensions/copilot/node_modules/@github/copilot/sdk/sharp/index.js
 extensions/copilot/node_modules/@github/copilot/sdk/sharp/node_modules/@emnapi/runtime/LICENSE
 extensions/copilot/node_modules/@github/copilot/sdk/sharp/node_modules/@emnapi/runtime/dist/emnapi.cjs.js
 extensions/copilot/node_modules/@github/copilot/sdk/sharp/node_modules/@emnapi/runtime/dist/emnapi.cjs.min.js
