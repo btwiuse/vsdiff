@@ -67,6 +67,8 @@ out/media/github-mark.svg,Y,,Y,Y
 out/media/sessions-icon.svg,Y,,Y,Y
 out/media/sessions-logo-dark.svg,Y,,Y,Y
 out/media/sessions-logo-light.svg,Y,,Y,Y
+out/media/vscode-icon.svg,,,,Y
+out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,,,,Y
 out/vs/sessions/sessions.web.main.internal.css,Y,,Y,Y
 out/vs/sessions/sessions.web.main.internal.js,Y,,Y,Y
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,
