@@ -9180,6 +9180,8 @@ extensions/copilot/node_modules/@vscode/copilot-api/SECURITY.md
 extensions/copilot/node_modules/@vscode/copilot-api/dist/index.js
 extensions/copilot/node_modules/@vscode/copilot-api/package.json
 extensions/copilot/node_modules/@vscode/copilot-api/scripts/package.json
+extensions/copilot/node_modules/@vscode/copilot-typescript-server-plugin/dist/main.js
+extensions/copilot/node_modules/@vscode/copilot-typescript-server-plugin/package.json
 extensions/copilot/node_modules/@vscode/extension-telemetry/LICENSE
 extensions/copilot/node_modules/@vscode/extension-telemetry/SECURITY.md
 extensions/copilot/node_modules/@vscode/extension-telemetry/dist/browser/browser/telemetryReporter.js

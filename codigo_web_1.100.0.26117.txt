@@ -1540,6 +1540,7 @@ out/media/opacity-background.png
 out/media/sessions-icon.svg
 out/media/sessions-logo-dark.svg
 out/media/sessions-logo-light.svg
+out/media/vscode-icon.svg
 out/nls.keys.json
 out/nls.messages.js
 out/nls.messages.json
@@ -1585,6 +1586,7 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
+out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg
 out/vs/sessions/sessions.web.main.internal.css
 out/vs/sessions/sessions.web.main.internal.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
