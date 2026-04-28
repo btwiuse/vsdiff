@@ -2555,6 +2555,7 @@ extensions/copilot/node_modules/@github/copilot/definitions/configure-copilot.ag
 extensions/copilot/node_modules/@github/copilot/definitions/explore.agent.yaml
 extensions/copilot/node_modules/@github/copilot/definitions/research.agent.yaml
 extensions/copilot/node_modules/@github/copilot/definitions/rubber-duck.agent.yaml
+extensions/copilot/node_modules/@github/copilot/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/index.js
 extensions/copilot/node_modules/@github/copilot/npm-loader.js
@@ -2585,6 +2586,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilo
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/darwin-arm64/computer.node
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/darwin-x64/computer.node
