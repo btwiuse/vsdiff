@@ -2565,7 +2565,6 @@ extensions/copilot/node_modules/@github/copilot/definitions/configure-copilot.ag
 extensions/copilot/node_modules/@github/copilot/definitions/explore.agent.yaml,Y,,,,
 extensions/copilot/node_modules/@github/copilot/definitions/research.agent.yaml,Y,,,,
 extensions/copilot/node_modules/@github/copilot/definitions/rubber-duck.agent.yaml,Y,,,,
-extensions/copilot/node_modules/@github/copilot/definitions/sidekick/github-context.yaml,Y,,,,
 extensions/copilot/node_modules/@github/copilot/definitions/task.agent.yaml,Y,,,,
 extensions/copilot/node_modules/@github/copilot/index.js,Y,,,,
 extensions/copilot/node_modules/@github/copilot/npm-loader.js,Y,,,,
@@ -2596,7 +2595,6 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilo
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml,Y,Y,Y,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml,Y,Y,Y,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml,Y,Y,Y,Y,
-extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml,Y,,,,
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml,Y,Y,Y,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/index.js,,Y,Y,Y,
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/darwin-arm64/computer.node,Y,,,,
@@ -12307,7 +12305,6 @@ node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp/arm64/unix-block.
 node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp/x64/unix-block.bpf,,Y,,,Y
 node_modules/@anthropic-ai/sandbox-runtime/vendor/seccomp/arm64/unix-block.bpf,,Y,,,Y
 node_modules/@anthropic-ai/sandbox-runtime/vendor/seccomp/x64/unix-block.bpf,,Y,,,Y
-node_modules/@github/copilot/definitions/sidekick/github-context.yaml,Y,,,,
 node_modules/@github/copilot/prebuilds/linux-x64/pty.node,,Y,,,
 node_modules/@types/lodash-es/LICENSE,,Y,,,Y
 node_modules/@types/lodash-es/package.json,,Y,,,Y
