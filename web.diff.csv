@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26119.txt,vscode_web_1.117.0.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.119.0-insider.txt
+File,codigo_web_1.100.0.26119.txt,vscode_web_1.118.0.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.119.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -39,7 +39,5 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y
-out/media/vscode-icon.svg,Y,,Y,Y
-out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,Y,,Y,Y
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,
