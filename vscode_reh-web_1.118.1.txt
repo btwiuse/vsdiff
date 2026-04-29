@@ -1,8 +1,8 @@
 LICENSE
-bin/code-server-exploration
+bin/code-server
 bin/helpers/browser.sh
 bin/helpers/check-requirements.sh
-bin/remote-cli/code-exploration
+bin/remote-cli/code
 extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt
 extensions/TypeScriptTeam.jsts-chat-features/logo.png
 extensions/TypeScriptTeam.jsts-chat-features/package.json
