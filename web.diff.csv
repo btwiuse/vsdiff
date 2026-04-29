@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26120.txt,vscode_web_1.117.0.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.119.0-insider.txt
+File,codigo_web_1.100.0.26120.txt,vscode_web_1.118.1.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.119.0-insider.txt
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
@@ -1569,7 +1569,7 @@ out/media/opacity-background.png,,Y,Y,Y
 out/media/sessions-icon.svg,,Y,Y,Y
 out/media/sessions-logo-dark.svg,,Y,Y,Y
 out/media/sessions-logo-light.svg,,Y,Y,Y
-out/media/vscode-icon.svg,,,Y,Y
+out/media/vscode-icon.svg,,Y,Y,Y
 out/nls.keys.json,,Y,Y,Y
 out/nls.messages.js,,Y,Y,Y
 out/nls.messages.json,,Y,Y,Y
@@ -1615,7 +1615,7 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3,,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3,,Y,Y,Y
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg,,Y,Y,Y
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg,,Y,Y,Y
-out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,,,Y,Y
+out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,,Y,Y,Y
 out/vs/sessions/sessions.web.main.internal.css,,Y,Y,Y
 out/vs/sessions/sessions.web.main.internal.js,,Y,Y,Y
 out/vs/workbench/api/worker/extensionHostWorkerMain.js,,Y,Y,Y
