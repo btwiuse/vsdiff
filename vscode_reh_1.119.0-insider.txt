@@ -1025,7 +1025,6 @@ node_modules/@github/copilot/definitions/configure-copilot.agent.yaml
 node_modules/@github/copilot/definitions/explore.agent.yaml
 node_modules/@github/copilot/definitions/research.agent.yaml
 node_modules/@github/copilot/definitions/rubber-duck.agent.yaml
-node_modules/@github/copilot/definitions/sidekick/github-context.yaml
 node_modules/@github/copilot/definitions/task.agent.yaml
 node_modules/@github/copilot/index.js
 node_modules/@github/copilot/npm-loader.js
