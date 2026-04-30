@@ -12307,9 +12307,9 @@ node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp/arm64/unix-block.
 node_modules/@anthropic-ai/sandbox-runtime/dist/vendor/seccomp/x64/unix-block.bpf,,,,,Y
 node_modules/@anthropic-ai/sandbox-runtime/vendor/seccomp/arm64/unix-block.bpf,,,,,Y
 node_modules/@anthropic-ai/sandbox-runtime/vendor/seccomp/x64/unix-block.bpf,,,,,Y
-node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js,Y,,,,
-node_modules/@github/copilot-sdk/dist/sessionFsProvider.js,Y,,,,
-node_modules/@github/copilot/definitions/sidekick/github-context.yaml,Y,,,,
+node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js,Y,,,Y,
+node_modules/@github/copilot-sdk/dist/sessionFsProvider.js,Y,,,Y,
+node_modules/@github/copilot/definitions/sidekick/github-context.yaml,Y,,,Y,
 node_modules/@types/lodash-es/LICENSE,,,,,Y
 node_modules/@types/lodash-es/package.json,,,,,Y
 node_modules/@types/lodash/LICENSE,,,,,Y
