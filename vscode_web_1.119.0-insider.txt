@@ -1121,6 +1121,7 @@ node_modules/@vscode/codicons/src/icons/server.svg
 node_modules/@vscode/codicons/src/icons/session-in-progress.svg
 node_modules/@vscode/codicons/src/icons/settings-gear.svg
 node_modules/@vscode/codicons/src/icons/settings.svg
+node_modules/@vscode/codicons/src/icons/share-window.svg
 node_modules/@vscode/codicons/src/icons/share.svg
 node_modules/@vscode/codicons/src/icons/shield.svg
 node_modules/@vscode/codicons/src/icons/sign-in.svg
