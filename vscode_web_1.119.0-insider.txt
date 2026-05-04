@@ -1616,6 +1616,10 @@ out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
 out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-light-2026.svg
 out/vs/sessions/sessions.web.main.internal.css
 out/vs/sessions/sessions.web.main.internal.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
