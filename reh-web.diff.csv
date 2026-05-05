@@ -18,7 +18,7 @@ extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-setup/SKILL.md,,Y
 extensions/copilot/CHANGELOG.md,Y,,,,
 extensions/copilot/LICENSE.txt,Y,Y,Y,Y,
 extensions/copilot/README.md,Y,,,,
-extensions/copilot/ThirdPartyNotices.txt,,Y,Y,,
+extensions/copilot/ThirdPartyNotices.txt,,Y,Y,Y,
 extensions/copilot/assets/copilot.png,Y,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,Y,Y,Y,Y,
 extensions/copilot/assets/debug-icon.svg,Y,Y,Y,Y,
@@ -12371,6 +12371,12 @@ node_modules/@types/lodash-es/LICENSE,,,,,Y
 node_modules/@types/lodash-es/package.json,,,,,Y
 node_modules/@types/lodash/LICENSE,,,,,Y
 node_modules/@types/lodash/package.json,,,,,Y
+node_modules/@vscode/copilot-api/COPILOT_CHAT_EXTENSION_LICENSE.md,,,,Y,
+node_modules/@vscode/copilot-api/LICENSE,,,,Y,
+node_modules/@vscode/copilot-api/SECURITY.md,,,,Y,
+node_modules/@vscode/copilot-api/dist/index.js,,,,Y,
+node_modules/@vscode/copilot-api/package.json,,,,Y,
+node_modules/@vscode/copilot-api/scripts/package.json,,,,Y,
 node_modules/@vscode/sandbox-runtime/LICENSE,,,,Y,
 node_modules/@vscode/sandbox-runtime/dist/cli.d.ts.map,,,,Y,
 node_modules/@vscode/sandbox-runtime/dist/cli.js,,,,Y,

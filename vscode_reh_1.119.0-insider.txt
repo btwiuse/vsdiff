@@ -14,6 +14,7 @@ extensions/configuration-editing/package.json
 extensions/configuration-editing/package.nls.json
 extensions/configuration-editing/schemas/attachContainer.schema.json
 extensions/copilot/LICENSE.txt
+extensions/copilot/ThirdPartyNotices.txt
 extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
@@ -1215,6 +1216,12 @@ node_modules/@tootallnate/once/dist/index.js
 node_modules/@tootallnate/once/dist/overloaded-parameters.js
 node_modules/@tootallnate/once/dist/types.js
 node_modules/@tootallnate/once/package.json
+node_modules/@vscode/copilot-api/COPILOT_CHAT_EXTENSION_LICENSE.md
+node_modules/@vscode/copilot-api/LICENSE
+node_modules/@vscode/copilot-api/SECURITY.md
+node_modules/@vscode/copilot-api/dist/index.js
+node_modules/@vscode/copilot-api/package.json
+node_modules/@vscode/copilot-api/scripts/package.json
 node_modules/@vscode/deviceid/LICENSE.txt
 node_modules/@vscode/deviceid/NOTICE.txt
 node_modules/@vscode/deviceid/SECURITY.md
