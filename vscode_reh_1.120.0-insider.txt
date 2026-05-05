@@ -18,6 +18,9 @@ extensions/copilot/ThirdPartyNotices.txt
 extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
+extensions/copilot/assets/prompts/chronicle-reindex.prompt.md
+extensions/copilot/assets/prompts/chronicle-standup.prompt.md
+extensions/copilot/assets/prompts/chronicle-tips.prompt.md
 extensions/copilot/assets/prompts/plan.prompt.md
 extensions/copilot/assets/prompts/skills/agent-customization/SKILL.md
 extensions/copilot/assets/prompts/skills/agent-customization/references/agent-instructions.md
@@ -26,6 +29,7 @@ extensions/copilot/assets/prompts/skills/agent-customization/references/hooks.md
 extensions/copilot/assets/prompts/skills/agent-customization/references/instructions.md
 extensions/copilot/assets/prompts/skills/agent-customization/references/prompts.md
 extensions/copilot/assets/prompts/skills/agent-customization/references/skills.md
+extensions/copilot/assets/prompts/skills/chronicle/SKILL.md
 extensions/copilot/assets/prompts/skills/create-agent/SKILL.md
 extensions/copilot/assets/prompts/skills/create-hook/SKILL.md
 extensions/copilot/assets/prompts/skills/create-instructions/SKILL.md

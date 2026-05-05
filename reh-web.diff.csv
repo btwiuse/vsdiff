@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26126.txt,vscode_reh-web_1.118.1.txt,vscode_reh-web_1.119.0-exploration.txt,vscode_reh-web_1.119.0-insider.txt,vscodium_reh-web_1.116.02821.txt
+File,codigo_reh-web_1.100.0.26126.txt,vscode_reh-web_1.118.1.txt,vscode_reh-web_1.119.0-exploration.txt,vscode_reh-web_1.120.0-insider.txt,vscodium_reh-web_1.116.02821.txt
 LICENSE,Y,Y,Y,Y,
 bin/code-server,,Y,,,
 bin/code-server-exploration,,,Y,,
@@ -22,6 +22,9 @@ extensions/copilot/ThirdPartyNotices.txt,,Y,Y,Y,
 extensions/copilot/assets/copilot.png,Y,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,Y,Y,Y,Y,
 extensions/copilot/assets/debug-icon.svg,Y,Y,Y,Y,
+extensions/copilot/assets/prompts/chronicle-reindex.prompt.md,,,,Y,
+extensions/copilot/assets/prompts/chronicle-standup.prompt.md,,,,Y,
+extensions/copilot/assets/prompts/chronicle-tips.prompt.md,,,,Y,
 extensions/copilot/assets/prompts/plan.prompt.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/agent-customization/SKILL.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/agent-customization/references/agent-instructions.md,Y,Y,Y,Y,
@@ -30,6 +33,7 @@ extensions/copilot/assets/prompts/skills/agent-customization/references/hooks.md
 extensions/copilot/assets/prompts/skills/agent-customization/references/instructions.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/agent-customization/references/prompts.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/agent-customization/references/skills.md,Y,Y,Y,Y,
+extensions/copilot/assets/prompts/skills/chronicle/SKILL.md,,,,Y,
 extensions/copilot/assets/prompts/skills/create-agent/SKILL.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/create-hook/SKILL.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/skills/create-instructions/SKILL.md,Y,Y,Y,Y,
