@@ -3202,7 +3202,6 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
-out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg
