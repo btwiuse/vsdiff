@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26126.txt,vscode_web_1.118.1.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.120.0-insider.txt
+File,codigo_web_1.100.0.26126.txt,vscode_web_1.119.0-exploration.txt,vscode_web_1.119.0.txt,vscode_web_1.120.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -34,16 +34,16 @@ extensions/simple-browser/dist/extension.js,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
-node_modules/@vscode/codicons/src/icons/share-window.svg,Y,,,Y
+node_modules/@vscode/codicons/src/icons/share-window.svg,Y,,Y,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y
 out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,Y,Y,Y,
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg,,,,Y
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg,,,,Y
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg,,,,Y
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-light-2026.svg,,,,Y
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg,,,Y,Y
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg,,,Y,Y
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg,,,Y,Y
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-light-2026.svg,,,Y,Y
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png,Y,,,
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png,Y,,,
