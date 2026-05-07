@@ -1566,9 +1566,12 @@ out/media/loading-dark.svg
 out/media/loading-hc.svg
 out/media/loading.svg
 out/media/opacity-background.png
-out/media/sessions-icon.svg
 out/media/sessions-logo-dark.svg
 out/media/sessions-logo-light.svg
+out/media/theme-preview-dark-2026.svg
+out/media/theme-preview-hc-dark.svg
+out/media/theme-preview-hc-light.svg
+out/media/theme-preview-light-2026.svg
 out/media/vscode-icon.svg
 out/nls.keys.json
 out/nls.messages.js
@@ -1615,6 +1618,8 @@ out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-dark-2026.svg
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-light-2026.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg

@@ -40,7 +40,14 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y
+out/media/sessions-icon.svg,Y,Y,Y,
+out/media/theme-preview-dark-2026.svg,,,,Y
+out/media/theme-preview-hc-dark.svg,,,,Y
+out/media/theme-preview-hc-light.svg,,,,Y
+out/media/theme-preview-light-2026.svg,,,,Y
 out/vs/sessions/contrib/chat/browser/media/vscode-icon.svg,,Y,Y,
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-dark-2026.svg,,,,Y
+out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-light-2026.svg,,,,Y
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg,Y,,Y,Y
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg,Y,,Y,Y
 out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg,Y,,Y,Y
