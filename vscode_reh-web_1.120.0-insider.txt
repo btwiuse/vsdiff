@@ -86,6 +86,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilo
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
