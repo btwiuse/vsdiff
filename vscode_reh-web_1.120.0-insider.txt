@@ -3181,12 +3181,6 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-dark-2026.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/agents-window-light-2026.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-dark-2026.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-dark.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-hc-light.svg
-out/vs/sessions/contrib/welcome/browser/media/themePreviews/theme-preview-light-2026.svg
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg
