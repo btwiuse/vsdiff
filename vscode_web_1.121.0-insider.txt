@@ -756,6 +756,7 @@ node_modules/@vscode/codicons/src/icons/chrome-restore.svg
 node_modules/@vscode/codicons/src/icons/circle-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-large-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-large.svg
+node_modules/@vscode/codicons/src/icons/circle-slash-compact.svg
 node_modules/@vscode/codicons/src/icons/circle-slash.svg
 node_modules/@vscode/codicons/src/icons/circle-small-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-small.svg
@@ -790,6 +791,7 @@ node_modules/@vscode/codicons/src/icons/compass-active.svg
 node_modules/@vscode/codicons/src/icons/compass-dot.svg
 node_modules/@vscode/codicons/src/icons/compass.svg
 node_modules/@vscode/codicons/src/icons/copilot-blocked.svg
+node_modules/@vscode/codicons/src/icons/copilot-compact.svg
 node_modules/@vscode/codicons/src/icons/copilot-error.svg
 node_modules/@vscode/codicons/src/icons/copilot-in-progress.svg
 node_modules/@vscode/codicons/src/icons/copilot-large.svg
@@ -862,6 +864,7 @@ node_modules/@vscode/codicons/src/icons/editor-layout.svg
 node_modules/@vscode/codicons/src/icons/ellipsis.svg
 node_modules/@vscode/codicons/src/icons/empty-window.svg
 node_modules/@vscode/codicons/src/icons/eraser.svg
+node_modules/@vscode/codicons/src/icons/error-compact.svg
 node_modules/@vscode/codicons/src/icons/error-small.svg
 node_modules/@vscode/codicons/src/icons/error.svg
 node_modules/@vscode/codicons/src/icons/exclude.svg
@@ -891,16 +894,20 @@ node_modules/@vscode/codicons/src/icons/fold-down.svg
 node_modules/@vscode/codicons/src/icons/fold-up.svg
 node_modules/@vscode/codicons/src/icons/fold.svg
 node_modules/@vscode/codicons/src/icons/folder-active.svg
+node_modules/@vscode/codicons/src/icons/folder-compact.svg
 node_modules/@vscode/codicons/src/icons/folder-library.svg
+node_modules/@vscode/codicons/src/icons/folder-opened-compact.svg
 node_modules/@vscode/codicons/src/icons/folder-opened.svg
 node_modules/@vscode/codicons/src/icons/folder.svg
 node_modules/@vscode/codicons/src/icons/forward.svg
 node_modules/@vscode/codicons/src/icons/game.svg
+node_modules/@vscode/codicons/src/icons/gear-compact.svg
 node_modules/@vscode/codicons/src/icons/gear.svg
 node_modules/@vscode/codicons/src/icons/gift.svg
 node_modules/@vscode/codicons/src/icons/gist-secret.svg
 node_modules/@vscode/codicons/src/icons/gist.svg
 node_modules/@vscode/codicons/src/icons/git-branch-changes.svg
+node_modules/@vscode/codicons/src/icons/git-branch-compact.svg
 node_modules/@vscode/codicons/src/icons/git-branch-conflicts.svg
 node_modules/@vscode/codicons/src/icons/git-branch-staged-changes.svg
 node_modules/@vscode/codicons/src/icons/git-branch.svg
@@ -980,6 +987,7 @@ node_modules/@vscode/codicons/src/icons/layout-sidebar-right-off.svg
 node_modules/@vscode/codicons/src/icons/layout-sidebar-right.svg
 node_modules/@vscode/codicons/src/icons/layout-statusbar.svg
 node_modules/@vscode/codicons/src/icons/layout.svg
+node_modules/@vscode/codicons/src/icons/library-compact.svg
 node_modules/@vscode/codicons/src/icons/library.svg
 node_modules/@vscode/codicons/src/icons/lightbulb-autofix.svg
 node_modules/@vscode/codicons/src/icons/lightbulb-empty.svg
@@ -1063,6 +1071,7 @@ node_modules/@vscode/codicons/src/icons/quote.svg
 node_modules/@vscode/codicons/src/icons/quotes.svg
 node_modules/@vscode/codicons/src/icons/radio-tower.svg
 node_modules/@vscode/codicons/src/icons/reactions.svg
+node_modules/@vscode/codicons/src/icons/record-keys-compact.svg
 node_modules/@vscode/codicons/src/icons/record-keys.svg
 node_modules/@vscode/codicons/src/icons/record-small.svg
 node_modules/@vscode/codicons/src/icons/record.svg
@@ -1070,6 +1079,7 @@ node_modules/@vscode/codicons/src/icons/redo.svg
 node_modules/@vscode/codicons/src/icons/references.svg
 node_modules/@vscode/codicons/src/icons/refresh.svg
 node_modules/@vscode/codicons/src/icons/regex.svg
+node_modules/@vscode/codicons/src/icons/remote-compact.svg
 node_modules/@vscode/codicons/src/icons/remote-explorer.svg
 node_modules/@vscode/codicons/src/icons/remote.svg
 node_modules/@vscode/codicons/src/icons/remove-small.svg
@@ -1079,8 +1089,10 @@ node_modules/@vscode/codicons/src/icons/replace-all.svg
 node_modules/@vscode/codicons/src/icons/replace.svg
 node_modules/@vscode/codicons/src/icons/reply.svg
 node_modules/@vscode/codicons/src/icons/repo-clone.svg
+node_modules/@vscode/codicons/src/icons/repo-compact.svg
 node_modules/@vscode/codicons/src/icons/repo-fetch.svg
 node_modules/@vscode/codicons/src/icons/repo-force-push.svg
+node_modules/@vscode/codicons/src/icons/repo-forked-compact.svg
 node_modules/@vscode/codicons/src/icons/repo-forked.svg
 node_modules/@vscode/codicons/src/icons/repo-pinned.svg
 node_modules/@vscode/codicons/src/icons/repo-pull.svg
@@ -1123,6 +1135,7 @@ node_modules/@vscode/codicons/src/icons/settings-gear.svg
 node_modules/@vscode/codicons/src/icons/settings.svg
 node_modules/@vscode/codicons/src/icons/share-window.svg
 node_modules/@vscode/codicons/src/icons/share.svg
+node_modules/@vscode/codicons/src/icons/shield-compact.svg
 node_modules/@vscode/codicons/src/icons/shield.svg
 node_modules/@vscode/codicons/src/icons/sign-in.svg
 node_modules/@vscode/codicons/src/icons/sign-out.svg
@@ -1131,6 +1144,7 @@ node_modules/@vscode/codicons/src/icons/smiley.svg
 node_modules/@vscode/codicons/src/icons/snake.svg
 node_modules/@vscode/codicons/src/icons/sort-precedence.svg
 node_modules/@vscode/codicons/src/icons/source-control.svg
+node_modules/@vscode/codicons/src/icons/sparkle-compact.svg
 node_modules/@vscode/codicons/src/icons/sparkle-filled.svg
 node_modules/@vscode/codicons/src/icons/sparkle.svg
 node_modules/@vscode/codicons/src/icons/split-horizontal.svg
@@ -1145,6 +1159,7 @@ node_modules/@vscode/codicons/src/icons/surround-with.svg
 node_modules/@vscode/codicons/src/icons/symbol-array.svg
 node_modules/@vscode/codicons/src/icons/symbol-boolean.svg
 node_modules/@vscode/codicons/src/icons/symbol-class.svg
+node_modules/@vscode/codicons/src/icons/symbol-color-compact.svg
 node_modules/@vscode/codicons/src/icons/symbol-color.svg
 node_modules/@vscode/codicons/src/icons/symbol-constant.svg
 node_modules/@vscode/codicons/src/icons/symbol-enum-member.svg
@@ -1228,6 +1243,7 @@ node_modules/@vscode/codicons/src/icons/watch.svg
 node_modules/@vscode/codicons/src/icons/whitespace.svg
 node_modules/@vscode/codicons/src/icons/whole-word.svg
 node_modules/@vscode/codicons/src/icons/window-active.svg
+node_modules/@vscode/codicons/src/icons/window-compact.svg
 node_modules/@vscode/codicons/src/icons/window.svg
 node_modules/@vscode/codicons/src/icons/word-wrap.svg
 node_modules/@vscode/codicons/src/icons/workspace-trusted.svg
