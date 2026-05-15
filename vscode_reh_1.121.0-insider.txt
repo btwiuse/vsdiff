@@ -68,11 +68,12 @@ extensions/copilot/dist/tree-sitter.wasm
 extensions/copilot/dist/worker2.js
 extensions/copilot/node_modules/@github/copilot/package.json
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/code-review.agent.yaml
-extensions/copilot/node_modules/@github/copilot/sdk/definitions/configure-copilot.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/rem-agent.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/subconscious-agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
