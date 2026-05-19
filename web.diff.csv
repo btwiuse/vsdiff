@@ -57,6 +57,7 @@ extensions/simple-browser/dist/extension.js,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
+node_modules/@vscode/codicons/src/icons/add-compact.svg,Y,,,
 node_modules/@vscode/codicons/src/icons/circle-slash-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/copilot-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/error-compact.svg,Y,,Y,Y

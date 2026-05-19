@@ -666,6 +666,7 @@ node_modules/@vscode/codicons/scripts/svg-sprite.js
 node_modules/@vscode/codicons/scripts/version-bump.js
 node_modules/@vscode/codicons/src/icons/account.svg
 node_modules/@vscode/codicons/src/icons/activate-breakpoints.svg
+node_modules/@vscode/codicons/src/icons/add-compact.svg
 node_modules/@vscode/codicons/src/icons/add-small.svg
 node_modules/@vscode/codicons/src/icons/add.svg
 node_modules/@vscode/codicons/src/icons/agent.svg
