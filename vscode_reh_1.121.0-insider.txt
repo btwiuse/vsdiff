@@ -14,7 +14,6 @@ extensions/configuration-editing/package.json
 extensions/configuration-editing/package.nls.json
 extensions/configuration-editing/schemas/attachContainer.schema.json
 extensions/copilot/LICENSE.txt
-extensions/copilot/ThirdPartyNotices.txt
 extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
