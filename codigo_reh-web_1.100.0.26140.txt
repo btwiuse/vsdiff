@@ -29,6 +29,7 @@ extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md
+extensions/copilot/assets/prompts/chronicle-search.prompt.md
 extensions/copilot/assets/prompts/chronicle-standup.prompt.md
 extensions/copilot/assets/prompts/chronicle-tips.prompt.md
 extensions/copilot/assets/prompts/plan.prompt.md
