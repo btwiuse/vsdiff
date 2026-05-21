@@ -14,6 +14,7 @@ extensions/copilot/README.md
 extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
+extensions/copilot/assets/prompts/chronicle-cost-tips.prompt.md
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md
 extensions/copilot/assets/prompts/chronicle-search.prompt.md
 extensions/copilot/assets/prompts/chronicle-standup.prompt.md
@@ -2686,9 +2687,6 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agen
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/subconscious-agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
-extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/computer.node
-extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/icu-native.node
-extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/runtime.node
 extensions/copilot/node_modules/@github/copilot/sdk/queries/bash-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/c-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/cpp-highlights.scm
