@@ -833,6 +833,7 @@ node_modules/@vscode/codicons/src/icons/debug-step-over.svg
 node_modules/@vscode/codicons/src/icons/debug-stop.svg
 node_modules/@vscode/codicons/src/icons/debug.svg
 node_modules/@vscode/codicons/src/icons/desktop-download.svg
+node_modules/@vscode/codicons/src/icons/developer-tools.svg
 node_modules/@vscode/codicons/src/icons/device-camera-video.svg
 node_modules/@vscode/codicons/src/icons/device-camera.svg
 node_modules/@vscode/codicons/src/icons/device-mobile.svg
