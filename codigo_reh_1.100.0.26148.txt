@@ -2905,6 +2905,11 @@ extensions/copilot/node_modules/@img/sharp-libvips-linux-x64/lib/index.js
 extensions/copilot/node_modules/@img/sharp-libvips-linux-x64/lib/libvips-cpp.so.8.17.3
 extensions/copilot/node_modules/@img/sharp-libvips-linux-x64/package.json
 extensions/copilot/node_modules/@img/sharp-libvips-linux-x64/versions.json
+extensions/copilot/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/glib-2.0/include/glibconfig.h
+extensions/copilot/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/index.js
+extensions/copilot/node_modules/@img/sharp-libvips-linuxmusl-x64/lib/libvips-cpp.so.8.17.3
+extensions/copilot/node_modules/@img/sharp-libvips-linuxmusl-x64/package.json
+extensions/copilot/node_modules/@img/sharp-libvips-linuxmusl-x64/versions.json
 extensions/copilot/node_modules/@img/sharp-linux-x64/LICENSE
 extensions/copilot/node_modules/@img/sharp-linux-x64/lib/sharp-linux-x64.node
 extensions/copilot/node_modules/@img/sharp-linux-x64/package.json
