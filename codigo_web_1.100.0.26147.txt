@@ -1316,9 +1316,6 @@ node_modules/commander/lib/error.js
 node_modules/commander/lib/help.js
 node_modules/commander/lib/option.js
 node_modules/commander/lib/suggestSimilar.js
-node_modules/js-base64/base64.d.mts
-node_modules/js-base64/base64.js
-node_modules/js-base64/base64.mjs
 node_modules/jschardet/dist/jschardet.min.js
 node_modules/jschardet/scripts/run-workflow.sh
 node_modules/jschardet/scripts/show-size-changes.sh
