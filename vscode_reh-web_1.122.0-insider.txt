@@ -1512,9 +1512,9 @@ node_modules/@microsoft/dynamicproto-js/package.json
 node_modules/@microsoft/dynamicproto-js/tools/rollup/esm/removedynamic.js
 node_modules/@microsoft/dynamicproto-js/tools/rollup/node/removedynamic.js
 node_modules/@microsoft/mxc-sdk/LICENSE.md
-node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0516180711411.json
-node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0516181242399.json
-node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0516182357363.json
+node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0522225133760.json
+node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0522225557132.json
+node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/ESRPClientLogs0522225818743.json
 node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/bsi.cose
 node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/bsi.json
 node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/manifest.cat
@@ -1522,6 +1522,7 @@ node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/manifest.spdx.cose
 node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/manifest.spdx.json
 node_modules/@microsoft/mxc-sdk/bin/arm64/_manifest/spdx_2.2/manifest.spdx.json.sha256
 node_modules/@microsoft/mxc-sdk/bin/arm64/lxc-exec
+node_modules/@microsoft/mxc-sdk/bin/arm64/mxc-diagnostic-console.exe
 node_modules/@microsoft/mxc-sdk/bin/arm64/mxc-exec-mac
 node_modules/@microsoft/mxc-sdk/bin/arm64/winhttp-proxy-shim.exe
 node_modules/@microsoft/mxc-sdk/bin/arm64/wslcsdk.dll
@@ -1529,8 +1530,8 @@ node_modules/@microsoft/mxc-sdk/bin/arm64/wxc-exec.exe
 node_modules/@microsoft/mxc-sdk/bin/arm64/wxc-test-proxy.exe
 node_modules/@microsoft/mxc-sdk/bin/arm64/wxc-windows-sandbox-daemon.exe
 node_modules/@microsoft/mxc-sdk/bin/arm64/wxc-windows-sandbox-guest.exe
-node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/ESRPClientLogs0516181541569.json
-node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/ESRPClientLogs0516183235837.json
+node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/ESRPClientLogs0522225229789.json
+node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/ESRPClientLogs0522230512561.json
 node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/bsi.cose
 node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/bsi.json
 node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/manifest.cat
@@ -1538,6 +1539,7 @@ node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/manifest.spdx.cose
 node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/manifest.spdx.json
 node_modules/@microsoft/mxc-sdk/bin/x64/_manifest/spdx_2.2/manifest.spdx.json.sha256
 node_modules/@microsoft/mxc-sdk/bin/x64/lxc-exec
+node_modules/@microsoft/mxc-sdk/bin/x64/mxc-diagnostic-console.exe
 node_modules/@microsoft/mxc-sdk/bin/x64/winhttp-proxy-shim.exe
 node_modules/@microsoft/mxc-sdk/bin/x64/wslcsdk.dll
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-exec.exe
