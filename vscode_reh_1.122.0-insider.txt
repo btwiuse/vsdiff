@@ -19,6 +19,7 @@ extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
 extensions/copilot/assets/prompts/chronicle-cost-tips.prompt.md
+extensions/copilot/assets/prompts/chronicle-improve.prompt.md
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md
 extensions/copilot/assets/prompts/chronicle-search.prompt.md
 extensions/copilot/assets/prompts/chronicle-standup.prompt.md
@@ -1625,11 +1626,6 @@ node_modules/is-extglob/package.json
 node_modules/is-glob/LICENSE
 node_modules/is-glob/index.js
 node_modules/is-glob/package.json
-node_modules/js-base64/LICENSE.md
-node_modules/js-base64/base64.d.mts
-node_modules/js-base64/base64.js
-node_modules/js-base64/base64.mjs
-node_modules/js-base64/package.json
 node_modules/jschardet/CONTRIBUTORS
 node_modules/jschardet/LICENSE
 node_modules/jschardet/dist/jschardet.min.js

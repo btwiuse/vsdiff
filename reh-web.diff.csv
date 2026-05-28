@@ -23,7 +23,7 @@ extensions/copilot/assets/copilot.png,Y,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,Y,Y,Y,Y,
 extensions/copilot/assets/debug-icon.svg,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/chronicle-cost-tips.prompt.md,Y,,Y,Y,
-extensions/copilot/assets/prompts/chronicle-improve.prompt.md,Y,,,,
+extensions/copilot/assets/prompts/chronicle-improve.prompt.md,Y,,Y,,
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/chronicle-search.prompt.md,Y,Y,Y,Y,
 extensions/copilot/assets/prompts/chronicle-standup.prompt.md,Y,Y,Y,Y,
@@ -12815,11 +12815,11 @@ node_modules/@vscode/vsce-sign/src/main.js,,Y,Y,Y,
 node_modules/fd-slicer/LICENSE,,,,,Y
 node_modules/fd-slicer/index.js,,,,,Y
 node_modules/fd-slicer/package.json,,,,,Y
-node_modules/js-base64/LICENSE.md,,Y,Y,Y,Y
-node_modules/js-base64/base64.d.mts,,Y,Y,Y,Y
-node_modules/js-base64/base64.js,,Y,Y,Y,Y
-node_modules/js-base64/base64.mjs,,Y,Y,Y,Y
-node_modules/js-base64/package.json,,Y,Y,Y,Y
+node_modules/js-base64/LICENSE.md,,Y,,Y,Y
+node_modules/js-base64/base64.d.mts,,Y,,Y,Y
+node_modules/js-base64/base64.js,,Y,,Y,Y
+node_modules/js-base64/base64.mjs,,Y,,Y,Y
+node_modules/js-base64/package.json,,Y,,Y,Y
 node_modules/proxy-from-env/LICENSE,,,,,Y
 node_modules/proxy-from-env/index.js,,,,,Y
 node_modules/proxy-from-env/package.json,,,,,Y

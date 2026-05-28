@@ -51,7 +51,7 @@ node_modules/@vscode/codicons/src/icons/comment-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/comment-unresolved-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/debug-connected-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/debug-disconnect-compact.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/developer-tools.svg,Y,,,
+node_modules/@vscode/codicons/src/icons/developer-tools.svg,Y,,Y,
 node_modules/@vscode/codicons/src/icons/edit-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/file-media-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/lightbulb-compact.svg,Y,,Y,Y
@@ -64,9 +64,9 @@ node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/sync-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/terminal-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/worktree-compact.svg,Y,,Y,Y
-node_modules/js-base64/base64.d.mts,,Y,Y,Y
-node_modules/js-base64/base64.js,,Y,Y,Y
-node_modules/js-base64/base64.mjs,,Y,Y,Y
+node_modules/js-base64/base64.d.mts,,Y,,Y
+node_modules/js-base64/base64.js,,Y,,Y
+node_modules/js-base64/base64.mjs,,Y,,Y
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
