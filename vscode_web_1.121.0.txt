@@ -690,7 +690,6 @@ node_modules/@vscode/codicons/scripts/svg-sprite.js
 node_modules/@vscode/codicons/scripts/version-bump.js
 node_modules/@vscode/codicons/src/icons/account.svg
 node_modules/@vscode/codicons/src/icons/activate-breakpoints.svg
-node_modules/@vscode/codicons/src/icons/add-compact.svg
 node_modules/@vscode/codicons/src/icons/add-small.svg
 node_modules/@vscode/codicons/src/icons/add.svg
 node_modules/@vscode/codicons/src/icons/agent.svg
@@ -710,11 +709,9 @@ node_modules/@vscode/codicons/src/icons/arrow-small-up.svg
 node_modules/@vscode/codicons/src/icons/arrow-swap.svg
 node_modules/@vscode/codicons/src/icons/arrow-up.svg
 node_modules/@vscode/codicons/src/icons/ask.svg
-node_modules/@vscode/codicons/src/icons/attach-compact.svg
 node_modules/@vscode/codicons/src/icons/attach.svg
 node_modules/@vscode/codicons/src/icons/azure-devops.svg
 node_modules/@vscode/codicons/src/icons/azure.svg
-node_modules/@vscode/codicons/src/icons/beaker-compact.svg
 node_modules/@vscode/codicons/src/icons/beaker-stop.svg
 node_modules/@vscode/codicons/src/icons/beaker.svg
 node_modules/@vscode/codicons/src/icons/bell-dot.svg
@@ -742,30 +739,22 @@ node_modules/@vscode/codicons/src/icons/chat-sparkle-error.svg
 node_modules/@vscode/codicons/src/icons/chat-sparkle-warning.svg
 node_modules/@vscode/codicons/src/icons/chat-sparkle.svg
 node_modules/@vscode/codicons/src/icons/check-all.svg
-node_modules/@vscode/codicons/src/icons/check-compact.svg
 node_modules/@vscode/codicons/src/icons/check.svg
-node_modules/@vscode/codicons/src/icons/checklist-compact.svg
 node_modules/@vscode/codicons/src/icons/checklist.svg
-node_modules/@vscode/codicons/src/icons/chevron-down-compact.svg
 node_modules/@vscode/codicons/src/icons/chevron-down.svg
-node_modules/@vscode/codicons/src/icons/chevron-left-compact.svg
 node_modules/@vscode/codicons/src/icons/chevron-left.svg
-node_modules/@vscode/codicons/src/icons/chevron-right-compact.svg
 node_modules/@vscode/codicons/src/icons/chevron-right.svg
-node_modules/@vscode/codicons/src/icons/chevron-up-compact.svg
 node_modules/@vscode/codicons/src/icons/chevron-up.svg
 node_modules/@vscode/codicons/src/icons/chip.svg
 node_modules/@vscode/codicons/src/icons/chrome-close.svg
 node_modules/@vscode/codicons/src/icons/chrome-maximize.svg
 node_modules/@vscode/codicons/src/icons/chrome-minimize.svg
 node_modules/@vscode/codicons/src/icons/chrome-restore.svg
-node_modules/@vscode/codicons/src/icons/circle-filled-compact.svg
 node_modules/@vscode/codicons/src/icons/circle-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-large-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-large.svg
 node_modules/@vscode/codicons/src/icons/circle-slash-compact.svg
 node_modules/@vscode/codicons/src/icons/circle-slash.svg
-node_modules/@vscode/codicons/src/icons/circle-small-filled-compact.svg
 node_modules/@vscode/codicons/src/icons/circle-small-filled.svg
 node_modules/@vscode/codicons/src/icons/circle-small.svg
 node_modules/@vscode/codicons/src/icons/circle.svg
@@ -775,7 +764,6 @@ node_modules/@vscode/codicons/src/icons/clear-all.svg
 node_modules/@vscode/codicons/src/icons/clippy.svg
 node_modules/@vscode/codicons/src/icons/clockface.svg
 node_modules/@vscode/codicons/src/icons/close-all.svg
-node_modules/@vscode/codicons/src/icons/close-compact.svg
 node_modules/@vscode/codicons/src/icons/close.svg
 node_modules/@vscode/codicons/src/icons/cloud-download.svg
 node_modules/@vscode/codicons/src/icons/cloud-small.svg
@@ -785,18 +773,15 @@ node_modules/@vscode/codicons/src/icons/code-oss.svg
 node_modules/@vscode/codicons/src/icons/code-review.svg
 node_modules/@vscode/codicons/src/icons/code.svg
 node_modules/@vscode/codicons/src/icons/coffee.svg
-node_modules/@vscode/codicons/src/icons/collapse-all-compact.svg
 node_modules/@vscode/codicons/src/icons/collapse-all.svg
 node_modules/@vscode/codicons/src/icons/collection-small.svg
 node_modules/@vscode/codicons/src/icons/collection.svg
 node_modules/@vscode/codicons/src/icons/color-mode.svg
 node_modules/@vscode/codicons/src/icons/combine.svg
-node_modules/@vscode/codicons/src/icons/comment-compact.svg
 node_modules/@vscode/codicons/src/icons/comment-discussion-quote.svg
 node_modules/@vscode/codicons/src/icons/comment-discussion-sparkle.svg
 node_modules/@vscode/codicons/src/icons/comment-discussion.svg
 node_modules/@vscode/codicons/src/icons/comment-draft.svg
-node_modules/@vscode/codicons/src/icons/comment-unresolved-compact.svg
 node_modules/@vscode/codicons/src/icons/comment-unresolved.svg
 node_modules/@vscode/codicons/src/icons/comment.svg
 node_modules/@vscode/codicons/src/icons/compass-active.svg
@@ -833,13 +818,11 @@ node_modules/@vscode/codicons/src/icons/debug-breakpoint-function.svg
 node_modules/@vscode/codicons/src/icons/debug-breakpoint-log-unverified.svg
 node_modules/@vscode/codicons/src/icons/debug-breakpoint-log.svg
 node_modules/@vscode/codicons/src/icons/debug-breakpoint-unsupported.svg
-node_modules/@vscode/codicons/src/icons/debug-connected-compact.svg
 node_modules/@vscode/codicons/src/icons/debug-connected.svg
 node_modules/@vscode/codicons/src/icons/debug-console.svg
 node_modules/@vscode/codicons/src/icons/debug-continue-small.svg
 node_modules/@vscode/codicons/src/icons/debug-continue.svg
 node_modules/@vscode/codicons/src/icons/debug-coverage.svg
-node_modules/@vscode/codicons/src/icons/debug-disconnect-compact.svg
 node_modules/@vscode/codicons/src/icons/debug-disconnect.svg
 node_modules/@vscode/codicons/src/icons/debug-line-by-line.svg
 node_modules/@vscode/codicons/src/icons/debug-pause.svg
@@ -871,7 +854,6 @@ node_modules/@vscode/codicons/src/icons/diff.svg
 node_modules/@vscode/codicons/src/icons/discard.svg
 node_modules/@vscode/codicons/src/icons/download.svg
 node_modules/@vscode/codicons/src/icons/edit-code.svg
-node_modules/@vscode/codicons/src/icons/edit-compact.svg
 node_modules/@vscode/codicons/src/icons/edit-session.svg
 node_modules/@vscode/codicons/src/icons/edit-sparkle.svg
 node_modules/@vscode/codicons/src/icons/edit.svg
@@ -892,7 +874,6 @@ node_modules/@vscode/codicons/src/icons/eye.svg
 node_modules/@vscode/codicons/src/icons/feedback.svg
 node_modules/@vscode/codicons/src/icons/file-binary.svg
 node_modules/@vscode/codicons/src/icons/file-code.svg
-node_modules/@vscode/codicons/src/icons/file-media-compact.svg
 node_modules/@vscode/codicons/src/icons/file-media.svg
 node_modules/@vscode/codicons/src/icons/file-pdf.svg
 node_modules/@vscode/codicons/src/icons/file-submodule.svg
@@ -1008,7 +989,6 @@ node_modules/@vscode/codicons/src/icons/layout.svg
 node_modules/@vscode/codicons/src/icons/library-compact.svg
 node_modules/@vscode/codicons/src/icons/library.svg
 node_modules/@vscode/codicons/src/icons/lightbulb-autofix.svg
-node_modules/@vscode/codicons/src/icons/lightbulb-compact.svg
 node_modules/@vscode/codicons/src/icons/lightbulb-empty.svg
 node_modules/@vscode/codicons/src/icons/lightbulb-sparkle.svg
 node_modules/@vscode/codicons/src/icons/lightbulb.svg
@@ -1021,7 +1001,6 @@ node_modules/@vscode/codicons/src/icons/list-selection.svg
 node_modules/@vscode/codicons/src/icons/list-tree.svg
 node_modules/@vscode/codicons/src/icons/list-unordered.svg
 node_modules/@vscode/codicons/src/icons/live-share.svg
-node_modules/@vscode/codicons/src/icons/loading-compact.svg
 node_modules/@vscode/codicons/src/icons/loading.svg
 node_modules/@vscode/codicons/src/icons/location.svg
 node_modules/@vscode/codicons/src/icons/lock-small.svg
@@ -1068,7 +1047,6 @@ node_modules/@vscode/codicons/src/icons/output.svg
 node_modules/@vscode/codicons/src/icons/package.svg
 node_modules/@vscode/codicons/src/icons/paintcan.svg
 node_modules/@vscode/codicons/src/icons/pass-compact.svg
-node_modules/@vscode/codicons/src/icons/pass-filled-compact.svg
 node_modules/@vscode/codicons/src/icons/pass-filled.svg
 node_modules/@vscode/codicons/src/icons/pass.svg
 node_modules/@vscode/codicons/src/icons/percentage.svg
@@ -1085,7 +1063,6 @@ node_modules/@vscode/codicons/src/icons/plug.svg
 node_modules/@vscode/codicons/src/icons/preserve-case.svg
 node_modules/@vscode/codicons/src/icons/preview.svg
 node_modules/@vscode/codicons/src/icons/primitive-square.svg
-node_modules/@vscode/codicons/src/icons/project-compact.svg
 node_modules/@vscode/codicons/src/icons/project.svg
 node_modules/@vscode/codicons/src/icons/pulse.svg
 node_modules/@vscode/codicons/src/icons/python.svg
@@ -1100,7 +1077,6 @@ node_modules/@vscode/codicons/src/icons/record-small.svg
 node_modules/@vscode/codicons/src/icons/record.svg
 node_modules/@vscode/codicons/src/icons/redo.svg
 node_modules/@vscode/codicons/src/icons/references.svg
-node_modules/@vscode/codicons/src/icons/refresh-compact.svg
 node_modules/@vscode/codicons/src/icons/refresh.svg
 node_modules/@vscode/codicons/src/icons/regex.svg
 node_modules/@vscode/codicons/src/icons/remote-compact.svg
@@ -1145,7 +1121,6 @@ node_modules/@vscode/codicons/src/icons/save.svg
 node_modules/@vscode/codicons/src/icons/screen-cut.svg
 node_modules/@vscode/codicons/src/icons/screen-full.svg
 node_modules/@vscode/codicons/src/icons/screen-normal.svg
-node_modules/@vscode/codicons/src/icons/search-compact.svg
 node_modules/@vscode/codicons/src/icons/search-fuzzy.svg
 node_modules/@vscode/codicons/src/icons/search-large.svg
 node_modules/@vscode/codicons/src/icons/search-sparkle.svg
@@ -1156,7 +1131,6 @@ node_modules/@vscode/codicons/src/icons/send.svg
 node_modules/@vscode/codicons/src/icons/server-environment.svg
 node_modules/@vscode/codicons/src/icons/server-process.svg
 node_modules/@vscode/codicons/src/icons/server.svg
-node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg
 node_modules/@vscode/codicons/src/icons/session-in-progress.svg
 node_modules/@vscode/codicons/src/icons/settings-gear.svg
 node_modules/@vscode/codicons/src/icons/settings.svg
@@ -1210,7 +1184,6 @@ node_modules/@vscode/codicons/src/icons/symbol-snippet.svg
 node_modules/@vscode/codicons/src/icons/symbol-string.svg
 node_modules/@vscode/codicons/src/icons/symbol-structure.svg
 node_modules/@vscode/codicons/src/icons/symbol-variable.svg
-node_modules/@vscode/codicons/src/icons/sync-compact.svg
 node_modules/@vscode/codicons/src/icons/sync-ignored.svg
 node_modules/@vscode/codicons/src/icons/sync.svg
 node_modules/@vscode/codicons/src/icons/table.svg
@@ -1220,7 +1193,6 @@ node_modules/@vscode/codicons/src/icons/tasklist.svg
 node_modules/@vscode/codicons/src/icons/telescope.svg
 node_modules/@vscode/codicons/src/icons/terminal-bash.svg
 node_modules/@vscode/codicons/src/icons/terminal-cmd.svg
-node_modules/@vscode/codicons/src/icons/terminal-compact.svg
 node_modules/@vscode/codicons/src/icons/terminal-debian.svg
 node_modules/@vscode/codicons/src/icons/terminal-git-bash.svg
 node_modules/@vscode/codicons/src/icons/terminal-linux.svg
@@ -1280,7 +1252,6 @@ node_modules/@vscode/codicons/src/icons/word-wrap.svg
 node_modules/@vscode/codicons/src/icons/workspace-trusted.svg
 node_modules/@vscode/codicons/src/icons/workspace-unknown.svg
 node_modules/@vscode/codicons/src/icons/workspace-untrusted.svg
-node_modules/@vscode/codicons/src/icons/worktree-compact.svg
 node_modules/@vscode/codicons/src/icons/worktree-small.svg
 node_modules/@vscode/codicons/src/icons/worktree.svg
 node_modules/@vscode/codicons/src/icons/zoom-in.svg
