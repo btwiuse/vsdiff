@@ -777,6 +777,7 @@ node_modules/@vscode/codicons/src/icons/clockface.svg
 node_modules/@vscode/codicons/src/icons/close-all.svg
 node_modules/@vscode/codicons/src/icons/close-compact.svg
 node_modules/@vscode/codicons/src/icons/close.svg
+node_modules/@vscode/codicons/src/icons/cloud-compact.svg
 node_modules/@vscode/codicons/src/icons/cloud-download.svg
 node_modules/@vscode/codicons/src/icons/cloud-small.svg
 node_modules/@vscode/codicons/src/icons/cloud-upload.svg
