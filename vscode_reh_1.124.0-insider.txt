@@ -75,10 +75,12 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/explore.agent.ya
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rem-agent.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/research.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/security-review.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/subconscious-agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
+extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/pty.node
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/runtime.node
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
 extensions/copilot/node_modules/@github/copilot/sdk/sharp/index.js
@@ -1898,10 +1900,6 @@ node_modules/node-pty/lib/windowsConoutConnection.js
 node_modules/node-pty/lib/windowsPtyAgent.js
 node_modules/node-pty/lib/windowsTerminal.js
 node_modules/node-pty/lib/worker/conoutSocketWorker.js
-node_modules/node-pty/node-addon-api/node_addon_api.Makefile
-node_modules/node-pty/node-addon-api/node_addon_api.target.mk
-node_modules/node-pty/node-addon-api/node_addon_api_except.target.mk
-node_modules/node-pty/node-addon-api/node_addon_api_maybe.target.mk
 node_modules/node-pty/package.json
 node_modules/once/LICENSE
 node_modules/once/once.js
