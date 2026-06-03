@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26154.txt,vscode_web_1.122.0-exploration.txt,vscode_web_1.122.1.txt,vscode_web_1.124.0-insider.txt
+File,codigo_web_1.100.0.26154.txt,vscode_web_1.122.0-exploration.txt,vscode_web_1.123.0.txt,vscode_web_1.124.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -46,13 +46,13 @@ node_modules/@vscode/codicons/src/icons/chevron-up-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/circle-filled-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/circle-small-filled-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/close-compact.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/cloud-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/cloud-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/collapse-all-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/comment-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/comment-unresolved-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/debug-connected-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/debug-disconnect-compact.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/developer-tools.svg,Y,,,Y
+node_modules/@vscode/codicons/src/icons/developer-tools.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/edit-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/file-media-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/lightbulb-compact.svg,Y,,Y,Y
@@ -65,9 +65,9 @@ node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/sync-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/terminal-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/worktree-compact.svg,Y,,Y,Y
-node_modules/js-base64/base64.d.mts,,Y,Y,
-node_modules/js-base64/base64.js,,Y,Y,
-node_modules/js-base64/base64.mjs,,Y,Y,
+node_modules/js-base64/base64.d.mts,,Y,,
+node_modules/js-base64/base64.js,,Y,,
+node_modules/js-base64/base64.mjs,,Y,,
 node_modules/vscode-regexp-languagedetection/dist/index.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
