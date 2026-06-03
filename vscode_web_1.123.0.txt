@@ -777,6 +777,7 @@ node_modules/@vscode/codicons/src/icons/clockface.svg
 node_modules/@vscode/codicons/src/icons/close-all.svg
 node_modules/@vscode/codicons/src/icons/close-compact.svg
 node_modules/@vscode/codicons/src/icons/close.svg
+node_modules/@vscode/codicons/src/icons/cloud-compact.svg
 node_modules/@vscode/codicons/src/icons/cloud-download.svg
 node_modules/@vscode/codicons/src/icons/cloud-small.svg
 node_modules/@vscode/codicons/src/icons/cloud-upload.svg
@@ -857,6 +858,7 @@ node_modules/@vscode/codicons/src/icons/debug-step-over.svg
 node_modules/@vscode/codicons/src/icons/debug-stop.svg
 node_modules/@vscode/codicons/src/icons/debug.svg
 node_modules/@vscode/codicons/src/icons/desktop-download.svg
+node_modules/@vscode/codicons/src/icons/developer-tools.svg
 node_modules/@vscode/codicons/src/icons/device-camera-video.svg
 node_modules/@vscode/codicons/src/icons/device-camera.svg
 node_modules/@vscode/codicons/src/icons/device-mobile.svg
@@ -1339,9 +1341,6 @@ node_modules/commander/lib/error.js
 node_modules/commander/lib/help.js
 node_modules/commander/lib/option.js
 node_modules/commander/lib/suggestSimilar.js
-node_modules/js-base64/base64.d.mts
-node_modules/js-base64/base64.js
-node_modules/js-base64/base64.mjs
 node_modules/jschardet/dist/jschardet.min.js
 node_modules/jschardet/scripts/run-workflow.sh
 node_modules/jschardet/scripts/show-size-changes.sh
