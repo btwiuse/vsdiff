@@ -638,6 +638,7 @@ node_modules/@github/copilot-sdk/dist/cjs/sdkProtocolVersion.js
 node_modules/@github/copilot-sdk/dist/cjs/session.js
 node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js
 node_modules/@github/copilot-sdk/dist/cjs/telemetry.js
+node_modules/@github/copilot-sdk/dist/cjs/toolSet.js
 node_modules/@github/copilot-sdk/dist/cjs/types.js
 node_modules/@github/copilot-sdk/dist/client.js
 node_modules/@github/copilot-sdk/dist/extension.js
@@ -648,6 +649,7 @@ node_modules/@github/copilot-sdk/dist/sdkProtocolVersion.js
 node_modules/@github/copilot-sdk/dist/session.js
 node_modules/@github/copilot-sdk/dist/sessionFsProvider.js
 node_modules/@github/copilot-sdk/dist/telemetry.js
+node_modules/@github/copilot-sdk/dist/toolSet.js
 node_modules/@github/copilot-sdk/dist/types.js
 node_modules/@github/copilot-sdk/node_modules/zod/LICENSE
 node_modules/@github/copilot-sdk/node_modules/zod/index.cjs
@@ -1027,6 +1029,7 @@ node_modules/@github/copilot/tree-sitter-typescript.wasm
 node_modules/@github/copilot/tree-sitter.wasm
 node_modules/@github/copilot/voice-engine.worker.js
 node_modules/@github/copilot/voice-installer.worker.js
+node_modules/@github/copilot/voice-server.js
 node_modules/@github/copilot/worker/conoutSocketWorker.js
 node_modules/@isaacs/fs-minipass/LICENSE
 node_modules/@isaacs/fs-minipass/dist/commonjs/index.d.ts.map
