@@ -1,10 +1,11 @@
 LICENSE
-code-192-dark.png
-code-192-light.png
 code-192.png
-code-512-dark.png
-code-512-light.png
 code-512.png
+extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt
+extensions/TypeScriptTeam.jsts-chat-features/logo.png
+extensions/TypeScriptTeam.jsts-chat-features/package.json
+extensions/TypeScriptTeam.jsts-chat-features/readme.md
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-setup/SKILL.md
 extensions/bat/language-configuration.json
 extensions/bat/package.json
 extensions/bat/package.nls.json
@@ -20,6 +21,7 @@ extensions/coffeescript/package.nls.json
 extensions/coffeescript/snippets/coffeescript.code-snippets
 extensions/coffeescript/syntaxes/coffeescript.tmLanguage.json
 extensions/configuration-editing/dist/browser/configurationEditingMain.js
+extensions/configuration-editing/dist/configurationEditingMain.js
 extensions/configuration-editing/images/icon.png
 extensions/configuration-editing/package.json
 extensions/configuration-editing/package.nls.json
@@ -41,12 +43,14 @@ extensions/csharp/snippets/csharp.code-snippets
 extensions/csharp/syntaxes/csharp.tmLanguage.json
 extensions/css-language-features/README.md
 extensions/css-language-features/client/dist/browser/cssClientMain.js
+extensions/css-language-features/client/dist/node/cssClientMain.js
 extensions/css-language-features/icons/css.png
 extensions/css-language-features/package.json
 extensions/css-language-features/package.nls.json
 extensions/css-language-features/schemas/package.schema.json
 extensions/css-language-features/server/.npmrc
 extensions/css-language-features/server/dist/browser/cssServerMain.js
+extensions/css-language-features/server/dist/node/cssServerMain.js
 extensions/css-language-features/server/package.json
 extensions/css/language-configuration.json
 extensions/css/package.json
@@ -70,10 +74,12 @@ extensions/dotenv/package.nls.json
 extensions/dotenv/syntaxes/dotenv.tmLanguage.json
 extensions/emmet/README.md
 extensions/emmet/dist/browser/emmetBrowserMain.js
+extensions/emmet/dist/node/emmetNodeMain.js
 extensions/emmet/images/icon.png
 extensions/emmet/package.json
 extensions/emmet/package.nls.json
 extensions/extension-editing/dist/browser/extensionEditingBrowserMain.js
+extensions/extension-editing/dist/extensionEditingMain.js
 extensions/extension-editing/images/icon.png
 extensions/extension-editing/package.json
 extensions/extension-editing/package.nls.json
@@ -84,6 +90,7 @@ extensions/fsharp/snippets/fsharp.code-snippets
 extensions/fsharp/syntaxes/fsharp.tmLanguage.json
 extensions/git-base/README.md
 extensions/git-base/dist/browser/extension.js
+extensions/git-base/dist/extension.js
 extensions/git-base/languages/git-commit.language-configuration.json
 extensions/git-base/languages/git-rebase.language-configuration.json
 extensions/git-base/languages/ignore.language-configuration.json
@@ -95,12 +102,14 @@ extensions/git-base/syntaxes/git-rebase.tmLanguage.json
 extensions/git-base/syntaxes/ignore.tmLanguage.json
 extensions/github-authentication/README.md
 extensions/github-authentication/dist/browser/extension.js
+extensions/github-authentication/dist/extension.js
 extensions/github-authentication/images/icon.png
 extensions/github-authentication/media/auth.css
 extensions/github-authentication/media/code-icon.svg
 extensions/github-authentication/media/favicon.ico
 extensions/github-authentication/media/icon.png
 extensions/github-authentication/media/index.html
+extensions/github-authentication/media/sessions-icon.svg
 extensions/github-authentication/package.json
 extensions/github-authentication/package.nls.json
 extensions/go/language-configuration.json
@@ -122,12 +131,14 @@ extensions/hlsl/package.nls.json
 extensions/hlsl/syntaxes/hlsl.tmLanguage.json
 extensions/html-language-features/README.md
 extensions/html-language-features/client/dist/browser/htmlClientMain.js
+extensions/html-language-features/client/dist/node/htmlClientMain.js
 extensions/html-language-features/icons/html.png
 extensions/html-language-features/package.json
 extensions/html-language-features/package.nls.json
 extensions/html-language-features/schemas/package.schema.json
 extensions/html-language-features/server/.npmrc
 extensions/html-language-features/server/dist/browser/htmlServerMain.js
+extensions/html-language-features/server/dist/node/htmlServerMain.js
 extensions/html-language-features/server/lib/jquery.d.ts
 extensions/html-language-features/server/package.json
 extensions/html/language-configuration.json
@@ -144,6 +155,8 @@ extensions/ini/syntaxes/ini.tmLanguage.json
 extensions/ipynb/README.md
 extensions/ipynb/dist/browser/ipynbMain.browser.js
 extensions/ipynb/dist/browser/notebookSerializerWorker.js
+extensions/ipynb/dist/ipynbMain.node.js
+extensions/ipynb/dist/notebookSerializerWorker.js
 extensions/ipynb/media/icon.png
 extensions/ipynb/notebook-out/cellAttachmentRenderer.js
 extensions/ipynb/package.json
@@ -163,11 +176,13 @@ extensions/javascript/syntaxes/Regular Expressions (JavaScript).tmLanguage
 extensions/javascript/tags-language-configuration.json
 extensions/json-language-features/README.md
 extensions/json-language-features/client/dist/browser/jsonClientMain.js
+extensions/json-language-features/client/dist/node/jsonClientMain.js
 extensions/json-language-features/icons/json.png
 extensions/json-language-features/package.json
 extensions/json-language-features/package.nls.json
 extensions/json-language-features/server/.npmrc
 extensions/json-language-features/server/dist/browser/jsonServerMain.js
+extensions/json-language-features/server/dist/node/jsonServerMain.js
 extensions/json-language-features/server/package.json
 extensions/json/language-configuration.json
 extensions/json/package.json
@@ -215,6 +230,8 @@ extensions/markdown-basics/syntaxes/markdown.tmLanguage.json
 extensions/markdown-language-features/README.md
 extensions/markdown-language-features/dist/browser/extension.js
 extensions/markdown-language-features/dist/browser/serverWorkerMain.js
+extensions/markdown-language-features/dist/extension.js
+extensions/markdown-language-features/dist/serverWorkerMain.js
 extensions/markdown-language-features/icon.png
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -228,6 +245,7 @@ extensions/markdown-language-features/package.nls.json
 extensions/markdown-language-features/schemas/package.schema.json
 extensions/markdown-math/README.md
 extensions/markdown-math/dist/browser/extension.js
+extensions/markdown-math/dist/extension.js
 extensions/markdown-math/icon.png
 extensions/markdown-math/notebook-out/fonts/KaTeX_AMS-Regular.woff2
 extensions/markdown-math/notebook-out/fonts/KaTeX_Caligraphic-Bold.woff2
@@ -260,6 +278,7 @@ extensions/markdown-math/syntaxes/md-math-inline.tmLanguage.json
 extensions/markdown-math/syntaxes/md-math.tmLanguage.json
 extensions/media-preview/README.md
 extensions/media-preview/dist/browser/extension.js
+extensions/media-preview/dist/extension.js
 extensions/media-preview/icon.png
 extensions/media-preview/media/audioPreview.css
 extensions/media-preview/media/audioPreview.js
@@ -274,6 +293,7 @@ extensions/media-preview/package.json
 extensions/media-preview/package.nls.json
 extensions/merge-conflict/README.md
 extensions/merge-conflict/dist/browser/mergeConflictMain.js
+extensions/merge-conflict/dist/mergeConflictMain.js
 extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
@@ -282,6 +302,7 @@ extensions/mermaid-markdown-features/chat-webview-out/codicon.css
 extensions/mermaid-markdown-features/chat-webview-out/index-editor.js
 extensions/mermaid-markdown-features/chat-webview-out/index.js
 extensions/mermaid-markdown-features/dist/browser/extension.js
+extensions/mermaid-markdown-features/dist/extension.js
 extensions/mermaid-markdown-features/markdown-preview-out/index.js
 extensions/mermaid-markdown-features/notebook-out/index.js
 extensions/mermaid-markdown-features/package.json
@@ -293,6 +314,7 @@ extensions/notebook-renderers/package.nls.json
 extensions/notebook-renderers/renderer-out/index.js
 extensions/npm/README.md
 extensions/npm/dist/browser/npmBrowserMain.js
+extensions/npm/dist/npmMain.js
 extensions/npm/images/code.svg
 extensions/npm/images/npm_icon.png
 extensions/npm/package.json
@@ -341,6 +363,7 @@ extensions/razor/package.nls.json
 extensions/razor/syntaxes/cshtml.tmLanguage.json
 extensions/references-view/README.md
 extensions/references-view/dist/browser/extension.js
+extensions/references-view/dist/extension.js
 extensions/references-view/media/demo.png
 extensions/references-view/media/icon.png
 extensions/references-view/package.json
@@ -364,6 +387,7 @@ extensions/scss/syntaxes/sassdoc.tmLanguage.json
 extensions/scss/syntaxes/scss.tmLanguage.json
 extensions/search-result/README.md
 extensions/search-result/dist/browser/extension.js
+extensions/search-result/dist/extension.js
 extensions/search-result/images/icon.png
 extensions/search-result/package.json
 extensions/search-result/package.nls.json
@@ -378,6 +402,7 @@ extensions/shellscript/package.nls.json
 extensions/shellscript/syntaxes/shell-unix-bash.tmLanguage.json
 extensions/simple-browser/README.md
 extensions/simple-browser/dist/browser/extension.js
+extensions/simple-browser/dist/extension.js
 extensions/simple-browser/media/codicon.css
 extensions/simple-browser/media/icon.png
 extensions/simple-browser/media/index.js
@@ -413,13 +438,11 @@ extensions/theme-defaults/package.json
 extensions/theme-defaults/package.nls.json
 extensions/theme-defaults/themes/2026-dark.json
 extensions/theme-defaults/themes/2026-light.json
-extensions/theme-defaults/themes/dark-colorblind.json
 extensions/theme-defaults/themes/dark_modern.json
 extensions/theme-defaults/themes/dark_plus.json
 extensions/theme-defaults/themes/dark_vs.json
 extensions/theme-defaults/themes/hc_black.json
 extensions/theme-defaults/themes/hc_light.json
-extensions/theme-defaults/themes/light-colorblind.json
 extensions/theme-defaults/themes/light_modern.json
 extensions/theme-defaults/themes/light_plus.json
 extensions/theme-defaults/themes/light_vs.json
@@ -588,6 +611,7 @@ extensions/typescript-language-features/dist/browser/typescript/typesMap.json
 extensions/typescript-language-features/dist/browser/typescript/typescript.d.ts
 extensions/typescript-language-features/dist/browser/typescript/zh-cn/diagnosticMessages.generated.json
 extensions/typescript-language-features/dist/browser/typescript/zh-tw/diagnosticMessages.generated.json
+extensions/typescript-language-features/dist/extension.js
 extensions/typescript-language-features/media/icon.png
 extensions/typescript-language-features/package.json
 extensions/typescript-language-features/package.nls.json
@@ -833,7 +857,6 @@ node_modules/@vscode/codicons/src/icons/debug-step-over.svg
 node_modules/@vscode/codicons/src/icons/debug-stop.svg
 node_modules/@vscode/codicons/src/icons/debug.svg
 node_modules/@vscode/codicons/src/icons/desktop-download.svg
-node_modules/@vscode/codicons/src/icons/developer-tools.svg
 node_modules/@vscode/codicons/src/icons/device-camera-video.svg
 node_modules/@vscode/codicons/src/icons/device-camera.svg
 node_modules/@vscode/codicons/src/icons/device-mobile.svg
@@ -1316,6 +1339,9 @@ node_modules/commander/lib/error.js
 node_modules/commander/lib/help.js
 node_modules/commander/lib/option.js
 node_modules/commander/lib/suggestSimilar.js
+node_modules/js-base64/base64.d.mts
+node_modules/js-base64/base64.js
+node_modules/js-base64/base64.mjs
 node_modules/jschardet/dist/jschardet.min.js
 node_modules/jschardet/scripts/run-workflow.sh
 node_modules/jschardet/scripts/show-size-changes.sh
@@ -1564,7 +1590,12 @@ node_modules/tas-client/dist/tas-client.min.js
 node_modules/tiny-inflate/index.js
 node_modules/vscode-oniguruma/release/main.js
 node_modules/vscode-oniguruma/release/onig.wasm
+node_modules/vscode-regexp-languagedetection/dist/index.js
 node_modules/vscode-textmate/release/main.js
+node_modules/vsda/rust/web/vsda.d.ts
+node_modules/vsda/rust/web/vsda.js
+node_modules/vsda/rust/web/vsda_bg.wasm
+node_modules/vsda/rust/web/vsda_bg.wasm.d.ts
 node_modules/yallist/iterator.js
 node_modules/yallist/yallist.js
 out/date
@@ -1651,7 +1682,6 @@ out/vs/workbench/contrib/webview/browser/pre/service-worker.js
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/ai-powered-suggestions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/commandPalette.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/customize-ai.svg
-out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-colorblind.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/dark.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/debug.svg
@@ -1660,7 +1690,6 @@ out/vs/workbench/contrib/welcomeGettingStarted/common/media/extensions.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/git.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/languages.svg
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/learn.svg
-out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-hc.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/light.png
 out/vs/workbench/contrib/welcomeGettingStarted/common/media/menuBar.svg
