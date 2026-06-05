@@ -472,6 +472,7 @@ extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
 extensions/mermaid-markdown-features/README.md
+extensions/mermaid-markdown-features/ThirdPartyNotices.txt
 extensions/mermaid-markdown-features/chat-webview-out/codicon.css
 extensions/mermaid-markdown-features/chat-webview-out/index-editor.js
 extensions/mermaid-markdown-features/chat-webview-out/index.js

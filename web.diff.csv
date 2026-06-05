@@ -27,6 +27,7 @@ extensions/markdown-language-features/dist/serverWorkerMain.js,,Y,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
 extensions/media-preview/dist/extension.js,,Y,Y,Y
 extensions/merge-conflict/dist/mergeConflictMain.js,,Y,Y,Y
+extensions/mermaid-markdown-features/ThirdPartyNotices.txt,,,,Y
 extensions/mermaid-markdown-features/dist/extension.js,,Y,Y,Y
 extensions/npm/dist/npmMain.js,,Y,Y,Y
 extensions/references-view/dist/extension.js,,Y,Y,Y
@@ -35,6 +36,8 @@ extensions/simple-browser/dist/extension.js,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
+node_modules/@vscode/codicons/src/icons/agent-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/ask-compact.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/attach-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/beaker-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/check-compact.svg,Y,,Y,Y
@@ -62,8 +65,10 @@ node_modules/@vscode/codicons/src/icons/project-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/refresh-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/search-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg,Y,,Y,Y
+node_modules/@vscode/codicons/src/icons/settings-compact.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/sync-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/terminal-compact.svg,Y,,Y,Y
+node_modules/@vscode/codicons/src/icons/vm-compact.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/worktree-compact.svg,Y,,Y,Y
 node_modules/js-base64/base64.d.mts,,Y,,
 node_modules/js-base64/base64.js,,Y,,

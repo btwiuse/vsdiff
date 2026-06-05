@@ -298,6 +298,7 @@ extensions/merge-conflict/media/icon.png
 extensions/merge-conflict/package.json
 extensions/merge-conflict/package.nls.json
 extensions/mermaid-markdown-features/README.md
+extensions/mermaid-markdown-features/ThirdPartyNotices.txt
 extensions/mermaid-markdown-features/chat-webview-out/codicon.css
 extensions/mermaid-markdown-features/chat-webview-out/index-editor.js
 extensions/mermaid-markdown-features/chat-webview-out/index.js
@@ -693,6 +694,7 @@ node_modules/@vscode/codicons/src/icons/activate-breakpoints.svg
 node_modules/@vscode/codicons/src/icons/add-compact.svg
 node_modules/@vscode/codicons/src/icons/add-small.svg
 node_modules/@vscode/codicons/src/icons/add.svg
+node_modules/@vscode/codicons/src/icons/agent-compact.svg
 node_modules/@vscode/codicons/src/icons/agent.svg
 node_modules/@vscode/codicons/src/icons/archive.svg
 node_modules/@vscode/codicons/src/icons/arrow-both.svg
@@ -709,6 +711,7 @@ node_modules/@vscode/codicons/src/icons/arrow-small-right.svg
 node_modules/@vscode/codicons/src/icons/arrow-small-up.svg
 node_modules/@vscode/codicons/src/icons/arrow-swap.svg
 node_modules/@vscode/codicons/src/icons/arrow-up.svg
+node_modules/@vscode/codicons/src/icons/ask-compact.svg
 node_modules/@vscode/codicons/src/icons/ask.svg
 node_modules/@vscode/codicons/src/icons/attach-compact.svg
 node_modules/@vscode/codicons/src/icons/attach.svg
@@ -1160,6 +1163,7 @@ node_modules/@vscode/codicons/src/icons/server-process.svg
 node_modules/@vscode/codicons/src/icons/server.svg
 node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg
 node_modules/@vscode/codicons/src/icons/session-in-progress.svg
+node_modules/@vscode/codicons/src/icons/settings-compact.svg
 node_modules/@vscode/codicons/src/icons/settings-gear.svg
 node_modules/@vscode/codicons/src/icons/settings.svg
 node_modules/@vscode/codicons/src/icons/share-window.svg
@@ -1260,6 +1264,7 @@ node_modules/@vscode/codicons/src/icons/verified-filled.svg
 node_modules/@vscode/codicons/src/icons/verified.svg
 node_modules/@vscode/codicons/src/icons/versions.svg
 node_modules/@vscode/codicons/src/icons/vm-active.svg
+node_modules/@vscode/codicons/src/icons/vm-compact.svg
 node_modules/@vscode/codicons/src/icons/vm-connect.svg
 node_modules/@vscode/codicons/src/icons/vm-outline.svg
 node_modules/@vscode/codicons/src/icons/vm-pending.svg
