@@ -2600,6 +2600,8 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agen
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/subconscious-agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/computer.node
+extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/runtime.node
 extensions/copilot/node_modules/@github/copilot/sdk/queries/bash-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/c-highlights.scm
 extensions/copilot/node_modules/@github/copilot/sdk/queries/cpp-highlights.scm
@@ -9169,6 +9171,8 @@ extensions/copilot/node_modules/@vscode/copilot-api/SECURITY.md
 extensions/copilot/node_modules/@vscode/copilot-api/dist/index.js
 extensions/copilot/node_modules/@vscode/copilot-api/package.json
 extensions/copilot/node_modules/@vscode/copilot-api/scripts/package.json
+extensions/copilot/node_modules/@vscode/copilot-typescript-server-plugin/dist/main.js
+extensions/copilot/node_modules/@vscode/copilot-typescript-server-plugin/package.json
 extensions/copilot/node_modules/@vscode/extension-telemetry/LICENSE
 extensions/copilot/node_modules/@vscode/extension-telemetry/SECURITY.md
 extensions/copilot/node_modules/@vscode/extension-telemetry/dist/browser/browser/telemetryReporter.js
