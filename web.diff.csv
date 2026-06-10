@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26161.txt,vscode_web_1.122.0-exploration.txt,vscode_web_1.123.2.txt,vscode_web_1.125.0-insider.txt
+File,codigo_web_1.100.0.26161.txt,vscode_web_1.122.0-exploration.txt,vscode_web_1.124.0.txt,vscode_web_1.125.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -8,10 +8,10 @@ extensions/TypeScriptTeam.jsts-chat-features/logo.png,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/package.json,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/readme.md,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-setup/SKILL.md,,Y,Y,Y
-extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/4to5.md,,,,Y
-extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/5to6.md,,,,Y
-extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/6to7.md,,,,Y
-extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/SKILL.md,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/4to5.md,,,Y,Y
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/5to6.md,,,Y,Y
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/6to7.md,,,Y,Y
+extensions/TypeScriptTeam.jsts-chat-features/skills/typescript-update/SKILL.md,,,Y,Y
 extensions/configuration-editing/dist/configurationEditingMain.js,,Y,Y,Y
 extensions/css-language-features/client/dist/node/cssClientMain.js,,Y,Y,Y
 extensions/css-language-features/server/dist/node/cssServerMain.js,,Y,Y,Y
@@ -95,7 +95,7 @@ extensions/markdown-language-features/markdownEditor/editor.js,,,,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
 extensions/media-preview/dist/extension.js,,Y,Y,Y
 extensions/merge-conflict/dist/mergeConflictMain.js,,Y,Y,Y
-extensions/mermaid-markdown-features/ThirdPartyNotices.txt,,,,Y
+extensions/mermaid-markdown-features/ThirdPartyNotices.txt,,,Y,Y
 extensions/mermaid-markdown-features/dist/extension.js,,Y,Y,Y
 extensions/npm/dist/npmMain.js,,Y,Y,Y
 extensions/references-view/dist/extension.js,,Y,Y,Y
@@ -104,8 +104,8 @@ extensions/simple-browser/dist/extension.js,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
-node_modules/@vscode/codicons/src/icons/agent-compact.svg,,,,Y
-node_modules/@vscode/codicons/src/icons/ask-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/agent-compact.svg,,,Y,Y
+node_modules/@vscode/codicons/src/icons/ask-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/attach-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/beaker-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/check-compact.svg,Y,,Y,Y
@@ -134,10 +134,10 @@ node_modules/@vscode/codicons/src/icons/refresh-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/run-compact.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/search-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/session-in-progress-compact.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/settings-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/settings-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/sync-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/terminal-compact.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/vm-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/vm-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/worktree-compact.svg,Y,,Y,Y
 node_modules/@xterm/addon-ligatures/lib/addon-ligatures.js,,,,Y
 node_modules/js-base64/base64.d.mts,,Y,,
