@@ -1349,6 +1349,7 @@ node_modules/@github/copilot/definitions/task.agent.yaml
 node_modules/@github/copilot/index.js
 node_modules/@github/copilot/npm-loader.js
 node_modules/@github/copilot/package.json
+node_modules/@github/copilot/prebuilds/linux-x64/pty.node
 node_modules/@github/copilot/prebuilds/linux-x64/runtime.node
 node_modules/@github/copilot/preloads/extension_bootstrap.mjs
 node_modules/@github/copilot/preloads/extension_sdk_resolver.mjs
@@ -2440,7 +2441,6 @@ node_modules/shell-quote/LICENSE
 node_modules/shell-quote/index.js
 node_modules/shell-quote/package.json
 node_modules/shell-quote/parse.js
-node_modules/shell-quote/print.py
 node_modules/shell-quote/quote.js
 node_modules/shell-quote/security.md
 node_modules/simple-concat/LICENSE

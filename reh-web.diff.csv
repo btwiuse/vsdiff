@@ -12751,6 +12751,7 @@ node_modules/@github/copilot/definitions/task.agent.yaml,Y,Y,Y,Y,
 node_modules/@github/copilot/index.js,Y,Y,Y,Y,
 node_modules/@github/copilot/npm-loader.js,Y,Y,Y,Y,
 node_modules/@github/copilot/package.json,Y,Y,Y,Y,
+node_modules/@github/copilot/prebuilds/linux-x64/pty.node,,,,Y,
 node_modules/@github/copilot/prebuilds/linux-x64/runtime.node,Y,,Y,Y,
 node_modules/@github/copilot/preloads/extension_bootstrap.mjs,Y,Y,Y,Y,
 node_modules/@github/copilot/preloads/extension_sdk_resolver.mjs,Y,Y,Y,Y,
@@ -13024,6 +13025,7 @@ node_modules/proxy-from-env/package.json,,,,,Y
 node_modules/proxy-from-env/test.js,,,,,Y
 node_modules/semver/functions/truncate.js,Y,,Y,Y,
 node_modules/semver/internal/lrucache.js,Y,,Y,Y,
+node_modules/shell-quote/print.py,Y,Y,Y,,Y
 node_modules/tiny-inflate/LICENSE,Y,Y,Y,,Y
 node_modules/tiny-inflate/index.js,Y,Y,Y,,Y
 node_modules/tiny-inflate/package.json,Y,Y,Y,,Y
