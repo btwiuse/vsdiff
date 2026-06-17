@@ -12355,6 +12355,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/editor.css,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-out/editor.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-src/markdownEditor.css,,,,Y,
+extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts,,,,Y,
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json,,,Y,Y,
 extensions/mermaid-markdown-features/ThirdPartyNotices.txt,,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,Y,Y,Y,Y,
@@ -12717,6 +12719,7 @@ node_modules/@github/copilot-sdk/package.json,Y,Y,Y,Y,
 node_modules/@github/copilot/LICENSE.md,Y,Y,Y,Y,
 node_modules/@github/copilot/app.js,Y,Y,Y,Y,
 node_modules/@github/copilot/builtin-skills/customize-cloud-agent/SKILL.md,Y,Y,Y,Y,
+node_modules/@github/copilot/builtin/customize-cloud-agent/SKILL.md,,,,Y,
 node_modules/@github/copilot/changelog.json,Y,Y,Y,Y,
 node_modules/@github/copilot/conpty_console_list_agent.js,Y,Y,Y,Y,
 node_modules/@github/copilot/copilot-sdk/extension.js,Y,Y,Y,Y,
@@ -12981,6 +12984,14 @@ node_modules/opentype.js/src/tables/post.js,Y,Y,,,Y
 node_modules/opentype.js/src/tables/sfnt.js,Y,Y,,,Y
 node_modules/opentype.js/src/types.js,Y,Y,,,Y
 node_modules/opentype.js/src/util.js,Y,Y,,,Y
+node_modules/os-theme/LICENSE,,,,Y,
+node_modules/os-theme/dist/ffi-bun.js,,,,Y,
+node_modules/os-theme/dist/ffi-napi.js,,,,Y,
+node_modules/os-theme/dist/ffi.js,,,,Y,
+node_modules/os-theme/dist/index.js,,,,Y,
+node_modules/os-theme/dist/terminal.js,,,,Y,
+node_modules/os-theme/dist/types.js,,,,Y,
+node_modules/os-theme/package.json,,,,Y,
 node_modules/proxy-from-env/LICENSE,,,,,Y
 node_modules/proxy-from-env/index.js,,,,,Y
 node_modules/proxy-from-env/package.json,,,,,Y

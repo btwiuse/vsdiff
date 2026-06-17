@@ -300,6 +300,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
 extensions/markdown-language-features/markdown-editor-src/editor.ts
+extensions/markdown-language-features/markdown-editor-src/markdownEditor.css
+extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js

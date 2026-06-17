@@ -318,6 +318,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
 extensions/markdown-language-features/markdown-editor-src/editor.ts
+extensions/markdown-language-features/markdown-editor-src/markdownEditor.css
+extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -1029,6 +1031,7 @@ node_modules/@github/copilot-sdk/package.json
 node_modules/@github/copilot/LICENSE.md
 node_modules/@github/copilot/app.js
 node_modules/@github/copilot/builtin-skills/customize-cloud-agent/SKILL.md
+node_modules/@github/copilot/builtin/customize-cloud-agent/SKILL.md
 node_modules/@github/copilot/changelog.json
 node_modules/@github/copilot/conpty_console_list_agent.js
 node_modules/@github/copilot/copilot-sdk/extension.js
@@ -2022,6 +2025,14 @@ node_modules/opentype.js/dist/opentype.min.mjs
 node_modules/opentype.js/dist/opentype.min.mjs.map
 node_modules/opentype.js/dist/opentype.mjs
 node_modules/opentype.js/package.json
+node_modules/os-theme/LICENSE
+node_modules/os-theme/dist/ffi-bun.js
+node_modules/os-theme/dist/ffi-napi.js
+node_modules/os-theme/dist/ffi.js
+node_modules/os-theme/dist/index.js
+node_modules/os-theme/dist/terminal.js
+node_modules/os-theme/dist/types.js
+node_modules/os-theme/package.json
 node_modules/pend/LICENSE
 node_modules/pend/index.js
 node_modules/pend/package.json

@@ -91,6 +91,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/editor.css,,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/editor.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,,Y,Y
+extensions/markdown-language-features/markdown-editor-src/markdownEditor.css,,,,Y
+extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json,,,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
 extensions/media-preview/dist/extension.js,,Y,Y,Y
