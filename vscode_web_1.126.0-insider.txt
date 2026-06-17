@@ -1007,9 +1007,11 @@ node_modules/@vscode/codicons/src/icons/git-compare.svg
 node_modules/@vscode/codicons/src/icons/git-fetch.svg
 node_modules/@vscode/codicons/src/icons/git-merge.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-closed.svg
+node_modules/@vscode/codicons/src/icons/git-pull-request-comment.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-create.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-done.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-draft.svg
+node_modules/@vscode/codicons/src/icons/git-pull-request-error.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-go-to-changes.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-new-changes.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request.svg
