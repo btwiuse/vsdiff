@@ -1202,6 +1202,8 @@ node_modules/@vscode/codicons/src/icons/repo-selected.svg
 node_modules/@vscode/codicons/src/icons/repo.svg
 node_modules/@vscode/codicons/src/icons/report.svg
 node_modules/@vscode/codicons/src/icons/request-changes.svg
+node_modules/@vscode/codicons/src/icons/right-panel-hide.svg
+node_modules/@vscode/codicons/src/icons/right-panel-show.svg
 node_modules/@vscode/codicons/src/icons/robot.svg
 node_modules/@vscode/codicons/src/icons/rocket-compact.svg
 node_modules/@vscode/codicons/src/icons/rocket.svg
@@ -1344,8 +1346,11 @@ node_modules/@vscode/codicons/src/icons/vm-pending.svg
 node_modules/@vscode/codicons/src/icons/vm-running.svg
 node_modules/@vscode/codicons/src/icons/vm-small.svg
 node_modules/@vscode/codicons/src/icons/vm.svg
+node_modules/@vscode/codicons/src/icons/voice-mode.svg
 node_modules/@vscode/codicons/src/icons/vr.svg
+node_modules/@vscode/codicons/src/icons/vscode-insiders-outline.svg
 node_modules/@vscode/codicons/src/icons/vscode-insiders.svg
+node_modules/@vscode/codicons/src/icons/vscode-outline.svg
 node_modules/@vscode/codicons/src/icons/vscode.svg
 node_modules/@vscode/codicons/src/icons/wand.svg
 node_modules/@vscode/codicons/src/icons/warning-compact.svg

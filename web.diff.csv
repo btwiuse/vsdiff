@@ -111,9 +111,14 @@ node_modules/@vscode/codicons/src/icons/ask-compact.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-compact.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/git-pull-request-comment.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/git-pull-request-error.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/right-panel-hide.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/right-panel-show.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/run-compact.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/settings-compact.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/vm-compact.svg,,Y,Y,Y
+node_modules/@vscode/codicons/src/icons/voice-mode.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/vscode-insiders-outline.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/vscode-outline.svg,,,,Y
 node_modules/@xterm/addon-ligatures/lib/addon-ligatures.js,,Y,Y,Y
 node_modules/lru-cache/dist/commonjs/browser/diagnostics-channel-browser.d.ts.map,,Y,Y,Y
 node_modules/lru-cache/dist/commonjs/browser/diagnostics-channel.js,,Y,Y,Y
