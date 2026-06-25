@@ -6,7 +6,7 @@
 
 ## web
 
-| File                                                                             | codigo_web_1.100.0.26176.txt | vscode_web_1.126.0-exploration.txt | vscode_web_1.126.0.txt | vscode_web_1.127.0-insider.txt |
+| File                                                                             | codigo_web_1.100.0.26177.txt | vscode_web_1.126.0-exploration.txt | vscode_web_1.126.0.txt | vscode_web_1.127.0-insider.txt |
 | -------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ |
 | code-192-dark.png                                                                | Y                            |                                    |                        |                                |
 | code-192-light.png                                                               | Y                            |                                    |                        |                                |
@@ -67,7 +67,7 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                            |                                    |                        |                                |
 ## reh
 
-| File                                                                                                                | codigo_reh_1.100.0.26176.txt | vscode_reh_1.126.0-exploration.txt | vscode_reh_1.126.0.txt | vscode_reh_1.127.0-insider.txt | vscodium_reh_1.121.03429.txt |
+| File                                                                                                                | codigo_reh_1.100.0.26177.txt | vscode_reh_1.126.0-exploration.txt | vscode_reh_1.126.0.txt | vscode_reh_1.127.0-insider.txt | vscodium_reh_1.121.03429.txt |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                                                                             |                              | Y                                  | Y                      | Y                              |                              |
 | bin/code-server                                                                                                     |                              |                                    | Y                      |                                |                              |
@@ -3235,7 +3235,7 @@
 | product.json                                                                                                        |                              | Y                                  | Y                      | Y                              | Y                            |
 ## reh-web
 
-| File                                                                                                                | codigo_reh-web_1.100.0.26176.txt | vscode_reh-web_1.126.0-exploration.txt | vscode_reh-web_1.126.0.txt | vscode_reh-web_1.127.0-insider.txt | vscodium_reh-web_1.121.03429.txt |
+| File                                                                                                                | codigo_reh-web_1.100.0.26177.txt | vscode_reh-web_1.126.0-exploration.txt | vscode_reh-web_1.126.0.txt | vscode_reh-web_1.127.0-insider.txt | vscodium_reh-web_1.121.03429.txt |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | -------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                                                             |                                  | Y                                      | Y                          | Y                                  |                                  |
 | bin/code-server                                                                                                     |                                  |                                        | Y                          |                                    |                                  |
