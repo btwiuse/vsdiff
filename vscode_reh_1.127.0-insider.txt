@@ -86,11 +86,9 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/test-si
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/test-sidekick-restart.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
-extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/pty.node
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/runtime.node
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
 extensions/copilot/node_modules/@github/copilot/sdk/tgrep/bin/linux-x64/tgrep
-extensions/copilot/node_modules/@github/copilot/sdk/worker/conoutSocketWorker.js
 extensions/copilot/node_modules/@github/copilot/shims.txt
 extensions/copilot/node_modules/@github/copilot/tgrep/bin/linux-x64/tgrep
 extensions/copilot/node_modules/@vscode/copilot-typescript-server-plugin/dist/main.js
@@ -683,7 +681,6 @@ node_modules/@github/copilot-linux-x64/app.js
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin/customize-cloud-agent/SKILL.md
 node_modules/@github/copilot-linux-x64/changelog.json
-node_modules/@github/copilot-linux-x64/conpty_console_list_agent.js
 node_modules/@github/copilot-linux-x64/copilot-sdk/canvas.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/client.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/docs/agent-author.md
@@ -699,6 +696,7 @@ node_modules/@github/copilot-linux-x64/copilot-sdk/sdkProtocolVersion.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/session.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/sessionFsProvider.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/telemetry.d.ts
+node_modules/@github/copilot-linux-x64/copilot-sdk/toolSet.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/types.d.ts
 node_modules/@github/copilot-linux-x64/definitions/code-review.agent.yaml
 node_modules/@github/copilot-linux-x64/definitions/explore.agent.yaml
@@ -714,7 +712,6 @@ node_modules/@github/copilot-linux-x64/definitions/task.agent.yaml
 node_modules/@github/copilot-linux-x64/index.js
 node_modules/@github/copilot-linux-x64/npm-loader.js
 node_modules/@github/copilot-linux-x64/package.json
-node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/pty.node
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node
 node_modules/@github/copilot-linux-x64/preloads/extension_bootstrap.mjs
 node_modules/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs
@@ -762,10 +759,10 @@ node_modules/@github/copilot-linux-x64/tree-sitter.wasm
 node_modules/@github/copilot-linux-x64/voice-engine.worker.js
 node_modules/@github/copilot-linux-x64/voice-installer.worker.js
 node_modules/@github/copilot-linux-x64/voice-server.js
-node_modules/@github/copilot-linux-x64/worker/conoutSocketWorker.js
 node_modules/@github/copilot-sdk/dist/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/client.js
+node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/cjs/extension.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/session-events.js
@@ -778,6 +775,7 @@ node_modules/@github/copilot-sdk/dist/cjs/telemetry.js
 node_modules/@github/copilot-sdk/dist/cjs/toolSet.js
 node_modules/@github/copilot-sdk/dist/cjs/types.js
 node_modules/@github/copilot-sdk/dist/client.js
+node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/extension.js
 node_modules/@github/copilot-sdk/dist/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/generated/session-events.js
