@@ -1346,6 +1346,7 @@ node_modules/@vscode/codicons/src/icons/vm-pending.svg
 node_modules/@vscode/codicons/src/icons/vm-running.svg
 node_modules/@vscode/codicons/src/icons/vm-small.svg
 node_modules/@vscode/codicons/src/icons/vm.svg
+node_modules/@vscode/codicons/src/icons/voice-mode-compact.svg
 node_modules/@vscode/codicons/src/icons/voice-mode.svg
 node_modules/@vscode/codicons/src/icons/vr.svg
 node_modules/@vscode/codicons/src/icons/vscode-insiders-outline.svg
