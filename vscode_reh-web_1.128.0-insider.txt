@@ -99,6 +99,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.agen
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/rubber-duck.split.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/security-review.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/security-review.split.agent.yaml
+extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context-memory.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/github-context.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/subconscious-agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/test-sidekick-persistent.yaml
@@ -1020,6 +1021,7 @@ node_modules/@github/copilot-linux-x64/definitions/rubber-duck.agent.yaml
 node_modules/@github/copilot-linux-x64/definitions/rubber-duck.split.agent.yaml
 node_modules/@github/copilot-linux-x64/definitions/security-review.agent.yaml
 node_modules/@github/copilot-linux-x64/definitions/security-review.split.agent.yaml
+node_modules/@github/copilot-linux-x64/definitions/sidekick/github-context-memory.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/github-context.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/subconscious-agent.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-persistent.yaml
