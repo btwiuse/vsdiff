@@ -300,6 +300,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
 extensions/markdown-language-features/markdown-editor-src/editor.ts
+extensions/markdown-language-features/markdown-editor-src/markdownEditor.css
+extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json
 extensions/markdown-language-features/media/highlight.css
 extensions/markdown-language-features/media/index.js
@@ -1005,9 +1007,11 @@ node_modules/@vscode/codicons/src/icons/git-compare.svg
 node_modules/@vscode/codicons/src/icons/git-fetch.svg
 node_modules/@vscode/codicons/src/icons/git-merge.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-closed.svg
+node_modules/@vscode/codicons/src/icons/git-pull-request-comment.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-create.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-done.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-draft.svg
+node_modules/@vscode/codicons/src/icons/git-pull-request-error.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-go-to-changes.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request-new-changes.svg
 node_modules/@vscode/codicons/src/icons/git-pull-request.svg
@@ -1198,6 +1202,8 @@ node_modules/@vscode/codicons/src/icons/repo-selected.svg
 node_modules/@vscode/codicons/src/icons/repo.svg
 node_modules/@vscode/codicons/src/icons/report.svg
 node_modules/@vscode/codicons/src/icons/request-changes.svg
+node_modules/@vscode/codicons/src/icons/right-panel-hide.svg
+node_modules/@vscode/codicons/src/icons/right-panel-show.svg
 node_modules/@vscode/codicons/src/icons/robot.svg
 node_modules/@vscode/codicons/src/icons/rocket-compact.svg
 node_modules/@vscode/codicons/src/icons/rocket.svg
@@ -1340,8 +1346,12 @@ node_modules/@vscode/codicons/src/icons/vm-pending.svg
 node_modules/@vscode/codicons/src/icons/vm-running.svg
 node_modules/@vscode/codicons/src/icons/vm-small.svg
 node_modules/@vscode/codicons/src/icons/vm.svg
+node_modules/@vscode/codicons/src/icons/voice-mode-compact.svg
+node_modules/@vscode/codicons/src/icons/voice-mode.svg
 node_modules/@vscode/codicons/src/icons/vr.svg
+node_modules/@vscode/codicons/src/icons/vscode-insiders-outline.svg
 node_modules/@vscode/codicons/src/icons/vscode-insiders.svg
+node_modules/@vscode/codicons/src/icons/vscode-outline.svg
 node_modules/@vscode/codicons/src/icons/vscode.svg
 node_modules/@vscode/codicons/src/icons/wand.svg
 node_modules/@vscode/codicons/src/icons/warning-compact.svg
