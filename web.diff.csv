@@ -28,6 +28,7 @@ extensions/json-language-features/client/dist/node/jsonClientMain.js,,Y,Y,Y
 extensions/json-language-features/server/dist/node/jsonServerMain.js,,Y,Y,Y
 extensions/markdown-language-features/dist/extension.js,,Y,Y,Y
 extensions/markdown-language-features/dist/serverWorkerMain.js,,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-out/codicon-B3TTTKGI.ttf,,,,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
 extensions/media-preview/dist/extension.js,,Y,Y,Y
 extensions/merge-conflict/dist/mergeConflictMain.js,,Y,Y,Y
