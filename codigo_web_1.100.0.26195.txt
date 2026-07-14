@@ -276,6 +276,7 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Size4-Regular-PK
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-MJMFSK64.woff
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2
+extensions/markdown-language-features/markdown-editor-out/codicon-B3TTTKGI.ttf
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
 extensions/markdown-language-features/markdown-editor-src/editor.ts
