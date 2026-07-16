@@ -1415,6 +1415,11 @@ node_modules/@vscode/deviceid/dist/storage.js,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/nuget.config,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/owners.txt,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/package.json,,Y,Y,Y,Y
+node_modules/@vscode/fs-copyfile/SECURITY.md,,,,Y,
+node_modules/@vscode/fs-copyfile/lib/cp.js,,,,Y,
+node_modules/@vscode/fs-copyfile/lib/index.js,,,,Y,
+node_modules/@vscode/fs-copyfile/lib/native.js,,,,Y,
+node_modules/@vscode/fs-copyfile/package.json,,,,Y,
 node_modules/@vscode/iconv-lite-umd/LICENSE,,Y,Y,Y,Y
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js,,Y,Y,Y,Y
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt,,Y,Y,Y,Y
