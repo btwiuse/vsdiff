@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26196.txt,vscode_reh_1.128.0-exploration.txt,vscode_reh_1.129.0.txt,vscode_reh_1.130.0-insider.txt,vscodium_reh_1.126.04524.txt
+File,codigo_reh_1.100.0.26196.txt,vscode_reh_1.128.0-exploration.txt,vscode_reh_1.129.1.txt,vscode_reh_1.130.0-insider.txt,vscodium_reh_1.126.04524.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -1415,11 +1415,11 @@ node_modules/@vscode/deviceid/dist/storage.js,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/nuget.config,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/owners.txt,,Y,Y,Y,Y
 node_modules/@vscode/deviceid/package.json,,Y,Y,Y,Y
-node_modules/@vscode/fs-copyfile/SECURITY.md,,,,Y,
-node_modules/@vscode/fs-copyfile/lib/cp.js,,,,Y,
-node_modules/@vscode/fs-copyfile/lib/index.js,,,,Y,
-node_modules/@vscode/fs-copyfile/lib/native.js,,,,Y,
-node_modules/@vscode/fs-copyfile/package.json,,,,Y,
+node_modules/@vscode/fs-copyfile/SECURITY.md,,,Y,Y,
+node_modules/@vscode/fs-copyfile/lib/cp.js,,,Y,Y,
+node_modules/@vscode/fs-copyfile/lib/index.js,,,Y,Y,
+node_modules/@vscode/fs-copyfile/lib/native.js,,,Y,Y,
+node_modules/@vscode/fs-copyfile/package.json,,,Y,Y,
 node_modules/@vscode/iconv-lite-umd/LICENSE,,Y,Y,Y,Y
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js,,Y,Y,Y,Y
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js.LICENSE.txt,,Y,Y,Y,Y
