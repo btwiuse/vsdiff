@@ -6,7 +6,7 @@
 
 ## web
 
-| File                                                                             | codigo_web_1.100.0.26196.txt | vscode_web_1.128.0-exploration.txt | vscode_web_1.129.1.txt | vscode_web_1.131.0-insider.txt |
+| File                                                                             | codigo_web_1.100.0.26204.txt | vscode_web_1.128.0-exploration.txt | vscode_web_1.129.1.txt | vscode_web_1.131.0-insider.txt |
 | -------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ |
 | code-192-dark.png                                                                | Y                            |                                    |                        |                                |
 | code-192-light.png                                                               | Y                            |                                    |                        |                                |
@@ -49,6 +49,13 @@
 | extensions/theme-defaults/themes/dark-colorblind.json                            | Y                            |                                    |                        |                                |
 | extensions/theme-defaults/themes/light-colorblind.json                           | Y                            |                                    |                        |                                |
 | extensions/typescript-language-features/dist/extension.js                        |                              | Y                                  | Y                      | Y                              |
+| node_modules/@vscode/codicons/src/icons/google-gemini.svg                        | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/kimi.svg                                 | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/mic-download-compact.svg                 | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/mic-download.svg                         | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/microsoft.svg                            | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/voice-mode-download-compact.svg          | Y                            |                                    |                        |                                |
+| node_modules/@vscode/codicons/src/icons/voice-mode-download.svg                  | Y                            |                                    |                        |                                |
 | node_modules/vscode-regexp-languagedetection/dist/index.js                       |                              | Y                                  | Y                      | Y                              |
 | node_modules/vsda/rust/web/vsda.d.ts                                             |                              | Y                                  | Y                      | Y                              |
 | node_modules/vsda/rust/web/vsda.js                                               |                              | Y                                  | Y                      | Y                              |
@@ -58,7 +65,7 @@
 | out/vs/workbench/contrib/welcomeGettingStarted/common/media/light-colorblind.png | Y                            |                                    |                        |                                |
 ## reh
 
-| File                                                                                                                | codigo_reh_1.100.0.26196.txt | vscode_reh_1.128.0-exploration.txt | vscode_reh_1.129.1.txt | vscode_reh_1.131.0-insider.txt | vscodium_reh_1.126.04524.txt |
+| File                                                                                                                | codigo_reh_1.100.0.26204.txt | vscode_reh_1.128.0-exploration.txt | vscode_reh_1.129.1.txt | vscode_reh_1.131.0-insider.txt | vscodium_reh_1.126.04524.txt |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------------- | ---------------------- | ------------------------------ | ---------------------------- |
 | LICENSE                                                                                                             |                              | Y                                  | Y                      | Y                              |                              |
 | bin/code-server                                                                                                     |                              |                                    | Y                      |                                |                              |
@@ -3054,7 +3061,7 @@
 | product.json                                                                                                        |                              | Y                                  | Y                      | Y                              | Y                            |
 ## reh-web
 
-| File                                                                                                                | codigo_reh-web_1.100.0.26196.txt | vscode_reh-web_1.128.0-exploration.txt | vscode_reh-web_1.129.1.txt | vscode_reh-web_1.131.0-insider.txt | vscodium_reh-web_1.126.04524.txt |
+| File                                                                                                                | codigo_reh-web_1.100.0.26204.txt | vscode_reh-web_1.128.0-exploration.txt | vscode_reh-web_1.129.1.txt | vscode_reh-web_1.131.0-insider.txt | vscodium_reh-web_1.126.04524.txt |
 | ------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------------------- | -------------------------- | ---------------------------------- | -------------------------------- |
 | LICENSE                                                                                                             |                                  | Y                                      | Y                          | Y                                  |                                  |
 | bin/code-server                                                                                                     |                                  |                                        | Y                          |                                    |                                  |
