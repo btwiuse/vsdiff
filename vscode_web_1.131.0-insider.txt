@@ -1028,6 +1028,7 @@ node_modules/@vscode/codicons/src/icons/globe.svg
 node_modules/@vscode/codicons/src/icons/go-to-editing-session.svg
 node_modules/@vscode/codicons/src/icons/go-to-file.svg
 node_modules/@vscode/codicons/src/icons/go-to-search.svg
+node_modules/@vscode/codicons/src/icons/google-gemini.svg
 node_modules/@vscode/codicons/src/icons/grabber.svg
 node_modules/@vscode/codicons/src/icons/graph-left.svg
 node_modules/@vscode/codicons/src/icons/graph-line.svg
@@ -1060,6 +1061,7 @@ node_modules/@vscode/codicons/src/icons/key.svg
 node_modules/@vscode/codicons/src/icons/keyboard-tab-above.svg
 node_modules/@vscode/codicons/src/icons/keyboard-tab-below.svg
 node_modules/@vscode/codicons/src/icons/keyboard-tab.svg
+node_modules/@vscode/codicons/src/icons/kimi.svg
 node_modules/@vscode/codicons/src/icons/law.svg
 node_modules/@vscode/codicons/src/icons/layers-active.svg
 node_modules/@vscode/codicons/src/icons/layers-dot.svg
@@ -1118,8 +1120,11 @@ node_modules/@vscode/codicons/src/icons/mention.svg
 node_modules/@vscode/codicons/src/icons/menu.svg
 node_modules/@vscode/codicons/src/icons/merge-into.svg
 node_modules/@vscode/codicons/src/icons/merge.svg
+node_modules/@vscode/codicons/src/icons/mic-download-compact.svg
+node_modules/@vscode/codicons/src/icons/mic-download.svg
 node_modules/@vscode/codicons/src/icons/mic-filled.svg
 node_modules/@vscode/codicons/src/icons/mic.svg
+node_modules/@vscode/codicons/src/icons/microsoft.svg
 node_modules/@vscode/codicons/src/icons/milestone.svg
 node_modules/@vscode/codicons/src/icons/mirror.svg
 node_modules/@vscode/codicons/src/icons/mortar-board.svg
@@ -1348,6 +1353,8 @@ node_modules/@vscode/codicons/src/icons/vm-running.svg
 node_modules/@vscode/codicons/src/icons/vm-small.svg
 node_modules/@vscode/codicons/src/icons/vm.svg
 node_modules/@vscode/codicons/src/icons/voice-mode-compact.svg
+node_modules/@vscode/codicons/src/icons/voice-mode-download-compact.svg
+node_modules/@vscode/codicons/src/icons/voice-mode-download.svg
 node_modules/@vscode/codicons/src/icons/voice-mode.svg
 node_modules/@vscode/codicons/src/icons/vr.svg
 node_modules/@vscode/codicons/src/icons/vscode-insiders-outline.svg
