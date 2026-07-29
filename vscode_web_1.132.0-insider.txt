@@ -781,6 +781,7 @@ node_modules/@vscode/codicons/src/icons/arrow-small-left.svg
 node_modules/@vscode/codicons/src/icons/arrow-small-right.svg
 node_modules/@vscode/codicons/src/icons/arrow-small-up.svg
 node_modules/@vscode/codicons/src/icons/arrow-swap.svg
+node_modules/@vscode/codicons/src/icons/arrow-up-compact.svg
 node_modules/@vscode/codicons/src/icons/arrow-up.svg
 node_modules/@vscode/codicons/src/icons/ask-compact.svg
 node_modules/@vscode/codicons/src/icons/ask.svg
@@ -852,8 +853,10 @@ node_modules/@vscode/codicons/src/icons/close-all.svg
 node_modules/@vscode/codicons/src/icons/close-compact.svg
 node_modules/@vscode/codicons/src/icons/close.svg
 node_modules/@vscode/codicons/src/icons/cloud-compact.svg
+node_modules/@vscode/codicons/src/icons/cloud-download-compact.svg
 node_modules/@vscode/codicons/src/icons/cloud-download.svg
 node_modules/@vscode/codicons/src/icons/cloud-small.svg
+node_modules/@vscode/codicons/src/icons/cloud-upload-compact.svg
 node_modules/@vscode/codicons/src/icons/cloud-upload.svg
 node_modules/@vscode/codicons/src/icons/cloud.svg
 node_modules/@vscode/codicons/src/icons/code-oss.svg
@@ -1136,6 +1139,7 @@ node_modules/@vscode/codicons/src/icons/mention.svg
 node_modules/@vscode/codicons/src/icons/menu.svg
 node_modules/@vscode/codicons/src/icons/merge-into.svg
 node_modules/@vscode/codicons/src/icons/merge.svg
+node_modules/@vscode/codicons/src/icons/mic-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download.svg
 node_modules/@vscode/codicons/src/icons/mic-filled.svg
