@@ -76,6 +76,10 @@ node_modules/vsda/rust/web/vsda.d.ts,,Y,Y,Y
 node_modules/vsda/rust/web/vsda.js,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm,,Y,Y,Y
 node_modules/vsda/rust/web/vsda_bg.wasm.d.ts,,Y,Y,Y
+out/vs/workbench/contrib/agentsVoice/browser/media/daniel_neutral.mp3,,,,Y
+out/vs/workbench/contrib/agentsVoice/browser/media/kevin_neutral.mp3,,,,Y
+out/vs/workbench/contrib/agentsVoice/browser/media/maya_neutral.mp3,,,,Y
+out/vs/workbench/contrib/agentsVoice/browser/media/victoria_neutral.mp3,,,,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.gif,Y,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.png,Y,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.spritesheet.png,,,,Y
