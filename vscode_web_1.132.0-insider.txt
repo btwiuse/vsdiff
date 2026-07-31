@@ -1791,6 +1791,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-inside
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-stable-tracking-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-stable-tracking-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-insiders-tracking-96.png
@@ -1807,6 +1811,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-insid
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-insiders-tracking-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-stable-tracking-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-rendering-stable-tracking-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-stable-96.png

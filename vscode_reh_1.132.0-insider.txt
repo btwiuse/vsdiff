@@ -90,6 +90,7 @@ extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/test-si
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/sidekick/test-sidekick-trigger-once.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/definitions/task.agent.yaml
 extensions/copilot/node_modules/@github/copilot/sdk/index.js
+extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/cli-native.node
 extensions/copilot/node_modules/@github/copilot/sdk/prebuilds/linux-x64/runtime.node
 extensions/copilot/node_modules/@github/copilot/sdk/ripgrep/bin/linux-x64/rg
 extensions/copilot/node_modules/@github/copilot/sdk/tgrep/bin/linux-x64/tgrep
@@ -717,6 +718,7 @@ node_modules/@github/copilot-linux-x64/definitions/sidekick/github-context-memor
 node_modules/@github/copilot-linux-x64/definitions/sidekick/github-context.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/session-search.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/subconscious-agent.yaml
+node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-context-changed.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-persistent.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-restart.yaml
 node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-trigger-once.yaml
