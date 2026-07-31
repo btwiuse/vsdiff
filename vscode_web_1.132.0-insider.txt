@@ -1401,6 +1401,7 @@ node_modules/@vscode/codicons/src/icons/workspace-untrusted.svg
 node_modules/@vscode/codicons/src/icons/worktree-compact.svg
 node_modules/@vscode/codicons/src/icons/worktree-small.svg
 node_modules/@vscode/codicons/src/icons/worktree.svg
+node_modules/@vscode/codicons/src/icons/xai.svg
 node_modules/@vscode/codicons/src/icons/zoom-in.svg
 node_modules/@vscode/codicons/src/icons/zoom-out.svg
 node_modules/@vscode/codicons/src/template/preview.hbs
@@ -1784,9 +1785,17 @@ out/vs/workbench/browser/parts/editor/media/letterpress-hcDark.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-hcLight.svg
 out/vs/workbench/browser/parts/editor/media/letterpress-light.svg
 out/vs/workbench/contrib/agentsVoice/browser/media/daniel_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/de_marc_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/es-ES_maria_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/fr_david_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/it_eva_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/ja_aruha_neutral.mp3
 out/vs/workbench/contrib/agentsVoice/browser/media/kevin_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/ko_jiyon_neutral.mp3
 out/vs/workbench/contrib/agentsVoice/browser/media/maya_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/pt-BR_gil_neutral.mp3
 out/vs/workbench/contrib/agentsVoice/browser/media/victoria_neutral.mp3
+out/vs/workbench/contrib/agentsVoice/browser/media/zh_wuzhi_neutral.mp3
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-insiders-tracking-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-clapping-stable-tracking-96.png
