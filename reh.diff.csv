@@ -491,7 +491,7 @@ extensions/ms-vscode.js-debug/src/watchdog.js,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,,Y,Y,Y,
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,,Y,Y,Y,
 extensions/ms-vscode.js-debug/telemetry.json,,Y,Y,Y,Y
-extensions/ms-vscode.vscode-js-profile-table/README.md,,Y,Y,Y,Y
+extensions/ms-vscode.vscode-js-profile-table/README.md,,Y,Y,,Y
 extensions/ms-vscode.vscode-js-profile-table/ThirdPartyNotices.txt,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/ci.yml,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/out/425.heapsnapshotWorker.js,,Y,Y,Y,Y
@@ -505,7 +505,9 @@ extensions/ms-vscode.vscode-js-profile-table/out/heap-client.bundle.js,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/out/heapsnapshot-client.bundle.js,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/out/heapsnapshotWorker.js,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/package.json,,Y,Y,Y,Y
+extensions/ms-vscode.vscode-js-profile-table/readme.md,,,,Y,
 extensions/ms-vscode.vscode-js-profile-table/resources/icon.png,,Y,Y,Y,Y
+extensions/ms-vscode.vscode-js-profile-table/telemetry.json,,,,Y,
 extensions/ms-vscode.vscode-js-profile-table/tsconfig.browser.json,,Y,Y,Y,Y
 extensions/node_modules/typescript/lib/_tsserver.js,,Y,Y,Y,Y
 extensions/node_modules/typescript/lib/_typingsInstaller.js,,Y,Y,Y,Y
@@ -802,6 +804,7 @@ node_modules/@github/copilot-sdk/dist/cjs/canvas.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/client.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/extension.js,,Y,Y,Y,
+node_modules/@github/copilot-sdk/dist/cjs/factory.js,,,,Y,
 node_modules/@github/copilot-sdk/dist/cjs/ffiRuntimeHost.js,,,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/generated/session-events.js,,Y,Y,Y,
@@ -816,6 +819,7 @@ node_modules/@github/copilot-sdk/dist/cjs/types.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/client.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/extension.js,,Y,Y,Y,
+node_modules/@github/copilot-sdk/dist/factory.js,,,,Y,
 node_modules/@github/copilot-sdk/dist/ffiRuntimeHost.js,,,Y,Y,
 node_modules/@github/copilot-sdk/dist/generated/rpc.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/generated/session-events.js,,Y,Y,Y,

@@ -478,7 +478,6 @@ extensions/ms-vscode.js-debug/src/watchdog.js
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node
 extensions/ms-vscode.js-debug/telemetry.json
-extensions/ms-vscode.vscode-js-profile-table/README.md
 extensions/ms-vscode.vscode-js-profile-table/ThirdPartyNotices.txt
 extensions/ms-vscode.vscode-js-profile-table/ci.yml
 extensions/ms-vscode.vscode-js-profile-table/out/425.heapsnapshotWorker.js
@@ -492,7 +491,9 @@ extensions/ms-vscode.vscode-js-profile-table/out/heap-client.bundle.js
 extensions/ms-vscode.vscode-js-profile-table/out/heapsnapshot-client.bundle.js
 extensions/ms-vscode.vscode-js-profile-table/out/heapsnapshotWorker.js
 extensions/ms-vscode.vscode-js-profile-table/package.json
+extensions/ms-vscode.vscode-js-profile-table/readme.md
 extensions/ms-vscode.vscode-js-profile-table/resources/icon.png
+extensions/ms-vscode.vscode-js-profile-table/telemetry.json
 extensions/ms-vscode.vscode-js-profile-table/tsconfig.browser.json
 extensions/node_modules/typescript/lib/_tsserver.js
 extensions/node_modules/typescript/lib/_typingsInstaller.js
@@ -783,6 +784,7 @@ node_modules/@github/copilot-sdk/dist/cjs/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/client.js
 node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/cjs/extension.js
+node_modules/@github/copilot-sdk/dist/cjs/factory.js
 node_modules/@github/copilot-sdk/dist/cjs/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/session-events.js
@@ -797,6 +799,7 @@ node_modules/@github/copilot-sdk/dist/cjs/types.js
 node_modules/@github/copilot-sdk/dist/client.js
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/extension.js
+node_modules/@github/copilot-sdk/dist/factory.js
 node_modules/@github/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/generated/session-events.js
