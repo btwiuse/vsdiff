@@ -991,7 +991,9 @@ node_modules/@github/copilot-linux-x64/README.md
 node_modules/@github/copilot-linux-x64/app.js
 node_modules/@github/copilot-linux-x64/assets/copilot.png
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
+node_modules/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin/customize-cloud-agent/SKILL.md
+node_modules/@github/copilot-linux-x64/builtin/github-pr-media/SKILL.md
 node_modules/@github/copilot-linux-x64/changelog.json
 node_modules/@github/copilot-linux-x64/copilot-sdk/canvas.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/client.d.ts
@@ -999,8 +1001,11 @@ node_modules/@github/copilot-linux-x64/copilot-sdk/copilotRequestHandler.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/docs/agent-author.md
 node_modules/@github/copilot-linux-x64/copilot-sdk/docs/examples.md
 node_modules/@github/copilot-linux-x64/copilot-sdk/docs/extensions.md
+node_modules/@github/copilot-linux-x64/copilot-sdk/docs/factories.md
+node_modules/@github/copilot-linux-x64/copilot-sdk/docs/factory-patterns.md
 node_modules/@github/copilot-linux-x64/copilot-sdk/extension.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/extension.js
+node_modules/@github/copilot-linux-x64/copilot-sdk/factory.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/ffiRuntimeHost.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/generated/rpc.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/generated/session-events.d.ts
