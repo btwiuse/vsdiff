@@ -40,6 +40,8 @@ extensions/simple-browser/dist/extension.js,,Y,Y,Y
 extensions/theme-defaults/themes/dark-colorblind.json,Y,,,
 extensions/theme-defaults/themes/light-colorblind.json,Y,,,
 extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
+node_modules/@vscode/codicons/scripts/prepare.js,,,,Y
+node_modules/@vscode/codicons/src/icons/arrow-circle-up-sparkle.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/arrow-up-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-download-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-upload-compact.svg,,,Y,Y

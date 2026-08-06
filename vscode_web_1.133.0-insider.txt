@@ -757,6 +757,7 @@ node_modules/@vscode/codicons/scripts/embed-svg-data.js
 node_modules/@vscode/codicons/scripts/export-to-csv.js
 node_modules/@vscode/codicons/scripts/export-to-ts.js
 node_modules/@vscode/codicons/scripts/patch-fantasticon.js
+node_modules/@vscode/codicons/scripts/prepare.js
 node_modules/@vscode/codicons/scripts/reset.js
 node_modules/@vscode/codicons/scripts/svg-sprite.js
 node_modules/@vscode/codicons/scripts/version-bump.js
@@ -772,6 +773,7 @@ node_modules/@vscode/codicons/src/icons/arrow-both.svg
 node_modules/@vscode/codicons/src/icons/arrow-circle-down.svg
 node_modules/@vscode/codicons/src/icons/arrow-circle-left.svg
 node_modules/@vscode/codicons/src/icons/arrow-circle-right.svg
+node_modules/@vscode/codicons/src/icons/arrow-circle-up-sparkle.svg
 node_modules/@vscode/codicons/src/icons/arrow-circle-up.svg
 node_modules/@vscode/codicons/src/icons/arrow-down.svg
 node_modules/@vscode/codicons/src/icons/arrow-left.svg
