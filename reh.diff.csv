@@ -349,6 +349,8 @@ extensions/markdown-language-features/notebook-out/index.js,,Y,Y,Y,Y
 extensions/markdown-language-features/package.json,,Y,Y,Y,Y
 extensions/markdown-language-features/package.nls.json,,Y,Y,Y,Y
 extensions/markdown-language-features/schemas/package.schema.json,,Y,Y,Y,Y
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,,,,Y,
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,,,,Y,
 extensions/markdown-math/README.md,,Y,Y,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y,Y
 extensions/markdown-math/icon.png,,Y,Y,Y,Y
