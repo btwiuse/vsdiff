@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26215.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.132.0.txt,vscode_web_1.133.0-insider.txt
+File,codigo_web_1.100.0.26215.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.132.0.txt,vscode_web_1.134.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -249,6 +249,7 @@ extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
 node_modules/@vscode/codicons/scripts/prepare.js,,,,Y
 node_modules/@vscode/codicons/src/icons/arrow-circle-up-sparkle.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/arrow-up-compact.svg,,,Y,Y
+node_modules/@vscode/codicons/src/icons/close-small.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/cloud-download-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-upload-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/fish1-happy.svg,Y,,Y,Y
