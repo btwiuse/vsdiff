@@ -2024,6 +2024,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-96.
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-tracking-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-idle-stable-tracking-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-jump-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-stable-96.png
@@ -2046,6 +2050,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-insiders-124.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-insiders-124.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-stable-124.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sing-stable-124.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-sleep-stable-96.png
@@ -2054,6 +2062,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-stable-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speech-stable-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-speechless-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-splat-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-splat-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-splat-stable-96.png
@@ -2066,6 +2078,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-yapping-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-yapping-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-yapping-stable-96.png
