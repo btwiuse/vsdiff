@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.132.1.txt,vscode_reh-web_1.133.0-insider.txt,vscodium_reh-web_1.126.04524.txt
+File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.132.1.txt,vscode_reh-web_1.134.0-insider.txt,vscodium_reh-web_1.126.04524.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -3907,6 +3907,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-9
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.spritesheet.png,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png,,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png,,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png,,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png,,,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.png,,,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.spritesheet.png,,,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-stable-96.png,,,,Y,

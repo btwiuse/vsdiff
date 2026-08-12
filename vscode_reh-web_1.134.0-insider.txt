@@ -3518,6 +3518,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-9
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-stable-96.png
