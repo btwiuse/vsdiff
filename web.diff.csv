@@ -350,8 +350,8 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insider
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.spritesheet.png,,,Y,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-insiders-96.png,,,Y,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-stable-96.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-insiders-96.png,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-stable-96.png,,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.png,,,Y,Y
@@ -384,6 +384,8 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.spritesheet.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png,,,,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png,,,,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-stable-96.png,,,Y,Y
