@@ -112,6 +112,7 @@ extensions/markdown-language-features/markdown-editor-out/vennDiagram-CIIHVFJN-O
 extensions/markdown-language-features/markdown-editor-out/wardley-L42UT6IY-BAMABOAY.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-YWT4CUSO-A7TZPALT.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-2RQKCTM6-QOAA6ZSJ.js,,,Y,Y
+extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,,Y
 extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,,,Y,Y
 extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,,,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y

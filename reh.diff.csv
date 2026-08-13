@@ -419,6 +419,7 @@ extensions/markdown-language-features/markdown-editor-out/wardley-L42UT6IY-BAMAB
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-YWT4CUSO-A7TZPALT.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-2RQKCTM6-QOAA6ZSJ.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,Y,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,,Y,
 extensions/markdown-language-features/markdown-editor-src/markdownEditor.css,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json,,Y,Y,Y,Y
@@ -2782,6 +2783,7 @@ node_modules/tar/package.json,,Y,Y,Y,Y
 node_modules/tas-client/LICENSE.txt,,Y,Y,Y,Y
 node_modules/tas-client/dist/tas-client.min.js,,Y,Y,Y,Y
 node_modules/tas-client/package.json,,Y,Y,Y,Y
+node_modules/tas-client/tsconfig.json,,,,Y,
 node_modules/tslib/CopyrightNotice.txt,,,,,Y
 node_modules/tslib/LICENSE.txt,,,,,Y
 node_modules/tslib/SECURITY.md,,,,,Y
