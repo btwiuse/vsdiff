@@ -1076,7 +1076,6 @@ node_modules/@microsoft/mxc-sdk/bin/x64/linux-test-proxy
 node_modules/@microsoft/mxc-sdk/bin/x64/lxc-exec
 node_modules/@microsoft/mxc-sdk/bin/x64/mxc-diagnostic-console.exe
 node_modules/@microsoft/mxc-sdk/bin/x64/winhttp-proxy-shim.exe
-node_modules/@microsoft/mxc-sdk/bin/x64/wslcsdk.dll
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-exec.exe
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-host-prep.exe
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-test-proxy.exe
