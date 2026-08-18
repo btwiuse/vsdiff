@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.133.0.txt,vscode_reh-web_1.134.0-insider.txt,vscodium_reh-web_1.126.04524.txt
+File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.133.0.txt,vscode_reh-web_1.135.0-insider.txt,vscodium_reh-web_1.126.04524.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -39,7 +39,7 @@ extensions/configuration-editing/package.json,,Y,Y,Y,Y
 extensions/configuration-editing/package.nls.json,,Y,Y,Y,Y
 extensions/configuration-editing/schemas/attachContainer.schema.json,,Y,Y,Y,Y
 extensions/copilot/LICENSE.txt,,Y,Y,Y,
-extensions/copilot/ThirdPartyNotices.txt,,Y,Y,Y,
+extensions/copilot/ThirdPartyNotices.txt,,Y,Y,,
 extensions/copilot/assets/copilot.png,,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,,Y,Y,Y,
 extensions/copilot/assets/debug-icon.svg,,Y,Y,Y,
