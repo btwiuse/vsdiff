@@ -250,6 +250,7 @@ extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
 node_modules/@vscode/codicons/scripts/prepare.js,,,Y,Y
 node_modules/@vscode/codicons/src/icons/arrow-circle-up-sparkle.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/arrow-up-compact.svg,,,Y,Y
+node_modules/@vscode/codicons/src/icons/book-compact.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/close-small.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-download-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-upload-compact.svg,,,Y,Y
@@ -274,6 +275,8 @@ node_modules/@vscode/codicons/src/icons/kimi.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-download-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-download.svg,Y,,Y,Y
+node_modules/@vscode/codicons/src/icons/mic-off-compact.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/mic-off.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/microsoft.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/person-voice-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/person-voice-filled-compact.svg,Y,,Y,Y
