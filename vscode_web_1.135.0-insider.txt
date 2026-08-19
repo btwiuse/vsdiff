@@ -1007,7 +1007,6 @@ node_modules/@vscode/codicons/src/icons/bell-slash.svg
 node_modules/@vscode/codicons/src/icons/bell.svg
 node_modules/@vscode/codicons/src/icons/blank.svg
 node_modules/@vscode/codicons/src/icons/bold.svg
-node_modules/@vscode/codicons/src/icons/book-compact.svg
 node_modules/@vscode/codicons/src/icons/book.svg
 node_modules/@vscode/codicons/src/icons/bookmark.svg
 node_modules/@vscode/codicons/src/icons/bracket-dot.svg
@@ -1354,8 +1353,6 @@ node_modules/@vscode/codicons/src/icons/mic-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download.svg
 node_modules/@vscode/codicons/src/icons/mic-filled.svg
-node_modules/@vscode/codicons/src/icons/mic-off-compact.svg
-node_modules/@vscode/codicons/src/icons/mic-off.svg
 node_modules/@vscode/codicons/src/icons/mic.svg
 node_modules/@vscode/codicons/src/icons/microsoft.svg
 node_modules/@vscode/codicons/src/icons/milestone.svg
