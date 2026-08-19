@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.133.0.txt,vscode_reh-web_1.135.0-insider.txt,vscodium_reh-web_1.126.04524.txt
+File,codigo_reh-web_1.100.0.26215.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.134.0.txt,vscode_reh-web_1.135.0-insider.txt,vscodium_reh-web_1.126.04524.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -557,7 +557,7 @@ extensions/markdown-language-features/markdown-editor-out/wardley-L42UT6IY-BAMAB
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-YWT4CUSO-A7TZPALT.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-2RQKCTM6-QOAA6ZSJ.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,Y,Y,Y,Y
-extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,,Y,
+extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-src/markdownEditor.css,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json,,Y,Y,Y,Y
@@ -1876,7 +1876,7 @@ node_modules/@microsoft/mxc-sdk/bin/x64/linux-test-proxy,,Y,Y,Y,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/lxc-exec,,Y,Y,Y,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/mxc-diagnostic-console.exe,,Y,Y,Y,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/winhttp-proxy-shim.exe,,Y,Y,Y,Y
-node_modules/@microsoft/mxc-sdk/bin/x64/wslcsdk.dll,,Y,Y,,Y
+node_modules/@microsoft/mxc-sdk/bin/x64/wslcsdk.dll,,Y,,,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-exec.exe,,Y,Y,Y,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-host-prep.exe,,Y,Y,Y,Y
 node_modules/@microsoft/mxc-sdk/bin/x64/wxc-test-proxy.exe,,Y,Y,Y,Y
@@ -3208,7 +3208,7 @@ node_modules/tar/package.json,,Y,Y,Y,Y
 node_modules/tas-client/LICENSE.txt,,Y,Y,Y,Y
 node_modules/tas-client/dist/tas-client.min.js,,Y,Y,Y,Y
 node_modules/tas-client/package.json,,Y,Y,Y,Y
-node_modules/tas-client/tsconfig.json,,,,Y,
+node_modules/tas-client/tsconfig.json,,,Y,Y,
 node_modules/tslib/CopyrightNotice.txt,,,,,Y
 node_modules/tslib/LICENSE.txt,,,,,Y
 node_modules/tslib/SECURITY.md,,,,,Y
@@ -3909,10 +3909,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-9
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.spritesheet.png,,,Y,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png,,,,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png,,,,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png,,,,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png,,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-stable-96.png,,,Y,Y,
@@ -3945,8 +3945,6 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insider
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.spritesheet.png,,,Y,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-insiders-96.png,,,Y,,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-stable-96.png,,,Y,,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.png,,,Y,Y,
@@ -3979,8 +3977,8 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.spritesheet.png,,,Y,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png,,,,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png,,,,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png,,,Y,Y,
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.spritesheet.png,,,Y,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-stable-96.png,,,Y,Y,

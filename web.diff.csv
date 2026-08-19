@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26215.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.133.0.txt,vscode_web_1.135.0-insider.txt
+File,codigo_web_1.100.0.26215.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.134.0.txt,vscode_web_1.135.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -112,7 +112,7 @@ extensions/markdown-language-features/markdown-editor-out/vennDiagram-CIIHVFJN-O
 extensions/markdown-language-features/markdown-editor-out/wardley-L42UT6IY-BAMABOAY.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-YWT4CUSO-A7TZPALT.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-2RQKCTM6-QOAA6ZSJ.js,,,Y,Y
-extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,,Y
+extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,,Y,Y
 extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,,,Y,Y
 extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,,,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
@@ -250,7 +250,7 @@ extensions/typescript-language-features/dist/extension.js,,Y,Y,Y
 node_modules/@vscode/codicons/scripts/prepare.js,,,Y,Y
 node_modules/@vscode/codicons/src/icons/arrow-circle-up-sparkle.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/arrow-up-compact.svg,,,Y,Y
-node_modules/@vscode/codicons/src/icons/close-small.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/close-small.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-download-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/cloud-upload-compact.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/fish1-happy.svg,Y,,Y,Y
@@ -309,10 +309,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-9
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-cool-stable-96.spritesheet.png,,,Y,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png,,,,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png,,,,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png,,,,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png,,,,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-insiders-128.spritesheet.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-dizzy-stable-128.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-falling-stable-96.png,,,Y,Y
@@ -351,8 +351,6 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insider
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-respawn-stable-96.spritesheet.png,,,Y,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-insiders-96.png,,,Y,
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-revive-sign-stable-96.png,,,Y,
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-search-stable-96.png,,,Y,Y
@@ -385,8 +383,8 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-waking-stable-96.spritesheet.png,,,Y,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png,,,,Y
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png,,,,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-insiders-96.png,,,Y,Y
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-wall-impact-stable-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-insiders-96.spritesheet.png,,,Y,Y
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-worry-stable-96.png,,,Y,Y
