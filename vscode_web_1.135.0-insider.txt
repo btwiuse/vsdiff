@@ -342,7 +342,7 @@ extensions/markdown-language-features/markdown-editor-out/chunk-YNKYB66X.js
 extensions/markdown-language-features/markdown-editor-out/chunk-ZIJQPUA2.js
 extensions/markdown-language-features/markdown-editor-out/classDiagram-4FO5ZUOK-IAYUKKLW.js
 extensions/markdown-language-features/markdown-editor-out/classDiagram-v2-Q7XG4LA2-3Q62ST3I.js
-extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
+extensions/markdown-language-features/markdown-editor-out/codicon-B3TTTKGI.ttf
 extensions/markdown-language-features/markdown-editor-out/cose-bilkent-S5V4N54A-ST6KIQ5D.js
 extensions/markdown-language-features/markdown-editor-out/dagre-BM42HDAG-WWU3GZJK.js
 extensions/markdown-language-features/markdown-editor-out/diagram-2AECGRRQ-UY3NFU3C.js
