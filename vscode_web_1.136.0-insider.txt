@@ -2011,6 +2011,7 @@ out/vs/workbench/contrib/agentsVoice/browser/media/pt-BR_gil_neutral.mp3
 out/vs/workbench/contrib/agentsVoice/browser/media/victoria_neutral.mp3
 out/vs/workbench/contrib/agentsVoice/browser/media/zh_wuzhi_neutral.mp3
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/artist-beret.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/bamboo-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/baseball-cap.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/construction-hard-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/cowboy-hat.png
@@ -2022,9 +2023,7 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/grand-top
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/leaning-party-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/pink-party-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/propeller-hat.png
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/rice-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/sailor-hat.png
-out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/santa-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/straw-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/white-chef-hat.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/accessories/wizard-hat.png
