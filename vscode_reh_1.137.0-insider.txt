@@ -792,6 +792,8 @@ extensions/typescript-language-features/schemas/tsconfig.schema.json
 node
 node_modules/@github/copilot-linux-x64/LICENSE.md
 node_modules/@github/copilot-linux-x64/README.md
+node_modules/@github/copilot-linux-x64/animations/app-install-nudge.json.gz
+node_modules/@github/copilot-linux-x64/animations/banner.json.gz
 node_modules/@github/copilot-linux-x64/app.js
 node_modules/@github/copilot-linux-x64/assets/copilot.png
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
@@ -838,11 +840,6 @@ node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-restar
 node_modules/@github/copilot-linux-x64/definitions/sidekick/test-sidekick-trigger-once.yaml
 node_modules/@github/copilot-linux-x64/definitions/task.agent.yaml
 node_modules/@github/copilot-linux-x64/index.js
-node_modules/@github/copilot-linux-x64/napi-oop-runtime/index.js
-node_modules/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/codegen-cli.js
-node_modules/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/index.js
-node_modules/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/dist/sync-worker.js
-node_modules/@github/copilot-linux-x64/napi-oop-runtime/node_modules/napi-oop-runtime/package.json
 node_modules/@github/copilot-linux-x64/npm-loader.js
 node_modules/@github/copilot-linux-x64/package.json
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node
@@ -867,7 +864,6 @@ node_modules/@github/copilot-linux-x64/queries/typescript-highlights.scm
 node_modules/@github/copilot-linux-x64/ripgrep/bin/linux-x64/rg
 node_modules/@github/copilot-linux-x64/schemas/api.schema.json
 node_modules/@github/copilot-linux-x64/schemas/session-events.schema.json
-node_modules/@github/copilot-linux-x64/sdk/index.d.ts
 node_modules/@github/copilot-linux-x64/sdk/index.js
 node_modules/@github/copilot-linux-x64/sea-loader.js
 node_modules/@github/copilot-linux-x64/tgrep/bin/linux-x64/tgrep
@@ -903,6 +899,7 @@ node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/session-events.js
 node_modules/@github/copilot-sdk/dist/cjs/index.js
 node_modules/@github/copilot-sdk/dist/cjs/package.json
+node_modules/@github/copilot-sdk/dist/cjs/runtimeArtifacts.js
 node_modules/@github/copilot-sdk/dist/cjs/sdkProtocolVersion.js
 node_modules/@github/copilot-sdk/dist/cjs/session.js
 node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js
@@ -917,6 +914,7 @@ node_modules/@github/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/generated/session-events.js
 node_modules/@github/copilot-sdk/dist/index.js
+node_modules/@github/copilot-sdk/dist/runtimeArtifacts.js
 node_modules/@github/copilot-sdk/dist/sdkProtocolVersion.js
 node_modules/@github/copilot-sdk/dist/session.js
 node_modules/@github/copilot-sdk/dist/sessionFsProvider.js
