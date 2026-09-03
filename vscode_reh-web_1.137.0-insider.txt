@@ -1222,8 +1222,10 @@ node_modules/@github/copilot-linux-x64/animations/banner.json.gz
 node_modules/@github/copilot-linux-x64/app.js
 node_modules/@github/copilot-linux-x64/assets/copilot.png
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
+node_modules/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin/customize-cloud-agent/SKILL.md
+node_modules/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin/github-pr-media/SKILL.md
 node_modules/@github/copilot-linux-x64/changelog.json
 node_modules/@github/copilot-linux-x64/copilot-sdk/canvas.d.ts
@@ -1242,6 +1244,7 @@ node_modules/@github/copilot-linux-x64/copilot-sdk/generated/rpc.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/generated/session-events.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/index.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/index.js
+node_modules/@github/copilot-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/sdkProtocolVersion.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/session.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/sessionFsProvider.d.ts
@@ -1612,6 +1615,7 @@ node_modules/@vscode/proxy-agent/LICENSE.md
 node_modules/@vscode/proxy-agent/SECURITY.md
 node_modules/@vscode/proxy-agent/out/agent.js
 node_modules/@vscode/proxy-agent/out/index.js
+node_modules/@vscode/proxy-agent/out/systemCertificatesWorker.js
 node_modules/@vscode/proxy-agent/package.json
 node_modules/@vscode/ripgrep-universal/LICENSE
 node_modules/@vscode/ripgrep-universal/bin/linux-x64/rg

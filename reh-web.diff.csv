@@ -1237,8 +1237,10 @@ node_modules/@github/copilot-linux-x64/animations/banner.json.gz,,,,Y,
 node_modules/@github/copilot-linux-x64/app.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/assets/copilot.png,,,Y,Y,
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md,,Y,Y,Y,
+node_modules/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md,,,,Y,
 node_modules/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md,,,Y,Y,
 node_modules/@github/copilot-linux-x64/builtin/customize-cloud-agent/SKILL.md,,Y,Y,Y,
+node_modules/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md,,,,Y,
 node_modules/@github/copilot-linux-x64/builtin/github-pr-media/SKILL.md,,,Y,Y,
 node_modules/@github/copilot-linux-x64/changelog.json,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/canvas.d.ts,,Y,Y,Y,
@@ -1257,6 +1259,7 @@ node_modules/@github/copilot-linux-x64/copilot-sdk/generated/rpc.d.ts,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/generated/session-events.d.ts,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/index.d.ts,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/index.js,,Y,Y,Y,
+node_modules/@github/copilot-linux-x64/copilot-sdk/runtimeArtifacts.d.ts,,,,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/sdkProtocolVersion.d.ts,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/session.d.ts,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/copilot-sdk/sessionFsProvider.d.ts,,Y,Y,Y,
@@ -1994,6 +1997,7 @@ node_modules/@vscode/proxy-agent/LICENSE.md,,Y,Y,Y,Y
 node_modules/@vscode/proxy-agent/SECURITY.md,,Y,Y,Y,Y
 node_modules/@vscode/proxy-agent/out/agent.js,,Y,Y,Y,Y
 node_modules/@vscode/proxy-agent/out/index.js,,Y,Y,Y,Y
+node_modules/@vscode/proxy-agent/out/systemCertificatesWorker.js,,,,Y,
 node_modules/@vscode/proxy-agent/package.json,,Y,Y,Y,Y
 node_modules/@vscode/ripgrep-universal/LICENSE,,Y,Y,Y,Y
 node_modules/@vscode/ripgrep-universal/bin/linux-x64/rg,,Y,Y,Y,Y
