@@ -1324,6 +1324,8 @@ node_modules/@vscode/codicons/src/icons/layers.svg
 node_modules/@vscode/codicons/src/icons/layout-activitybar-left.svg
 node_modules/@vscode/codicons/src/icons/layout-activitybar-right.svg
 node_modules/@vscode/codicons/src/icons/layout-centered.svg
+node_modules/@vscode/codicons/src/icons/layout-density-compact.svg
+node_modules/@vscode/codicons/src/icons/layout-density-default.svg
 node_modules/@vscode/codicons/src/icons/layout-menubar.svg
 node_modules/@vscode/codicons/src/icons/layout-panel-center.svg
 node_modules/@vscode/codicons/src/icons/layout-panel-dock.svg
