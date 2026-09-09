@@ -421,8 +421,6 @@ extensions/markdown-language-features/notebook-out/index.js
 extensions/markdown-language-features/package.json
 extensions/markdown-language-features/package.nls.json
 extensions/markdown-language-features/schemas/package.schema.json
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts
 extensions/markdown-math/README.md
 extensions/markdown-math/dist/browser/extension.js
 extensions/markdown-math/dist/extension.js
@@ -1324,6 +1322,8 @@ node_modules/@vscode/codicons/src/icons/layers.svg
 node_modules/@vscode/codicons/src/icons/layout-activitybar-left.svg
 node_modules/@vscode/codicons/src/icons/layout-activitybar-right.svg
 node_modules/@vscode/codicons/src/icons/layout-centered.svg
+node_modules/@vscode/codicons/src/icons/layout-density-compact.svg
+node_modules/@vscode/codicons/src/icons/layout-density-default.svg
 node_modules/@vscode/codicons/src/icons/layout-menubar.svg
 node_modules/@vscode/codicons/src/icons/layout-panel-center.svg
 node_modules/@vscode/codicons/src/icons/layout-panel-dock.svg

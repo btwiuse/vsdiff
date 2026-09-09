@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26252.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.136.2.txt,vscode_web_1.137.0-insider.txt
+File,codigo_web_1.100.0.26252.txt,vscode_web_1.128.0-exploration.txt,vscode_web_1.137.0.txt,vscode_web_1.138.0-insider.txt
 code-192-dark.png,Y,,,
 code-192-light.png,Y,,,
 code-512-dark.png,Y,,,
@@ -136,8 +136,8 @@ extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DE
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,Y,,Y,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,Y,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,Y,,Y,Y
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,Y,,Y,Y
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,Y,,Y,Y
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,Y,,Y,
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,Y,,Y,
 extensions/markdown-math/dist/extension.js,,Y,Y,Y
 extensions/media-preview/dist/extension.js,,Y,Y,Y
 extensions/merge-conflict/dist/mergeConflictMain.js,,Y,Y,Y
@@ -297,8 +297,8 @@ node_modules/@vscode/codicons/src/icons/fish4-sad.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/fish4-very-sad.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/google-gemini.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/kimi.svg,Y,,Y,Y
-node_modules/@vscode/codicons/src/icons/layout-density-compact.svg,,,,Y
-node_modules/@vscode/codicons/src/icons/layout-density-default.svg,,,,Y
+node_modules/@vscode/codicons/src/icons/layout-density-compact.svg,,,Y,Y
+node_modules/@vscode/codicons/src/icons/layout-density-default.svg,,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-download-compact.svg,Y,,Y,Y
 node_modules/@vscode/codicons/src/icons/mic-download.svg,Y,,Y,Y
