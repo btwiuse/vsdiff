@@ -1,14 +1,14 @@
-File,codigo_reh-web_1.100.0.26253.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.137.0.txt,vscode_reh-web_1.138.0-insider.txt,vscodium_reh-web_1.135.06055.txt
+File,codigo_reh-web_1.100.0.26253.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.137.0-insider.txt,vscode_reh-web_1.137.0.txt,vscodium_reh-web_1.135.06055.txt
 LICENSE,,Y,Y,Y,
-bin/code-server,,,Y,,
+bin/code-server,,,,Y,
 bin/code-server-exploration,,Y,,,
-bin/code-server-insiders,,,,Y,
+bin/code-server-insiders,,,Y,,
 bin/codium-server,,,,,Y
 bin/helpers/browser.sh,,Y,Y,Y,Y
 bin/helpers/check-requirements.sh,,Y,Y,Y,Y
-bin/remote-cli/code,,,Y,,
+bin/remote-cli/code,,,,Y,
 bin/remote-cli/code-exploration,,Y,,,
-bin/remote-cli/code-insiders,,,,Y,
+bin/remote-cli/code-insiders,,,Y,,
 bin/remote-cli/codium,,,,,Y
 extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt,,Y,Y,Y,
 extensions/TypeScriptTeam.jsts-chat-features/logo.png,,Y,Y,Y,
@@ -672,8 +672,8 @@ extensions/markdown-language-features/notebook-out/index.js,,Y,Y,Y,Y
 extensions/markdown-language-features/package.json,,Y,Y,Y,Y
 extensions/markdown-language-features/package.nls.json,,Y,Y,Y,Y
 extensions/markdown-language-features/schemas/package.schema.json,,Y,Y,Y,Y
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,,,Y,,Y
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,,,Y,,Y
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts,,,Y,Y,Y
+extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts,,,Y,Y,Y
 extensions/markdown-math/README.md,,Y,Y,Y,Y
 extensions/markdown-math/dist/extension.js,,Y,Y,Y,Y
 extensions/markdown-math/icon.png,,Y,Y,Y,Y
@@ -1313,10 +1313,7 @@ node_modules/@github/copilot-linux-x64/README.md,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/animations/app-install-nudge.json.gz,,,Y,Y,
 node_modules/@github/copilot-linux-x64/animations/banner.json.gz,,,Y,Y,
 node_modules/@github/copilot-linux-x64/app.js,,Y,Y,Y,
-node_modules/@github/copilot-linux-x64/assets/copilot.ico,,,,Y,
 node_modules/@github/copilot-linux-x64/assets/copilot.png,,,Y,Y,
-node_modules/@github/copilot-linux-x64/assets/copilot.svg,,,,Y,
-node_modules/@github/copilot-linux-x64/assets/copilot_win.png,,,,Y,
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md,,,Y,Y,
 node_modules/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md,,,Y,Y,
@@ -1421,7 +1418,6 @@ node_modules/@github/copilot-linux-x64/voice-installer.worker.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/voice-server.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/canvas.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/canvas.js,,Y,Y,Y,
-node_modules/@github/copilot-sdk/dist/cjs/cliVersion.js,,,,Y,
 node_modules/@github/copilot-sdk/dist/cjs/client.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/extension.js,,Y,Y,Y,
@@ -1438,7 +1434,6 @@ node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/telemetry.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/toolSet.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/cjs/types.js,,Y,Y,Y,
-node_modules/@github/copilot-sdk/dist/cliVersion.js,,,,Y,
 node_modules/@github/copilot-sdk/dist/client.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js,,Y,Y,Y,
 node_modules/@github/copilot-sdk/dist/extension.js,,Y,Y,Y,
