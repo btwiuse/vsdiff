@@ -1271,6 +1271,7 @@ node_modules/@github/copilot-linux-x64/definitions/task.agent.yaml
 node_modules/@github/copilot-linux-x64/index.js
 node_modules/@github/copilot-linux-x64/npm-loader.js
 node_modules/@github/copilot-linux-x64/package.json
+node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/cli-native.node
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node
 node_modules/@github/copilot-linux-x64/preloads/extension_bootstrap.mjs
 node_modules/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs
@@ -3717,8 +3718,6 @@ out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution
 out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMain.js
 out/vs/workbench/services/search/worker/localFileSearchMain.js
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js
-out/vs/workbench/workbench.web.main.internal.css
-out/vs/workbench/workbench.web.main.internal.js
 package.json
 product.json
 resources/server/code-192.png

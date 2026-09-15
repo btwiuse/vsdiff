@@ -846,6 +846,7 @@ node_modules/@github/copilot-linux-x64/definitions/task.agent.yaml
 node_modules/@github/copilot-linux-x64/index.js
 node_modules/@github/copilot-linux-x64/npm-loader.js
 node_modules/@github/copilot-linux-x64/package.json
+node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/cli-native.node
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node
 node_modules/@github/copilot-linux-x64/preloads/extension_bootstrap.mjs
 node_modules/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs

@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26254.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.137.0.txt,vscode_reh-web_1.138.0-insider.txt,vscodium_reh-web_1.135.06055.txt
+File,codigo_reh-web_1.100.0.26254.txt,vscode_reh-web_1.128.0-exploration.txt,vscode_reh-web_1.137.0.txt,vscode_reh-web_1.139.0-insider.txt,vscodium_reh-web_1.135.06055.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -1372,6 +1372,7 @@ node_modules/@github/copilot-linux-x64/definitions/task.split.agent.yaml,,Y,,,
 node_modules/@github/copilot-linux-x64/index.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/npm-loader.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/package.json,,Y,Y,Y,
+node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/cli-native.node,,,,Y,
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/preloads/extension_bootstrap.mjs,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs,,Y,Y,Y,
@@ -4183,8 +4184,8 @@ out/vs/workbench/services/keybinding/browser/keyboardLayouts/layout.contribution
 out/vs/workbench/services/languageDetection/browser/languageDetectionWebWorkerMain.js,,Y,Y,Y,Y
 out/vs/workbench/services/search/worker/localFileSearchMain.js,,Y,Y,Y,Y
 out/vs/workbench/services/textMate/browser/backgroundTokenization/worker/textMateTokenizationWorker.workerMain.js,,Y,Y,Y,Y
-out/vs/workbench/workbench.web.main.internal.css,,Y,Y,Y,
-out/vs/workbench/workbench.web.main.internal.js,,Y,Y,Y,
+out/vs/workbench/workbench.web.main.internal.css,,Y,Y,,
+out/vs/workbench/workbench.web.main.internal.js,,Y,Y,,
 package.json,,Y,Y,Y,Y
 product.json,,Y,Y,Y,Y
 resources/server/code-192.png,,Y,Y,Y,Y

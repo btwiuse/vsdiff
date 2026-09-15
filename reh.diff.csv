@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.128.0-exploration.txt,vscode_reh_1.137.0.txt,vscode_reh_1.138.0-insider.txt,vscodium_reh_1.135.06055.txt
+File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.128.0-exploration.txt,vscode_reh_1.137.0.txt,vscode_reh_1.139.0-insider.txt,vscodium_reh_1.135.06055.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -947,6 +947,7 @@ node_modules/@github/copilot-linux-x64/definitions/task.split.agent.yaml,,Y,,,
 node_modules/@github/copilot-linux-x64/index.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/npm-loader.js,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/package.json,,Y,Y,Y,
+node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/cli-native.node,,,,Y,
 node_modules/@github/copilot-linux-x64/prebuilds/linux-x64/runtime.node,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/preloads/extension_bootstrap.mjs,,Y,Y,Y,
 node_modules/@github/copilot-linux-x64/preloads/extension_sdk_resolver.mjs,,Y,Y,Y,
