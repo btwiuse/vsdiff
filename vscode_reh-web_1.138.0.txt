@@ -580,8 +580,6 @@ extensions/markdown-language-features/notebook-out/index.js
 extensions/markdown-language-features/package.json
 extensions/markdown-language-features/package.nls.json
 extensions/markdown-language-features/schemas/package.schema.json
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.mts
-extensions/markdown-language-features/scripts/updateMarkdownEditorPackageJson.test.mts
 extensions/markdown-math/README.md
 extensions/markdown-math/dist/extension.js
 extensions/markdown-math/icon.png
@@ -1220,7 +1218,10 @@ node_modules/@github/copilot-linux-x64/README.md
 node_modules/@github/copilot-linux-x64/animations/app-install-nudge.json.gz
 node_modules/@github/copilot-linux-x64/animations/banner.json.gz
 node_modules/@github/copilot-linux-x64/app.js
+node_modules/@github/copilot-linux-x64/assets/copilot.ico
 node_modules/@github/copilot-linux-x64/assets/copilot.png
+node_modules/@github/copilot-linux-x64/assets/copilot.svg
+node_modules/@github/copilot-linux-x64/assets/copilot_win.png
 node_modules/@github/copilot-linux-x64/builtin-skills/customize-cloud-agent/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin-skills/discover-resources/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin-skills/github-pr-media/SKILL.md
@@ -1318,6 +1319,7 @@ node_modules/@github/copilot-linux-x64/voice-installer.worker.js
 node_modules/@github/copilot-linux-x64/voice-server.js
 node_modules/@github/copilot-sdk/dist/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/canvas.js
+node_modules/@github/copilot-sdk/dist/cjs/cliVersion.js
 node_modules/@github/copilot-sdk/dist/cjs/client.js
 node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/cjs/extension.js
@@ -1334,6 +1336,7 @@ node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js
 node_modules/@github/copilot-sdk/dist/cjs/telemetry.js
 node_modules/@github/copilot-sdk/dist/cjs/toolSet.js
 node_modules/@github/copilot-sdk/dist/cjs/types.js
+node_modules/@github/copilot-sdk/dist/cliVersion.js
 node_modules/@github/copilot-sdk/dist/client.js
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js
 node_modules/@github/copilot-sdk/dist/extension.js
