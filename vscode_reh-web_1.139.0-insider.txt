@@ -1466,6 +1466,7 @@ node_modules/@github/copilot-linux-x64/builtin/discover-resources/SKILL.md
 node_modules/@github/copilot-linux-x64/builtin/github-pr-media/SKILL.md
 node_modules/@github/copilot-linux-x64/changelog.json
 node_modules/@github/copilot-linux-x64/copilot-sdk/canvas.d.ts
+node_modules/@github/copilot-linux-x64/copilot-sdk/cliVersion.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/client.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/copilotRequestHandler.d.ts
 node_modules/@github/copilot-linux-x64/copilot-sdk/docs/agent-author.md
