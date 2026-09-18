@@ -1517,6 +1517,7 @@ node_modules/@vscode/codicons/src/icons/graph-left.svg
 node_modules/@vscode/codicons/src/icons/graph-line.svg
 node_modules/@vscode/codicons/src/icons/graph-scatter.svg
 node_modules/@vscode/codicons/src/icons/graph.svg
+node_modules/@vscode/codicons/src/icons/gripper-corner.svg
 node_modules/@vscode/codicons/src/icons/gripper.svg
 node_modules/@vscode/codicons/src/icons/group-by-ref-type.svg
 node_modules/@vscode/codicons/src/icons/heart-filled.svg
@@ -1605,6 +1606,7 @@ node_modules/@vscode/codicons/src/icons/mention.svg
 node_modules/@vscode/codicons/src/icons/menu.svg
 node_modules/@vscode/codicons/src/icons/merge-into.svg
 node_modules/@vscode/codicons/src/icons/merge.svg
+node_modules/@vscode/codicons/src/icons/metered-connection.svg
 node_modules/@vscode/codicons/src/icons/mic-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download-compact.svg
 node_modules/@vscode/codicons/src/icons/mic-download.svg
