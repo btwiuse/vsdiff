@@ -1035,6 +1035,7 @@ node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/examples.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/extensions.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/factories.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/factory-patterns.md
+node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/workflows.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/extension.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/extension.js
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/factory.d.ts
@@ -1044,12 +1045,14 @@ node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/generated/session-events.
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/index.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/index.js
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
+node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/schema.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/sdkProtocolVersion.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/session.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/sessionFsProvider.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/telemetry.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/toolSet.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/types.d.ts
+node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/workflow.d.ts
 node_modules/@github/copilot-sdk-linux-x64/definitions/code-review.agent.yaml
 node_modules/@github/copilot-sdk-linux-x64/definitions/explore.agent.yaml
 node_modules/@github/copilot-sdk-linux-x64/definitions/rem-agent.agent.yaml
@@ -1074,7 +1077,6 @@ node_modules/@github/copilot-sdk-linux-x64/preloads/extension_sdk_resolver.mjs
 node_modules/@github/copilot-sdk-linux-x64/ripgrep/bin/linux-x64/rg
 node_modules/@github/copilot-sdk-linux-x64/schemas/api.schema.json
 node_modules/@github/copilot-sdk-linux-x64/schemas/session-events.schema.json
-node_modules/@github/copilot-sdk-linux-x64/sdk/index.js
 node_modules/@github/copilot-sdk-linux-x64/tgrep/bin/linux-x64/tgrep
 node_modules/@github/copilot-sdk/dist/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/canvas.js
@@ -1096,6 +1098,7 @@ node_modules/@github/copilot-sdk/dist/cjs/sessionFsProvider.js
 node_modules/@github/copilot-sdk/dist/cjs/telemetry.js
 node_modules/@github/copilot-sdk/dist/cjs/toolSet.js
 node_modules/@github/copilot-sdk/dist/cjs/types.js
+node_modules/@github/copilot-sdk/dist/cjs/workflow.js
 node_modules/@github/copilot-sdk/dist/cliVersion.js
 node_modules/@github/copilot-sdk/dist/client.js
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js
@@ -1113,6 +1116,7 @@ node_modules/@github/copilot-sdk/dist/sessionFsProvider.js
 node_modules/@github/copilot-sdk/dist/telemetry.js
 node_modules/@github/copilot-sdk/dist/toolSet.js
 node_modules/@github/copilot-sdk/dist/types.js
+node_modules/@github/copilot-sdk/dist/workflow.js
 node_modules/@github/copilot-sdk/node_modules/zod/LICENSE
 node_modules/@github/copilot-sdk/node_modules/zod/index.cjs
 node_modules/@github/copilot-sdk/node_modules/zod/index.d.cts
