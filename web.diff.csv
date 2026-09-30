@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26254.txt,vscode_web_1.139.1.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.141.0-insider.txt
+File,codigo_web_1.100.0.26254.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.140.0.txt,vscode_web_1.141.0-insider.txt
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
@@ -2222,7 +2222,7 @@ out/vs/platform/accessibilitySignal/browser/media/chatUserActionRequired.mp3,,Y,
 out/vs/platform/accessibilitySignal/browser/media/clear.mp3,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionApplied.mp3,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/codeActionTriggered.mp3,,Y,Y,Y
-out/vs/platform/accessibilitySignal/browser/media/confetti.mp3,,,,Y
+out/vs/platform/accessibilitySignal/browser/media/confetti.mp3,,,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/diffLineDeleted.mp3,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/diffLineInserted.mp3,,Y,Y,Y
 out/vs/platform/accessibilitySignal/browser/media/diffLineModified.mp3,,Y,Y,Y
