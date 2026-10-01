@@ -1465,6 +1465,7 @@ node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/extension.js
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/ffiRuntimeHost.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/generated/rpc.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/generated/session-events.d.ts
+node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/host.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/index.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/index.js
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/installationConfirmation.d.ts
@@ -1511,6 +1512,7 @@ node_modules/@github/copilot-sdk/dist/cjs/extension.js
 node_modules/@github/copilot-sdk/dist/cjs/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/session-events.js
+node_modules/@github/copilot-sdk/dist/cjs/host.js
 node_modules/@github/copilot-sdk/dist/cjs/index.js
 node_modules/@github/copilot-sdk/dist/cjs/installationConfirmation.js
 node_modules/@github/copilot-sdk/dist/cjs/package.json
@@ -1530,6 +1532,7 @@ node_modules/@github/copilot-sdk/dist/extension.js
 node_modules/@github/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/generated/rpc.js
 node_modules/@github/copilot-sdk/dist/generated/session-events.js
+node_modules/@github/copilot-sdk/dist/host.js
 node_modules/@github/copilot-sdk/dist/index.js
 node_modules/@github/copilot-sdk/dist/installationConfirmation.js
 node_modules/@github/copilot-sdk/dist/runtimeArtifacts.js
