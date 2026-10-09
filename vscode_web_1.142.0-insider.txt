@@ -409,9 +409,16 @@ extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DE
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js
 extensions/markdown-language-features/markdown-editor-out/web-editors-DDTUQMOM.js
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js
+extensions/markdown-language-features/markdown-editor-src/completionController.ts
+extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts
+extensions/markdown-language-features/markdown-editor-src/diagnosticsController.ts
 extensions/markdown-language-features/markdown-editor-src/editor.ts
+extensions/markdown-language-features/markdown-editor-src/imagePasteController.ts
+extensions/markdown-language-features/markdown-editor-src/languageFeatures.css
 extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts
 extensions/markdown-language-features/markdown-editor-src/markdownEditor.css
+extensions/markdown-language-features/markdown-editor-src/rename.css
+extensions/markdown-language-features/markdown-editor-src/renameController.ts
 extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json
 extensions/markdown-language-features/media/highlight.css
@@ -2322,6 +2329,10 @@ out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-9
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-stable-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-love-stable-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-painting-insiders-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-painting-insiders-96.spritesheet.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-painting-stable-96.png
+out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-painting-stable-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-press-button-insiders-96.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-press-button-insiders-96.spritesheet.png
 out/vs/workbench/contrib/chat/browser/widget/media/chatPet/buddy-press-button-stable-96.png
