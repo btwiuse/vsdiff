@@ -407,7 +407,7 @@ extensions/markdown-language-features/markdown-editor-out/treemap-WGGIJYW6-NFXJP
 extensions/markdown-language-features/markdown-editor-out/vennDiagram-4TSXK5OY-72LU5BAD.js
 extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DEZYA.js
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-DDTUQMOM.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-AIOODYGJ.js
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js
 extensions/markdown-language-features/markdown-editor-src/completionController.ts
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts
@@ -1710,6 +1710,7 @@ node_modules/@vscode/codicons/src/icons/repo-pull.svg
 node_modules/@vscode/codicons/src/icons/repo-push.svg
 node_modules/@vscode/codicons/src/icons/repo-selected.svg
 node_modules/@vscode/codicons/src/icons/repo.svg
+node_modules/@vscode/codicons/src/icons/report-question.svg
 node_modules/@vscode/codicons/src/icons/report.svg
 node_modules/@vscode/codicons/src/icons/request-changes.svg
 node_modules/@vscode/codicons/src/icons/right-panel-hide.svg

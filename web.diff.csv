@@ -491,7 +491,7 @@ extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DE
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js,,,,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-HWCL2ERH.js,,,Y,
-extensions/markdown-language-features/markdown-editor-out/web-editors-DDTUQMOM.js,,,,Y
+extensions/markdown-language-features/markdown-editor-out/web-editors-AIOODYGJ.js,,,,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/completionController.ts,,,,Y
@@ -1907,6 +1907,7 @@ node_modules/@vscode/codicons/src/icons/repo-pull.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/repo-push.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/repo-selected.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/repo.svg,,Y,Y,Y
+node_modules/@vscode/codicons/src/icons/report-question.svg,,,,Y
 node_modules/@vscode/codicons/src/icons/report.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/request-changes.svg,,Y,Y,Y
 node_modules/@vscode/codicons/src/icons/right-panel-hide.svg,,Y,Y,Y
