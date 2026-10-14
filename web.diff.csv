@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26254.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.141.1.txt,vscode_web_1.142.0-insider.txt
+File,codigo_web_1.100.0.26254.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.141.1.txt,vscode_web_1.143.0-insider.txt
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
@@ -491,9 +491,10 @@ extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DE
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js,,,,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-HWCL2ERH.js,,,Y,
-extensions/markdown-language-features/markdown-editor-out/web-editors-AIOODYGJ.js,,,,Y
+extensions/markdown-language-features/markdown-editor-out/web-editors-DFPQKJS3.js,,,,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js,,,Y,Y
+extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/completionController.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/diagnosticsController.ts,,,,Y
@@ -505,6 +506,10 @@ extensions/markdown-language-features/markdown-editor-src/markdownEditor.css,,Y,
 extensions/markdown-language-features/markdown-editor-src/rename.css,,,,Y
 extensions/markdown-language-features/markdown-editor-src/renameController.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/syntaxHighlighter.ts,,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-src/taskProgress/taskProgress.html,,,,Y
+extensions/markdown-language-features/markdown-editor-src/taskProgress/taskProgressGuest.ts,,,,Y
+extensions/markdown-language-features/markdown-editor-src/taskProgress/taskProgressProtocol.ts,,,,Y
+extensions/markdown-language-features/markdown-editor-src/taskProgress/taskProgressProvider.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/tsconfig.json,,Y,Y,Y
 extensions/markdown-language-features/media/highlight.css,,Y,Y,Y
 extensions/markdown-language-features/media/index.js,,Y,Y,Y
