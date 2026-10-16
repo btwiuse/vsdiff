@@ -43,6 +43,8 @@ extensions/copilot/ThirdPartyNotices.txt,,Y,Y,Y,
 extensions/copilot/assets/copilot.png,,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,,Y,Y,Y,
 extensions/copilot/assets/debug-icon.svg,,Y,Y,Y,
+extensions/copilot/assets/openrouter-dark.svg,,,,Y,
+extensions/copilot/assets/openrouter-light.svg,,,,Y,
 extensions/copilot/assets/prompts/chronicle-cost-tips.prompt.md,,Y,Y,Y,
 extensions/copilot/assets/prompts/chronicle-improve.prompt.md,,Y,Y,Y,
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md,,Y,Y,Y,
@@ -74,7 +76,7 @@ extensions/copilot/assets/prompts/skills/project-setup-info-local/SKILL.md,,Y,Y,
 extensions/copilot/assets/prompts/skills/troubleshoot/SKILL.md,,Y,Y,Y,
 extensions/copilot/changelog.md,,Y,Y,Y,
 extensions/copilot/dist/cl100k_base.tiktoken,,Y,Y,Y,
-extensions/copilot/dist/copilotCLIShim.js,,Y,Y,Y,
+extensions/copilot/dist/copilotCLIShim.js,,Y,Y,,
 extensions/copilot/dist/copilotCLITodoWorker.js,,Y,Y,Y,
 extensions/copilot/dist/copilotDebugCommand.js,,Y,Y,Y,
 extensions/copilot/dist/diffWorker.js,,Y,Y,Y,
@@ -522,13 +524,14 @@ extensions/markdown-language-features/markdown-editor-out/chunk-MIQRJRCS.js,,,Y,
 extensions/markdown-language-features/markdown-editor-out/chunk-MNHOAW4R.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-NLCJ5AKJ.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js,,Y,Y,Y,Y
-extensions/markdown-language-features/markdown-editor-out/chunk-PWEKQ4LV.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-out/chunk-PWEKQ4LV.js,,,Y,,
 extensions/markdown-language-features/markdown-editor-out/chunk-R7CM4BQN.js,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-RBL2QVA3.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-SNGMH3JW.js,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-TGD3YKTU.js,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-TGYBLZFN.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-TMNKNJTS.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-out/chunk-TW5SUAWL.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/chunk-U3E5RSXE.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-U7TCJVVP.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-WFTXMEE5.js,,,Y,Y,
@@ -634,9 +637,10 @@ extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DE
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-out/web-editors-AIOODYGJ.js,,,Y,,
-extensions/markdown-language-features/markdown-editor-out/web-editors-DFPQKJS3.js,,,,Y,
+extensions/markdown-language-features/markdown-editor-out/web-editors-OF2AUZY5.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts,,,,Y,
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts,,,,Y,
 extensions/markdown-language-features/markdown-editor-src/completionController.ts,,,Y,Y,
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts,,,Y,Y,

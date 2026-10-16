@@ -36,6 +36,8 @@ extensions/copilot/ThirdPartyNotices.txt
 extensions/copilot/assets/copilot.png
 extensions/copilot/assets/copilot.woff
 extensions/copilot/assets/debug-icon.svg
+extensions/copilot/assets/openrouter-dark.svg
+extensions/copilot/assets/openrouter-light.svg
 extensions/copilot/assets/prompts/chronicle-cost-tips.prompt.md
 extensions/copilot/assets/prompts/chronicle-improve.prompt.md
 extensions/copilot/assets/prompts/chronicle-reindex.prompt.md
@@ -67,7 +69,6 @@ extensions/copilot/assets/prompts/skills/project-setup-info-local/SKILL.md
 extensions/copilot/assets/prompts/skills/troubleshoot/SKILL.md
 extensions/copilot/changelog.md
 extensions/copilot/dist/cl100k_base.tiktoken
-extensions/copilot/dist/copilotCLIShim.js
 extensions/copilot/dist/copilotCLITodoWorker.js
 extensions/copilot/dist/copilotDebugCommand.js
 extensions/copilot/dist/diffWorker.js
@@ -501,11 +502,11 @@ extensions/markdown-language-features/markdown-editor-out/chunk-K2JFJOPP.js
 extensions/markdown-language-features/markdown-editor-out/chunk-LWO52Q4K.js
 extensions/markdown-language-features/markdown-editor-out/chunk-MIQRJRCS.js
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js
-extensions/markdown-language-features/markdown-editor-out/chunk-PWEKQ4LV.js
 extensions/markdown-language-features/markdown-editor-out/chunk-R7CM4BQN.js
 extensions/markdown-language-features/markdown-editor-out/chunk-SNGMH3JW.js
 extensions/markdown-language-features/markdown-editor-out/chunk-TGD3YKTU.js
 extensions/markdown-language-features/markdown-editor-out/chunk-TMNKNJTS.js
+extensions/markdown-language-features/markdown-editor-out/chunk-TW5SUAWL.js
 extensions/markdown-language-features/markdown-editor-out/chunk-WFTXMEE5.js
 extensions/markdown-language-features/markdown-editor-out/chunk-WSHCWW4Q.js
 extensions/markdown-language-features/markdown-editor-out/chunk-WU5PZWUP.js
@@ -569,8 +570,9 @@ extensions/markdown-language-features/markdown-editor-out/treemap-WGGIJYW6-NFXJP
 extensions/markdown-language-features/markdown-editor-out/vennDiagram-4TSXK5OY-72LU5BAD.js
 extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DEZYA.js
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-DFPQKJS3.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-OF2AUZY5.js
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js
+extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts
 extensions/markdown-language-features/markdown-editor-src/completionController.ts
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts
