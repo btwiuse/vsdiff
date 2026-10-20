@@ -1840,6 +1840,7 @@ node_modules/@vscode/codicons/src/icons/triangle-down.svg
 node_modules/@vscode/codicons/src/icons/triangle-left.svg
 node_modules/@vscode/codicons/src/icons/triangle-right.svg
 node_modules/@vscode/codicons/src/icons/triangle-up.svg
+node_modules/@vscode/codicons/src/icons/trophy.svg
 node_modules/@vscode/codicons/src/icons/twitter.svg
 node_modules/@vscode/codicons/src/icons/type-hierarchy-sub.svg
 node_modules/@vscode/codicons/src/icons/type-hierarchy-super.svg
