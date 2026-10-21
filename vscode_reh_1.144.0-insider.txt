@@ -47,9 +47,7 @@ extensions/copilot/assets/prompts/skills/create-hook/SKILL.md
 extensions/copilot/assets/prompts/skills/create-instructions/SKILL.md
 extensions/copilot/assets/prompts/skills/create-prompt/SKILL.md
 extensions/copilot/assets/prompts/skills/create-skill/SKILL.md
-extensions/copilot/assets/prompts/skills/get-search-view-results/SKILL.md
 extensions/copilot/assets/prompts/skills/init/SKILL.md
-extensions/copilot/assets/prompts/skills/install-vscode-extension/SKILL.md
 extensions/copilot/assets/prompts/skills/migrate-customizations/SKILL.md
 extensions/copilot/assets/prompts/skills/migrate-customizations/references/migration-techniques.md
 extensions/copilot/assets/prompts/skills/project-setup-info-context7/SKILL.md
