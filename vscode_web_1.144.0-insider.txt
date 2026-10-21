@@ -305,7 +305,7 @@ extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
 extensions/markdown-language-features/markdown-editor-out/mermaid-Y54CSFRA.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-OF2AUZY5.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-X7FTGIVC.js
 extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts
 extensions/markdown-language-features/markdown-editor-src/completionController.ts
