@@ -4154,6 +4154,7 @@ out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
+out/vs/platform/agentHost/browser/agentHostCryptoModule.js
 out/vs/platform/agentHost/node/agentHostMain.js
 out/vs/platform/agentHost/node/diffWorkerMain.js
 out/vs/platform/files/node/watcher/watcherMain.js

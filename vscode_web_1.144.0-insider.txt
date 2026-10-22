@@ -2151,6 +2151,7 @@ out/vs/platform/accessibilitySignal/browser/media/terminalCommandSucceeded.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStarted.mp3
 out/vs/platform/accessibilitySignal/browser/media/voiceRecordingStopped.mp3
 out/vs/platform/accessibilitySignal/browser/media/warning.mp3
+out/vs/platform/agentHost/browser/agentHostCryptoModule.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
 out/vs/sessions/contrib/providers/remoteAgentHost/browser/devTunnelsModule.js
