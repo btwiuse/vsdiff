@@ -304,7 +304,7 @@ extensions/markdown-language-features/markdown-editor-out/chunk-TW5SUAWL.js
 extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-FD6HYDOJ.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-W54PJBIY.js
 extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts
 extensions/markdown-language-features/markdown-editor-src/completionController.ts

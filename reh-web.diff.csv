@@ -74,6 +74,7 @@ extensions/copilot/assets/prompts/skills/migrate-customizations/SKILL.md,,,Y,Y,
 extensions/copilot/assets/prompts/skills/migrate-customizations/references/migration-techniques.md,,,Y,Y,
 extensions/copilot/assets/prompts/skills/project-setup-info-context7/SKILL.md,,Y,Y,,
 extensions/copilot/assets/prompts/skills/project-setup-info-local/SKILL.md,,Y,Y,,
+extensions/copilot/assets/prompts/skills/record-video/SKILL.md,,,,Y,
 extensions/copilot/assets/prompts/skills/troubleshoot/SKILL.md,,Y,Y,Y,
 extensions/copilot/changelog.md,,Y,Y,Y,
 extensions/copilot/dist/cl100k_base.tiktoken,,Y,Y,Y,
@@ -637,8 +638,8 @@ extensions/markdown-language-features/markdown-editor-out/vennDiagram-4TSXK5OY-P
 extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DEZYA.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js,,,,,Y
-extensions/markdown-language-features/markdown-editor-out/web-editors-FD6HYDOJ.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/web-editors-OF2AUZY5.js,,,,,Y
+extensions/markdown-language-features/markdown-editor-out/web-editors-W54PJBIY.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/web-editors-X7FTGIVC.js,,,Y,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js,,,,,Y
