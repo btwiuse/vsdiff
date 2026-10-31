@@ -1497,6 +1497,7 @@ node_modules/@vscode/codicons/src/icons/gift.svg
 node_modules/@vscode/codicons/src/icons/gist-secret.svg
 node_modules/@vscode/codicons/src/icons/gist.svg
 node_modules/@vscode/codicons/src/icons/git-branch-changes.svg
+node_modules/@vscode/codicons/src/icons/git-branch-checkout.svg
 node_modules/@vscode/codicons/src/icons/git-branch-compact.svg
 node_modules/@vscode/codicons/src/icons/git-branch-conflicts.svg
 node_modules/@vscode/codicons/src/icons/git-branch-staged-changes.svg
