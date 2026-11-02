@@ -1474,6 +1474,7 @@ node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/agent-author.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/examples.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/extensions.md
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/docs/workflows.md
+node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/entra.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/extension.d.ts
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/extension.js
 node_modules/@github/copilot-sdk-linux-x64/copilot-sdk/ffiRuntimeHost.d.ts
@@ -1537,6 +1538,7 @@ node_modules/@github/copilot-sdk/dist/cjs/canvas.js
 node_modules/@github/copilot-sdk/dist/cjs/cliVersion.js
 node_modules/@github/copilot-sdk/dist/cjs/client.js
 node_modules/@github/copilot-sdk/dist/cjs/copilotRequestHandler.js
+node_modules/@github/copilot-sdk/dist/cjs/entra.js
 node_modules/@github/copilot-sdk/dist/cjs/extension.js
 node_modules/@github/copilot-sdk/dist/cjs/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/cjs/generated/rpc.js
@@ -1557,6 +1559,7 @@ node_modules/@github/copilot-sdk/dist/cjs/workflow.js
 node_modules/@github/copilot-sdk/dist/cliVersion.js
 node_modules/@github/copilot-sdk/dist/client.js
 node_modules/@github/copilot-sdk/dist/copilotRequestHandler.js
+node_modules/@github/copilot-sdk/dist/entra.js
 node_modules/@github/copilot-sdk/dist/extension.js
 node_modules/@github/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@github/copilot-sdk/dist/generated/rpc.js
