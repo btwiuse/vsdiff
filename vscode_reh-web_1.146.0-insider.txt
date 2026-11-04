@@ -4255,6 +4255,10 @@ out/vs/platform/files/node/watcher/watcherMain.js
 out/vs/platform/terminal/node/ptyHostMain.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
+out/vs/sessions/services/chatBackground/browser/media/koi-dark-static.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-dark.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-light-static.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-light.webp
 out/vs/workbench/api/node/extensionHostProcess.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
 out/vs/workbench/browser/media/code-icon.svg
