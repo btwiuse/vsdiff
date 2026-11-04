@@ -2179,6 +2179,10 @@ out/vs/platform/agentHost/browser/agentHostCryptoModule.js
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-dark.svg
 out/vs/sessions/contrib/chat/browser/media/letterpress-sessions-light.svg
 out/vs/sessions/contrib/providers/remoteAgentHost/browser/devTunnelsModule.js
+out/vs/sessions/services/chatBackground/browser/media/koi-dark-static.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-dark.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-light-static.webp
+out/vs/sessions/services/chatBackground/browser/media/koi-light.webp
 out/vs/sessions/sessions.web.main.internal.css
 out/vs/sessions/sessions.web.main.internal.js
 out/vs/workbench/api/worker/extensionHostWorkerMain.js
