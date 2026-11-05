@@ -1092,6 +1092,7 @@ node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/dist/browser-run-
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/dist/native-host.cjs
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/hooks/hooks.json
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/scripts/activate.mjs
+node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/scripts/browserPrerequisites.d.mts
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/scripts/deactivate.mjs
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/scripts/doctor.mjs
 node_modules/@github/copilot-sdk-linux-x64/plugins/browser-use/scripts/nativeMessagingRegistration.mjs
@@ -1104,6 +1105,7 @@ node_modules/@github/copilot-sdk-linux-x64/prebuilds/linux-x64/copilot-runtime
 node_modules/@github/copilot-sdk-linux-x64/prebuilds/linux-x64/runtime.node
 node_modules/@github/copilot-sdk-linux-x64/preloads/extension_bootstrap.mjs
 node_modules/@github/copilot-sdk-linux-x64/preloads/extension_sdk_resolver.mjs
+node_modules/@github/copilot-sdk-linux-x64/restart-supervisor.js
 node_modules/@github/copilot-sdk-linux-x64/ripgrep/bin/linux-x64/rg
 node_modules/@github/copilot-sdk-linux-x64/schemas/api.schema.json
 node_modules/@github/copilot-sdk-linux-x64/schemas/lifecycle-diagnostics.schema.json
