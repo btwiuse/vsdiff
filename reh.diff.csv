@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.140.0-exploration.txt,vscode_reh_1.145.2.txt,vscode_reh_1.146.0-insider.txt,vscodium_reh_1.143.17232.txt
+File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.140.0-exploration.txt,vscode_reh_1.145.3.txt,vscode_reh_1.146.0-insider.txt,vscodium_reh_1.143.17232.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -1527,7 +1527,7 @@ extensions/ms-vscode.js-debug-companion/out/extension.js,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug-companion/package.json,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug-companion/resources/logo.png,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/LICENSE.txt,,Y,Y,Y,Y
-extensions/ms-vscode.js-debug/ThirdPartyNotices.txt,,Y,Y,Y,Y
+extensions/ms-vscode.js-debug/ThirdPartyNotices.txt,,Y,,Y,Y
 extensions/ms-vscode.js-debug/package.json,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/package.nls.json,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/readme.md,,Y,Y,Y,Y
@@ -1587,7 +1587,7 @@ extensions/ms-vscode.js-debug/src/vendor/acorn.js,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/watchdog.js,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-arm64-msvc-4ZJZ3U55.node,,Y,Y,Y,Y
 extensions/ms-vscode.js-debug/src/win32-app-container-tokens.win32-x64-msvc-VCQE7GJP.node,,Y,Y,Y,Y
-extensions/ms-vscode.js-debug/telemetry.json,,Y,Y,Y,Y
+extensions/ms-vscode.js-debug/telemetry.json,,Y,,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/ThirdPartyNotices.txt,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/ci.yml,,Y,Y,Y,Y
 extensions/ms-vscode.vscode-js-profile-table/out/425.heapsnapshotWorker.js,,Y,Y,Y,Y
