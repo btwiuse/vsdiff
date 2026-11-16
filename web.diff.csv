@@ -4,6 +4,8 @@ code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/LICENSE.txt,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/dist/extension.js,,,Y,Y
+extensions/TypeScriptTeam.jsts-chat-features/docs/project-setup-telemetry.md,,,,Y
+extensions/TypeScriptTeam.jsts-chat-features/docs/typescript-update-telemetry.md,,,,Y
 extensions/TypeScriptTeam.jsts-chat-features/logo.png,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/package.json,,Y,Y,Y
 extensions/TypeScriptTeam.jsts-chat-features/readme.md,,Y,Y,Y
