@@ -1892,7 +1892,7 @@ node_modules/@vscode/codicons/svgo.config.js
 node_modules/@vscode/diff/dist/api.js
 node_modules/@vscode/diff/dist/core.js
 node_modules/@vscode/diff/dist/defaultLinesDiffComputer.js
-node_modules/@vscode/diff/dist/diff_wasm_bg-DWjDLHxS.wasm
+node_modules/@vscode/diff/dist/diff_wasm_bg-Cg3Hf-rz.wasm
 node_modules/@vscode/diff/dist/index.js
 node_modules/@vscode/diff/dist/wire.js
 node_modules/@vscode/diff/dist/worker.js

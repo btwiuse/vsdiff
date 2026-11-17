@@ -1,4 +1,4 @@
-File,codigo_reh-web_1.100.0.26254.txt,vscode_reh-web_1.140.0-exploration.txt,vscode_reh-web_1.146.0.txt,vscode_reh-web_1.147.0-insider.txt,vscodium_reh-web_1.143.17232.txt
+File,codigo_reh-web_1.100.0.26254.txt,vscode_reh-web_1.140.0-exploration.txt,vscode_reh-web_1.146.0.txt,vscode_reh-web_1.148.0-insider.txt,vscodium_reh-web_1.143.17232.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -41,7 +41,9 @@ extensions/configuration-editing/images/icon.png,,Y,Y,Y,Y
 extensions/configuration-editing/package.json,,Y,Y,Y,Y
 extensions/configuration-editing/package.nls.json,,Y,Y,Y,Y
 extensions/configuration-editing/schemas/attachContainer.schema.json,,Y,Y,Y,Y
+extensions/copilot/CHANGELOG.md,,,,Y,
 extensions/copilot/LICENSE.txt,,Y,Y,Y,
+extensions/copilot/README.md,,,,Y,
 extensions/copilot/ThirdPartyNotices.txt,,Y,Y,,
 extensions/copilot/assets/copilot.png,,Y,Y,Y,
 extensions/copilot/assets/copilot.woff,,Y,Y,Y,
@@ -78,7 +80,7 @@ extensions/copilot/assets/prompts/skills/project-setup-info-context7/SKILL.md,,Y
 extensions/copilot/assets/prompts/skills/project-setup-info-local/SKILL.md,,Y,,,
 extensions/copilot/assets/prompts/skills/record-video/SKILL.md,,,Y,Y,
 extensions/copilot/assets/prompts/skills/troubleshoot/SKILL.md,,Y,Y,Y,
-extensions/copilot/changelog.md,,Y,Y,Y,
+extensions/copilot/changelog.md,,Y,Y,,
 extensions/copilot/dist/cl100k_base.tiktoken,,Y,Y,Y,
 extensions/copilot/dist/copilotCLIShim.js,,Y,,,
 extensions/copilot/dist/copilotCLITodoWorker.js,,Y,Y,Y,
@@ -143,7 +145,7 @@ extensions/copilot/package.nls.ru.json,,Y,Y,Y,
 extensions/copilot/package.nls.tr.json,,Y,Y,Y,
 extensions/copilot/package.nls.zh-cn.json,,Y,Y,Y,
 extensions/copilot/package.nls.zh-tw.json,,Y,Y,Y,
-extensions/copilot/readme.md,,Y,Y,Y,
+extensions/copilot/readme.md,,Y,Y,,
 extensions/copilot/telemetry.json,,Y,Y,Y,
 extensions/cpp/language-configuration.json,,Y,Y,Y,Y
 extensions/cpp/package.json,,Y,Y,Y,Y
@@ -3350,7 +3352,7 @@ node_modules/@vscode/diff/SECURITY.md,,,,Y,
 node_modules/@vscode/diff/dist/api.js,,,,Y,
 node_modules/@vscode/diff/dist/core.js,,,,Y,
 node_modules/@vscode/diff/dist/defaultLinesDiffComputer.js,,,,Y,
-node_modules/@vscode/diff/dist/diff_wasm_bg-DWjDLHxS.wasm,,,,Y,
+node_modules/@vscode/diff/dist/diff_wasm_bg-Cg3Hf-rz.wasm,,,,Y,
 node_modules/@vscode/diff/dist/index.js,,,,Y,
 node_modules/@vscode/diff/dist/wire.js,,,,Y,
 node_modules/@vscode/diff/dist/worker.js,,,,Y,
