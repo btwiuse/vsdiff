@@ -1858,6 +1858,7 @@ node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/extension.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/extension.js
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/ffiRuntimeHost.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/generated/lifecycle-diagnostics.d.ts
+node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/generated/options-compatibility.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/generated/rpc.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/generated/session-events.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/host.d.ts
@@ -1866,6 +1867,7 @@ node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/index.js
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/installationConfirmation.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/jsonrpcTypes.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/localModelJson.d.ts
+node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/optionsCompatibility.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/providerConfiguration.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/rpcCancellation.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/runtimeArtifacts.d.ts
@@ -1933,6 +1935,7 @@ node_modules/@microsoft/copilot-sdk/dist/cjs/entra.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/extension.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/ffiRuntimeHost.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/generated/lifecycle-diagnostics.js
+node_modules/@microsoft/copilot-sdk/dist/cjs/generated/options-compatibility.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/generated/rpc.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/generated/session-events.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/host.js
@@ -1940,6 +1943,7 @@ node_modules/@microsoft/copilot-sdk/dist/cjs/index.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/installationConfirmation.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/jsonrpcTypes.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/localModelJson.js
+node_modules/@microsoft/copilot-sdk/dist/cjs/optionsCompatibility.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/package.json
 node_modules/@microsoft/copilot-sdk/dist/cjs/providerConfiguration.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/rpcCancellation.js
@@ -1961,6 +1965,7 @@ node_modules/@microsoft/copilot-sdk/dist/entra.js
 node_modules/@microsoft/copilot-sdk/dist/extension.js
 node_modules/@microsoft/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@microsoft/copilot-sdk/dist/generated/lifecycle-diagnostics.js
+node_modules/@microsoft/copilot-sdk/dist/generated/options-compatibility.js
 node_modules/@microsoft/copilot-sdk/dist/generated/rpc.js
 node_modules/@microsoft/copilot-sdk/dist/generated/session-events.js
 node_modules/@microsoft/copilot-sdk/dist/host.js
@@ -1968,6 +1973,7 @@ node_modules/@microsoft/copilot-sdk/dist/index.js
 node_modules/@microsoft/copilot-sdk/dist/installationConfirmation.js
 node_modules/@microsoft/copilot-sdk/dist/jsonrpcTypes.js
 node_modules/@microsoft/copilot-sdk/dist/localModelJson.js
+node_modules/@microsoft/copilot-sdk/dist/optionsCompatibility.js
 node_modules/@microsoft/copilot-sdk/dist/providerConfiguration.js
 node_modules/@microsoft/copilot-sdk/dist/rpcCancellation.js
 node_modules/@microsoft/copilot-sdk/dist/runtimeArtifacts.js
