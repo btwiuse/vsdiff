@@ -394,6 +394,7 @@ extensions/markdown-language-features/markdown-editor-out/chunk-MIQRJRCS.js,,,,,
 extensions/markdown-language-features/markdown-editor-out/chunk-MNHOAW4R.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/chunk-NLCJ5AKJ.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js,,Y,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-out/chunk-PZVESA3C.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/chunk-R7CM4BQN.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-RBL2QVA3.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/chunk-SNGMH3JW.js,,Y,,,Y
@@ -411,7 +412,7 @@ extensions/markdown-language-features/markdown-editor-out/chunk-XCMS6RVA.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/chunk-XKYOMNGH.js,,,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-XL5YO2U3.js,,,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-XM54GAH3.js,,Y,,,
-extensions/markdown-language-features/markdown-editor-out/chunk-XWFVVLTR.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-out/chunk-XWFVVLTR.js,,,Y,,
 extensions/markdown-language-features/markdown-editor-out/chunk-YICKNY6Y.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-YNKYB66X.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/chunk-ZMBQGVIF.js,,Y,,,Y
@@ -506,8 +507,9 @@ extensions/markdown-language-features/markdown-editor-out/vennDiagram-4TSXK5OY-P
 extensions/markdown-language-features/markdown-editor-out/wardley-WFR3VGLG-MQ6DEZYA.js,,Y,,,Y
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-46KJTB57.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/wardleyDiagram-VM6X3IG4-ETFGHXUH.js,,,,,Y
+extensions/markdown-language-features/markdown-editor-out/web-editors-6AKHSM3H.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/web-editors-OF2AUZY5.js,,,,,Y
-extensions/markdown-language-features/markdown-editor-out/web-editors-VMU2SW64.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-out/web-editors-VMU2SW64.js,,,Y,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-NSN5W7VL.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/xychartDiagram-S5SC5T6Z-U2WWC4EI.js,,,,,Y
 extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts,,,Y,Y,Y
@@ -3114,11 +3116,12 @@ node_modules/@vscode/diff/LICENSE,,,Y,Y,
 node_modules/@vscode/diff/SECURITY.md,,,Y,Y,
 node_modules/@vscode/diff/dist/api.js,,,Y,Y,
 node_modules/@vscode/diff/dist/core.js,,,Y,Y,
-node_modules/@vscode/diff/dist/defaultLinesDiffComputer.js,,,Y,Y,
-node_modules/@vscode/diff/dist/diff_wasm_bg-Cg3Hf-rz.wasm,,,,Y,
+node_modules/@vscode/diff/dist/defaultLinesDiffComputer.js,,,Y,,
+node_modules/@vscode/diff/dist/diff_wasm_bg-DOQYEGe4.wasm,,,,Y,
 node_modules/@vscode/diff/dist/diff_wasm_bg-DWjDLHxS.wasm,,,Y,,
+node_modules/@vscode/diff/dist/flatDiffResult.js,,,,Y,
 node_modules/@vscode/diff/dist/index.js,,,Y,Y,
-node_modules/@vscode/diff/dist/wire.js,,,Y,Y,
+node_modules/@vscode/diff/dist/wire.js,,,Y,,
 node_modules/@vscode/diff/dist/worker.js,,,Y,Y,
 node_modules/@vscode/diff/package.json,,,Y,Y,
 node_modules/@vscode/fs-copyfile/SECURITY.md,,Y,Y,Y,Y
