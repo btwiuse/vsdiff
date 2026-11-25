@@ -297,7 +297,7 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Size4-Regular-PK
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-MJMFSK64.woff
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2
-extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js
+extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-VUBOXDDL.js
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js
 extensions/markdown-language-features/markdown-editor-out/chunk-PZVESA3C.js
 extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
@@ -310,6 +310,7 @@ extensions/markdown-language-features/markdown-editor-src/completionController.t
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts
 extensions/markdown-language-features/markdown-editor-src/diagnosticsController.ts
 extensions/markdown-language-features/markdown-editor-src/editor.ts
+extensions/markdown-language-features/markdown-editor-src/editorTextVersions.ts
 extensions/markdown-language-features/markdown-editor-src/imagePasteController.ts
 extensions/markdown-language-features/markdown-editor-src/languageFeatures.css
 extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts
@@ -2130,6 +2131,7 @@ out/media/loading.svg
 out/media/microsoft-dark.svg
 out/media/microsoft-light.svg
 out/media/opacity-background.png
+out/media/sessions-icon.svg
 out/media/sessions-logo-dark.svg
 out/media/sessions-logo-light.svg
 out/media/vscode-icon.svg

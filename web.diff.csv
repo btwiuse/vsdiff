@@ -1,4 +1,4 @@
-File,codigo_web_1.100.0.26254.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.147.0.txt,vscode_web_1.148.0-insider.txt
+File,codigo_web_1.100.0.26254.txt,vscode_web_1.140.0-exploration.txt,vscode_web_1.147.0.txt,vscode_web_1.149.0-insider.txt
 LICENSE,,Y,Y,Y
 code-192.png,,Y,Y,Y
 code-512.png,,Y,Y,Y
@@ -301,7 +301,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Size4-Regular-PK
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-3F5K6SQ6.ttf,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-MJMFSK64.woff,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2,,Y,Y,Y
-extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js,,,Y,Y
+extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js,,,Y,
+extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-VUBOXDDL.js,,,,Y
 extensions/markdown-language-features/markdown-editor-out/abnfDiagram-VCTEODGH-MFZBS7QV.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/architecture-7GRP2DOG-KMESPJ5A.js,,Y,,
 extensions/markdown-language-features/markdown-editor-out/architectureDiagram-5GKGNRK7-MTTZPDNG.js,,Y,,
@@ -421,6 +422,7 @@ extensions/markdown-language-features/markdown-editor-src/completionController.t
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/diagnosticsController.ts,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-src/editorTextVersions.ts,,,,Y
 extensions/markdown-language-features/markdown-editor-src/imagePasteController.ts,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/languageFeatures.css,,,Y,Y
 extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,Y,Y,Y
@@ -2578,6 +2580,7 @@ out/media/loading.svg,,Y,Y,Y
 out/media/microsoft-dark.svg,,Y,Y,Y
 out/media/microsoft-light.svg,,Y,Y,Y
 out/media/opacity-background.png,,Y,Y,Y
+out/media/sessions-icon.svg,,,,Y
 out/media/sessions-logo-dark.svg,,Y,Y,Y
 out/media/sessions-logo-light.svg,,Y,Y,Y
 out/media/vscode-icon.svg,,Y,Y,Y

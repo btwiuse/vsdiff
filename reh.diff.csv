@@ -1,4 +1,4 @@
-File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.140.0-exploration.txt,vscode_reh_1.147.0.txt,vscode_reh_1.148.0-insider.txt,vscodium_reh_1.143.17232.txt
+File,codigo_reh_1.100.0.26254.txt,vscode_reh_1.140.0-exploration.txt,vscode_reh_1.147.0.txt,vscode_reh_1.149.0-insider.txt,vscodium_reh_1.143.17232.txt
 LICENSE,,Y,Y,Y,
 bin/code-server,,,Y,,
 bin/code-server-exploration,,Y,,,
@@ -338,7 +338,8 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-MJMFSK64.woff,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2,,Y,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-73HA27BC.js,,,,,Y
-extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js,,,Y,Y,
+extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js,,,Y,,
+extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-VUBOXDDL.js,,,,Y,
 extensions/markdown-language-features/markdown-editor-out/abnfDiagram-VCTEODGH-AAIYXPPE.js,,,,,Y
 extensions/markdown-language-features/markdown-editor-out/abnfDiagram-VCTEODGH-MFZBS7QV.js,,Y,,,
 extensions/markdown-language-features/markdown-editor-out/architecture-7GRP2DOG-KMESPJ5A.js,,Y,,,Y
@@ -518,6 +519,7 @@ extensions/markdown-language-features/markdown-editor-src/completionController.t
 extensions/markdown-language-features/markdown-editor-src/diagnosticHover.ts,,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/diagnosticsController.ts,,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/editor.ts,,Y,Y,Y,Y
+extensions/markdown-language-features/markdown-editor-src/editorTextVersions.ts,,,,Y,
 extensions/markdown-language-features/markdown-editor-src/imagePasteController.ts,,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/languageFeatures.css,,,Y,Y,Y
 extensions/markdown-language-features/markdown-editor-src/linkPresentationProvider.ts,,Y,Y,Y,Y
