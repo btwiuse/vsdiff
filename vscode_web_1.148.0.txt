@@ -299,11 +299,11 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2
 extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-ELPDGGUV.js
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js
-extensions/markdown-language-features/markdown-editor-out/chunk-XWFVVLTR.js
+extensions/markdown-language-features/markdown-editor-out/chunk-PZVESA3C.js
 extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-VMU2SW64.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-6AKHSM3H.js
 extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts
 extensions/markdown-language-features/markdown-editor-src/completionController.ts
@@ -1891,10 +1891,9 @@ node_modules/@vscode/codicons/src/template/styles.hbs
 node_modules/@vscode/codicons/svgo.config.js
 node_modules/@vscode/diff/dist/api.js
 node_modules/@vscode/diff/dist/core.js
-node_modules/@vscode/diff/dist/defaultLinesDiffComputer.js
-node_modules/@vscode/diff/dist/diff_wasm_bg-DWjDLHxS.wasm
+node_modules/@vscode/diff/dist/diff_wasm_bg-DOQYEGe4.wasm
+node_modules/@vscode/diff/dist/flatDiffResult.js
 node_modules/@vscode/diff/dist/index.js
-node_modules/@vscode/diff/dist/wire.js
 node_modules/@vscode/diff/dist/worker.js
 node_modules/@vscode/iconv-lite-umd/lib/iconv-lite-umd.js
 node_modules/@vscode/tree-sitter-wasm/wasm/tree-sitter-bash.wasm
