@@ -1866,6 +1866,7 @@ node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/host.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/index.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/index.js
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/installationConfirmation.d.ts
+node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/jsonValue.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/jsonrpcTypes.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/localModelJson.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/optionsCompatibility.d.ts
@@ -1876,6 +1877,7 @@ node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/schema.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/sdkProtocolVersion.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/session.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/sessionFsProvider.d.ts
+node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/settingsJson.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/taskAnalyticsJson.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/telemetry.d.ts
 node_modules/@microsoft/copilot-sdk-linux-x64/copilot-sdk/toolSet.d.ts
@@ -1898,6 +1900,24 @@ node_modules/@microsoft/copilot-sdk-linux-x64/definitions/sidekick/test-sidekick
 node_modules/@microsoft/copilot-sdk-linux-x64/definitions/sidekick/test-sidekick-trigger-once.yaml
 node_modules/@microsoft/copilot-sdk-linux-x64/definitions/task.agent.yaml
 node_modules/@microsoft/copilot-sdk-linux-x64/package.json
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/chunks/chunk-7NQ54O6N.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/chunks/chunk-HT3H7ECD.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/chunks/chunk-O3N3VFL2.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/chunks/run-XGMNOWGP.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/chunks/sessionHost-2KCAURBX.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/extension.json
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/extension.mjs
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/agent.system-darwin.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/agent.system.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/agent.user.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_matcher.system.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_matcher.user.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_refiner.system.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_refiner.user.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_seeder.system.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/prompts/idea_seeder.user.md.j2
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/extensions/autoimprove/workflow-agents/autoimprove-source-data-only.md
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/autoimprove/plugin.json
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/README.md
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/channel.json
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/dist/browser-mcp.cjs
@@ -1906,6 +1926,7 @@ node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/dist/native-ho
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/hooks/hooks.json
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/activate.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/browserPrerequisites.d.mts
+node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/browserSessionHook.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/deactivate.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/doctor.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/scripts/nativeMessagingRegistration.mjs
@@ -1914,15 +1935,15 @@ node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/skills/browser
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/skills/browser-use/SKILL.md
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/skills/deactivate/SKILL.md
 node_modules/@microsoft/copilot-sdk-linux-x64/plugins/browser-use/skills/doctor/SKILL.md
-node_modules/@microsoft/copilot-sdk-linux-x64/prebuilds/linux-x64/QuickJS.LICENSE.txt
+node_modules/@microsoft/copilot-sdk-linux-x64/prebuilds/linux-x64/Unicode.LICENSE.txt
 node_modules/@microsoft/copilot-sdk-linux-x64/prebuilds/linux-x64/copilot-runtime
-node_modules/@microsoft/copilot-sdk-linux-x64/prebuilds/linux-x64/rquickjs.LICENSE.txt
 node_modules/@microsoft/copilot-sdk-linux-x64/prebuilds/linux-x64/runtime.node
 node_modules/@microsoft/copilot-sdk-linux-x64/preloads/extension_bootstrap.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/preloads/extension_sdk_resolver.mjs
 node_modules/@microsoft/copilot-sdk-linux-x64/restart-supervisor.js
 node_modules/@microsoft/copilot-sdk-linux-x64/ripgrep/bin/linux-x64/rg
 node_modules/@microsoft/copilot-sdk-linux-x64/schemas/api.schema.json
+node_modules/@microsoft/copilot-sdk-linux-x64/schemas/extension-manifest.schema.json
 node_modules/@microsoft/copilot-sdk-linux-x64/schemas/lifecycle-diagnostics.schema.json
 node_modules/@microsoft/copilot-sdk-linux-x64/schemas/session-events.schema.json
 node_modules/@microsoft/copilot-sdk-linux-x64/tgrep/bin/linux-x64/tgrep
@@ -1942,6 +1963,7 @@ node_modules/@microsoft/copilot-sdk/dist/cjs/generated/session-events.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/host.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/index.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/installationConfirmation.js
+node_modules/@microsoft/copilot-sdk/dist/cjs/jsonValue.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/jsonrpcTypes.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/localModelJson.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/optionsCompatibility.js
@@ -1953,6 +1975,7 @@ node_modules/@microsoft/copilot-sdk/dist/cjs/schema.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/sdkProtocolVersion.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/session.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/sessionFsProvider.js
+node_modules/@microsoft/copilot-sdk/dist/cjs/settingsJson.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/taskAnalyticsJson.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/telemetry.js
 node_modules/@microsoft/copilot-sdk/dist/cjs/toolSet.js
@@ -1963,6 +1986,7 @@ node_modules/@microsoft/copilot-sdk/dist/client.js
 node_modules/@microsoft/copilot-sdk/dist/copilotRequestHandler.js
 node_modules/@microsoft/copilot-sdk/dist/decisions.js
 node_modules/@microsoft/copilot-sdk/dist/entra.js
+node_modules/@microsoft/copilot-sdk/dist/extension-manifest.schema.json
 node_modules/@microsoft/copilot-sdk/dist/extension.js
 node_modules/@microsoft/copilot-sdk/dist/ffiRuntimeHost.js
 node_modules/@microsoft/copilot-sdk/dist/generated/lifecycle-diagnostics.js
@@ -1972,6 +1996,7 @@ node_modules/@microsoft/copilot-sdk/dist/generated/session-events.js
 node_modules/@microsoft/copilot-sdk/dist/host.js
 node_modules/@microsoft/copilot-sdk/dist/index.js
 node_modules/@microsoft/copilot-sdk/dist/installationConfirmation.js
+node_modules/@microsoft/copilot-sdk/dist/jsonValue.js
 node_modules/@microsoft/copilot-sdk/dist/jsonrpcTypes.js
 node_modules/@microsoft/copilot-sdk/dist/localModelJson.js
 node_modules/@microsoft/copilot-sdk/dist/optionsCompatibility.js
@@ -1982,6 +2007,7 @@ node_modules/@microsoft/copilot-sdk/dist/schema.js
 node_modules/@microsoft/copilot-sdk/dist/sdkProtocolVersion.js
 node_modules/@microsoft/copilot-sdk/dist/session.js
 node_modules/@microsoft/copilot-sdk/dist/sessionFsProvider.js
+node_modules/@microsoft/copilot-sdk/dist/settingsJson.js
 node_modules/@microsoft/copilot-sdk/dist/taskAnalyticsJson.js
 node_modules/@microsoft/copilot-sdk/dist/telemetry.js
 node_modules/@microsoft/copilot-sdk/dist/toolSet.js
