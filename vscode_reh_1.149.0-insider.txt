@@ -320,12 +320,12 @@ extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regul
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-MJMFSK64.woff
 extensions/markdown-language-features/markdown-editor-out/KaTeX_Typewriter-Regular-VBYJ4NRC.woff2
 extensions/markdown-language-features/markdown-editor-out/_empty-crypto-Bi0tGx5K-VUBOXDDL.js
+extensions/markdown-language-features/markdown-editor-out/chunk-7WMUO7QT.js
 extensions/markdown-language-features/markdown-editor-out/chunk-OOJM4CTU.js
-extensions/markdown-language-features/markdown-editor-out/chunk-PZVESA3C.js
 extensions/markdown-language-features/markdown-editor-out/codicon-R6HEZFPR.ttf
 extensions/markdown-language-features/markdown-editor-out/editor.css
 extensions/markdown-language-features/markdown-editor-out/editor.js
-extensions/markdown-language-features/markdown-editor-out/web-editors-6AKHSM3H.js
+extensions/markdown-language-features/markdown-editor-out/web-editors-FUS6FWPP.js
 extensions/markdown-language-features/markdown-editor-src/clipboardMedia.ts
 extensions/markdown-language-features/markdown-editor-src/codeBlockEditorTheme.ts
 extensions/markdown-language-features/markdown-editor-src/completionController.ts
